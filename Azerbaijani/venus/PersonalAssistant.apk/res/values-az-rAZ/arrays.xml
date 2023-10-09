@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Sağlamlıq kodu</item>
+        <item>PSR</item>
+        <item>Yüksək riskli ərazilər</item>
+    </string-array>
+    <string-array name="pa_day_time_space">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Bazar</item>
+        <item>Bazar ertəsi</item>
+        <item>Çərşənbə axşamı</item>
+        <item>Çərşənbə</item>
+        <item>Cümə axşamı</item>
+        <item>Cümə</item>
+        <item>Şənbə</item>
+        <item>Bazar</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Qırmızı- yuxarı, yaşıl- aşağı</item>
+        <item>Yaşıl- yuxarı, qırmızı- aşağı</item>
+    </string-array>
+</resources>

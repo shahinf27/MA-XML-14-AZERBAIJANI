@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
+    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
+    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
+    <string name="abc_capital_off">BAĞLI</string>
+    <string name="abc_capital_on">AÇIQ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Axtar…</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtar</string>
+    <string name="abc_searchview_description_submit">Sorğu göndər</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="add_alarm_text">Zəngli saat əlavə et</string>
+    <string name="add_notification_text">Bildiriş əlavə et</string>
+    <string name="add_ringtone_text">Zəng səsi əlavə et</string>
+    <string name="alarm_sound_default">İlkin zəngli saat səsi</string>
+    <string name="app_label">Səslər</string>
+    <string name="delete_ringtone_text">Sil</string>
+    <string name="notification_sound_default">İlkin bildiriş səsi</string>
+    <string name="ringtone_default">İlkin zəng səsi</string>
+    <string name="search_menu_title">Axtar</string>
+    <string name="unable_to_add_ringtone">Özəl zəng səsi əlavə edilə bilmir</string>
+    <string name="unable_to_delete_ringtone">Özəl zəng səsi silinə bilmir</string>
+</resources>

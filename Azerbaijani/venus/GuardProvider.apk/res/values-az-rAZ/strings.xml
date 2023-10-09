@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIUI güvənlik komponentləri</string>
+    <string name="avast_dialog_header">"Bu özəllik, cihazınızın kimliyini şifrələyir və Avast serverlərinə yükləyir (%s)."</string>
+    <string name="avast_dialog_policy">Gizlilik Siyasəti</string>
+    <string name="avast_dialog_title">"Avast-ın Gizlilik Siyasəti"</string>
+    <string name="avast_virus_type_adware_description">Bu, reklam virusudur. Bu, avtomatik olaraq reklam göstərir.</string>
+    <string name="avast_virus_type_cryportor_description">Bu, şifrələyici virusudur. Anbar sahəsində özünü kopyalayaraq yoluxan zərərli bir proqramdır.</string>
+    <string name="avast_virus_type_dropper_description">Bu, dropper virusudur. Digər zərərli virusları yükləyən kodları daşıyır.</string>
+    <string name="avast_virus_type_exploit_description">Bu, istismar virusudur. Bu viruslar, təsadüfi və gözlənilməyən davranışlara səbəb olmaq üçün sisteminizdəki xətalardan və zəif nöqtələrdən faydalanır.</string>
+    <string name="avast_virus_type_heuristic_description">İnfeksiya, xüsusi bir evristik metod istifadə edərək müəyyən edilir. Xüsusi evristik təhlil, bunun bir virus olduğunu söyləyir.</string>
+    <string name="avast_virus_type_joke_description">Bu, zarafat virusudur. Bəzi zəhlətökən və ya yumoristik effektləri yaradır. Adətən digər viruslardan daha az zərərlidir.</string>
+    <string name="avast_virus_type_pup_description">"Bu, potensial arzuolunmaz proqram (PUP) virusudur. İstifadəçilərin proqramı endirməsinə razılıq verməsinə baxmayaraq, zərərli ola biləcək (casus proqramı, reklam proqramı və s.) proqramdır."</string>
+    <string name="avast_virus_type_rootkit_description">Bu, rootkit virusudur. Bu, əməliyyat sisteminin təhlükədə olduğunu gizlətmək üçün nəzərdə tutulmuş proqram təminatı növüdür. Sistemin dərinliklərində gizlənərək cihaz üzərində nəzarəti əldə etmək üçün istifadə olunur. Rootkit-lər, normal antivirusların diqqətindən kənarda qalan zəruri fayllar kimi gizlənərək virusların və zərərli proqramların \"göz önündə gizlənməsinə\" icazə verir.</string>
+    <string name="avast_virus_type_spyware_description">"Bu, casus proqram virusudur. İstifadəçinin məlumatı olmadan istifadəçi məlumatlarını onun internet bağlantısı üzərindən gizli şəkildə yığan proqramdır."</string>
+    <string name="avast_virus_type_suspicious_description">Geniş yayılmış bir şübhəli virus növü. Antivirus növü virusu təsnif etməyə çalışır.</string>
+    <string name="avast_virus_type_tool_description">Bu virus PUP oxşarı potensial zərərli vasitədir.</string>
+    <string name="avast_virus_type_trjan_description">"Bu, troyan virusudur. İstifadəçinin cihazına səlahiyyət olmadan uzaqdan müraciət təmin etmək üçün hazırlanmış zərərli bir proqramdır. Troyan, normalda viruslar kimi özlərini kopyalamaq bacarığına sahib deyildir. Ancaq, digər zərərli proqramların cihazınıza yüklənməsinə, verilənlərin oğurlanmasına və ya digər zərərli fəaliyyətlərə səbəb ola bilər."</string>
+    <string name="avast_virus_type_unknown_description">Bilinməyən infeksiya növü.</string>
+    <string name="avast_virus_type_worm_description">Bu, soxulcan virusudur. Digər cihazlara yayılmaq üçün özünü kopyalayan müstəqil bir zərərli proqramdır. Sisteminizin fayl və ya məlumat transferi özəlliklərindən faydalanaraq (məs. şəbəkə), heç bir istifadəçi əməliyyatı olmadan yayıla bilir. Soxulcanlar, demək olar ki, hər zaman şəbəkədə bəzi zərərlərə səbəb olurlar.</string>
+    <string name="avl_dialog_header">"Bu özəllik, cihazınızın kimliyini şifrələyir və AVL-in serverlərinə yükləyir (%s)."</string>
+    <string name="avl_dialog_policy">Gizlilik Siyasəti</string>
+    <string name="avl_dialog_title">"AVL-nin Gizlilik Siyasəti"</string>
+    <string name="common_ids_permission_label">Avast ortaq kimliklər icazəsi</string>
+    <string name="hello_world">Salam dünya!</string>
+    <string name="menu_settings">Tənzimləmələr</string>
+    <string name="tencent_dialog_cloudscan">Onlayn virus verilənlər bazasını istifadə edərək tətbiq adlarını və detallarını yükləyib skan edin.</string>
+    <string name="tencent_dialog_dbupdate">Virus verilənlər bazasını avto-güncəllə</string>
+    <string name="tencent_dialog_header">"Bu özəllik, cihazınızın kimliyini şifrələyir və Tencent-in serverlərinə yükləyir (%s)."</string>
+    <string name="tencent_dialog_policy">Gizlilik Siyasəti</string>
+    <string name="tencent_dialog_title">Tencent-in Gizlilik Siyasəti</string>
+</resources>

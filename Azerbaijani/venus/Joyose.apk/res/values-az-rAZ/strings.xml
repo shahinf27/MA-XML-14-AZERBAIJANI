@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Tənzimləmələr</string>
+    <string name="activity_title_fakecell">Saxta baza stansiyalarından qorunma</string>
+    <string name="app_name">Addım provayderi</string>
+    <string name="booster_config_version">"Hazırkı versiya: "</string>
+    <string name="cc_version">"Hazırkı versiya: "</string>
+    <string name="connect_wifi">Wi-Fi-a bağlanmadı</string>
+    <string name="detect_fakecell">Saxta baza stansiyalarından gələn SMS-ləri tanıyın</string>
+    <string name="end_title">Oyun bitdi</string>
+    <string name="forbidden_fakecell">"Saxta baza stansiyalarına bağlanmayın"</string>
+    <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyalarına bağlanmasının qarşısını alın</string>
+    <string name="foreground_text">Prioritet səviyyəsini yüksəltmək üçün önplan xidmətlərini istifadə edin</string>
+    <string name="foreground_title">Önplan xidmətləri</string>
+    <string name="hello_world">Salam dünya!</string>
+    <string name="lab_switch_server">Serverləri dəyişdir</string>
+    <string name="not_resurge_title">Yenidən başla</string>
+    <string name="not_support_forbidden_fakecell">"Cihazınız saxta baza stansiyalarından çip səviyyəli qorumanı dəstəkləmir."</string>
+    <string name="open_cta">Bu tətbiqin \"Güvənlik\" üzərindən internetə bağlanmasına icazə verin.</string>
+    <string name="permstep_description">Bu tətbiqin addım sayına müraciətinə icazə verin</string>
+    <string name="permstep_label">Addım sayına müraciət</string>
+    <string name="restart_details">Bu özəlliyi açmaq və ya bağlamaq üçün cihazınızı yenidən başlatmalısınız. İndi yenidən başladılsın?</string>
+    <string name="restart_later">Daha sonra</string>
+    <string name="restart_now">İndi yenidən başlat</string>
+    <string name="resurged_content">Getdik!</string>
+    <string name="resurged_title">Yenidən başlandı</string>
+    <string name="stop_sync">Avto-sinxronizasiya dayandırılsın?</string>
+    <string name="support_forbidden_fakecell">Qeyd: Saxta baza stansiyaları ilə bağlantını məhdudlaşdırmaq, zəif əhatə dairəsi olan ərazilərdə siqnalı azalda bilər.</string>
+    <string name="switch_international">Qlobal serverə keç</string>
+    <string name="switch_to_official">Rəsmi serverə keç</string>
+    <string name="switch_to_russia">Rusiya serverinə keç</string>
+    <string name="switch_to_staging">Hazırlıq serverinə keç</string>
+    <string name="unknown_error">Bilinməyən xəta</string>
+    <string name="update_success">Uğurla güncəlləndi</string>
+</resources>

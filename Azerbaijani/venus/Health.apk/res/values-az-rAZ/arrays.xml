@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Sağlamlıq</item>
+        <item>Məşqlər</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Təsvir</item>
+        <item>Marşrut</item>
+        <item>Kart</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Qaçış</item>
+        <item>Gəzinti</item>
+        <item>Velosiped sürmə</item>
+        <item>İplə tullanma</item>
+        <item>Məşq</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Ağlabatan</item>
+        <item>Uzun</item>
+        <item>Çox uzun</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Hərəkət etmək vaxtıdır!</item>
+        <item>Daha ətraflı</item>
+        <item>Bir az su için və gəzintiyə çıxın.</item>
+        <item>Daha ətraflı</item>
+        <item>Bir mərtəbəni pilləkənlə qalxın</item>
+        <item>Daha ətraflı</item>
+        <item>"Çox uzun oturmayın"</item>
+        <item>Daha ətraflı</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 saat</item>
+        <item>2 saat</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Tənzimlənmədi</item>
+        <item>Valideyn</item>
+        <item>Bacı</item>
+        <item>Qardaş</item>
+        <item>Həyat yoldaşı</item>
+        <item>Tərəfdaş</item>
+        <item>Dost</item>
+        <item>Həmkar</item>
+        <item>Sinif yoldaşı</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Tənzimlənmədi</item>
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" sm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Tənzimlənmədi</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Gün</item>
+        <item>Həftə</item>
+        <item>Ay</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>B.e., Çər, Cümə</item>
+        <item>Ç.a., C.a., Şən</item>
+        <item>Çər, Cüm, Baz</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Hər bazar ertəsi</item>
+        <item>Hər çərşənbə axşamı</item>
+        <item>Hər çərşənbə</item>
+        <item>Hər cümə axşamı</item>
+        <item>Hər cümə</item>
+        <item>Hər şənbə</item>
+        <item>Hər bazar</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Tənzimlənmədi</item>
+        <item>Mənfi</item>
+        <item>Müsbət</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Məhdudiyyət yoxdur</item>
+        <item>Arxaplan fəaliyyətini məhdudlaşdır</item>
+        <item>10 dəqiqə sonra dayandır</item>
+        <item>Heç vaxt</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/sa"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Oturmağın sağlamlığınıza heç bir faydası yoxdur. Oturmağa sərf etdiyiniz vaxtı azalda bilməsəniz belə, arada bir ayağa qalxmaq yaxşı fikirdir."</item>
+        <item>Bu özəllik, sizə hər saatın ən az 1 dəqiqəsini ayaqüstə keçirməyinizi xatırladacaq. Hər gün 12 saat ayaqda durma fasilələri, oturaq həyatın risklərindən qaçmağınıza kömək edəcək.</item>
+        <item>Daha ətraflı öyrənmək və bu özəlliyi işə salmaq üçün \"Davam et\"ə toxunun.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health, ayaqda olduğunuzu aşkarlayıb qeyd edə bilir. Həmçinin 1 saatlıq hərəkətsizlikdən sonra ayağa qalxmağınız üçün xatırlatmalar ala bilərsiniz.</item>
+        <item>Bu özəllik, hərəkətinizi izləyir və nəticələrə görə xatırlatmalar göndərir.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Bazar</item>
+        <item>Bazar ertəsi</item>
+        <item>Çərşənbə axşamı</item>
+        <item>Çərşənbə</item>
+        <item>Cümə axşamı</item>
+        <item>Cümə</item>
+        <item>Şənbə</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Baz</item>
+        <item>B.e.</item>
+        <item>Ç.a.</item>
+        <item>Çər</item>
+        <item>C.a.</item>
+        <item>Cüm</item>
+        <item>Şәn</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Baz</item>
+        <item>B.e.</item>
+        <item>Ç.a.</item>
+        <item>Çər</item>
+        <item>C.a.</item>
+        <item>Cüm</item>
+        <item>Şәn</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" q"</item>
+        <item>" kq"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" funt"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Tənzimlənmədi</item>
+        <item>Bəli</item>
+        <item>Xeyr</item>
+    </string-array>
+</resources>
