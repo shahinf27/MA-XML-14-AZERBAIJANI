@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>Yaxşı</item>
+        <item>Mülayim</item>
+        <item>Həssas qruplar üçün qeyri-sağlamdır</item>
+        <item>Qeyri-sağlam</item>
+        <item>Çox qeyri-sağlam</item>
+        <item>Zərərli</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Yaxşı</item>
+        <item>Qənaətbəxş</item>
+        <item>Mülayim çirkli</item>
+        <item>Pis</item>
+        <item>Çox pis</item>
+        <item>Sərt</item>
+        <item>İndeksin üzərində</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>Pekin</item>
+        <item>Şanxay</item>
+        <item>Honkonq</item>
+        <item>Taypey</item>
+        <item>Cakarta</item>
+        <item>Delhi</item>
+        <item>Mumbay</item>
+        <item>Moskva</item>
+        <item>Çennai</item>
+        <item>İstanbul</item>
+        <item>Rio-de-Janeyro</item>
+        <item>Sinqapur</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>Nyu York</item>
+        <item>Los-Anceles</item>
+        <item>Çikaqo</item>
+        <item>Tokio</item>
+        <item>Paris</item>
+        <item>Banqkok</item>
+        <item>Seul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Şiddətli</item>
+        <item>Mülayim</item>
+        <item>Yüngül</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Təmiz</item>
+        <item>Buludlu</item>
+        <item>Tutqun</item>
+        <item>Dumanlı</item>
+        <item>Şiddətli yağış fırtınası</item>
+        <item>Leysan</item>
+        <item>Yağış fırtınası</item>
+        <item>Tufan</item>
+        <item>Yağışlı</item>
+        <item>Şiddətli yağıntı</item>
+        <item>Mülayim yağışlı</item>
+        <item>Yüngül yağışlı</item>
+        <item>Qarla qarışıq yağış</item>
+        <item>Çovğun</item>
+        <item>Qar</item>
+        <item>Şiddətli qar</item>
+        <item>Mülayim qarlı</item>
+        <item>Yüngül qarlı</item>
+        <item>Güclü qum fırtınası</item>
+        <item>Qum fırtınası</item>
+        <item>Qum</item>
+        <item>Küləkli</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Donmuş yağış</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Şimal</item>
+        <item>Şimal-şərq</item>
+        <item>Şərq</item>
+        <item>Cənub-şərq</item>
+        <item>Cənub</item>
+        <item>Cənub-qərb</item>
+        <item>Qərb</item>
+        <item>Şimal-qərb</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>Şm</item>
+        <item>Şm-Şə</item>
+        <item>Şə</item>
+        <item>Cə-Şə</item>
+        <item>Cə</item>
+        <item>Cə-Qə</item>
+        <item>Qə</item>
+        <item>Şm-Qə</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Bofort şkalası</item>
+        <item>Kilometr/saat (km/s)</item>
+        <item>Metr/saniyə (m/s)</item>
+        <item>Mil/saat (mil/s)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>%1$s. güc</item>
+        <item>%1$s km/s</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mil/s</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

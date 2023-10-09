@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Cəmi %d mahnı</item>
+        <item quantity="one">Cəmi %d mahnı</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Albom üzü və mahnı sözləri axtarılır (%1$d/%2$d)</item>
+        <item quantity="one">Albom üzü və mahnı sözləri axtarılır (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Mahnılar nüsxələnir, %1$d mahnı qaldı (%2$.1fMB)</item>
+        <item quantity="one">Mahnılar nüsxələnir, %1$d mahnı qaldı (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"Müəllif hüququ sahibinin tələbi ilə, %d mahnı ödənişsiz endirilə bilməz. Bu mahnılar endirilənlərə əlavə edildi."</item>
+        <item quantity="one">"Müəllif hüququ sahibinin tələbi ilə, %d mahnı ödənişsiz endirilə bilməz. Bu mahnı endirilənlərə əlavə edildi."</item>
+    </plurals>
+    <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d mahnı)</item>
+        <item quantity="one">(%d mahnı)</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Pleyer %d dəqiqə ərzində dayanacaq</item>
+        <item quantity="one">Pleyer %d dəqiqə ərzində dayanacaq</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d dəqiqə qaldı</item>
+        <item quantity="one">%d dəqiqə qaldı</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Özəl: %d dəqiqə qaldı</item>
+        <item quantity="one">Özəl: %d dəqiqə qaldı</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">%1$s üzərində yaradıldı | cəmi %2$d mahnı</item>
+        <item quantity="one">%1$s üzərində yaradıldı | cəmi %2$d mahnı</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d mahnı buluda nüsxələnmədi. İndi dayandırılsın?"</item>
+        <item quantity="one">"%d mahnı buluda nüsxələnmədi. İndi dayandırılsın?"</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d mahnı oynatma siyahısına əlavə edildi</item>
+        <item quantity="one">%d mahnı oynatma siyahısına əlavə edildi</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d mahnı</item>
+        <item quantity="one">%d mahnı</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d mahnı oynatma siyahısından silindi</item>
+        <item quantity="one">%d mahnı oynatma siyahısından silindi</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d oxşar mahnı</item>
+        <item quantity="one">%d oxşar mahnı</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d mahnı nüsxələnmədi (%2$.1f MB)"</item>
+        <item quantity="one">"%1$d mahnı nüsxələnmədi (%2$.1f MB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">%1$d mahnını nüsxələ (%2$.1f MB)</item>
+        <item quantity="one">%1$d mahnını nüsxələ (%2$.1f MB)</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">1 dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">1 dəq əvvəl</item>
+    </plurals>
+    <plurals name="chapter_count">
+        <item quantity="other">" (%1$d epizod)"</item>
+        <item quantity="one">" (%1$d epizod)"</item>
+    </plurals>
+    <plurals name="check_in_day_label">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d rəy</item>
+        <item quantity="one">%d rəy</item>
+    </plurals>
+    <plurals name="comment_input_length_invalid">
+        <item quantity="other">%1$d simvola qədər daxil edə bilərsiniz.</item>
+        <item quantity="one">%1$d simvola qədər daxil edə bilərsiniz.</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d element silinsin?</item>
+        <item quantity="one">%d element silinsin?</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">%d element indi silinsin?</item>
+        <item quantity="one">%d element indi silinsin?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">%d səs silinsin?</item>
+        <item quantity="one">%d səs silinsin?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">%d mahnı Xiaomi Cloud-dan silinsin? Yerli pleylistlərdən də silinəcək.</item>
+        <item quantity="one">%d mahnı Xiaomi Cloud-dan silinsin? Yerli pleylistlərdən də silinəcək.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirildi</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirildi</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d endirmə silindi</item>
+        <item quantity="one">%d endirmə silindi</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirilir</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirilir</item>
+    </plurals>
+    <plurals name="fm_download_fm_count">
+        <item quantity="other">%1$d epizod endirildi</item>
+        <item quantity="one">%1$d epizod endirildi</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat əvvəl</item>
+        <item quantity="one">%1$d saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d dəqiqə əvvəl</item>
+        <item quantity="one">%1$d dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d mahnı endirilir</item>
+        <item quantity="one">%1$d mahnı endirilir</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"%1$d səs endirilə bilmədi"</item>
+        <item quantity="one">"%1$d səs endirilə bilmədi"</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d səs</item>
+        <item quantity="one">%1$d səs</item>
+    </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d FM səsyazması</item>
+        <item quantity="one">%d FM səsyazması</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d izləyici</item>
+        <item quantity="one">%d izləyici</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d mahnı göndəriləcək</item>
+        <item quantity="one">%d mahnı göndəriləcək</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
+        <item quantity="one">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Mahnılar sevimlilərə əlavə edildi.</item>
+        <item quantity="one">Mahnı sevimlilərə əlavə edildi.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d mahnı</item>
+        <item quantity="one">%d mahnı</item>
+    </plurals>
+    <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Sizin üçün %1$d güncəlləmə:</item>
+        <item quantity="one">Sizin üçün %1$d güncəlləmə:</item>
+    </plurals>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$d stansiya skan edildi</item>
+        <item quantity="one">%1$d stansiya skan edildi</item>
+    </plurals>
+    <plurals name="total_chapter_count">
+        <item quantity="other">%1$d epizod</item>
+        <item quantity="one">%1$d epizod</item>
+    </plurals>
+</resources>

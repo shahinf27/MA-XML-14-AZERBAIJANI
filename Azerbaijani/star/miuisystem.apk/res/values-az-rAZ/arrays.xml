@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>şəbəkəyə müraciət</item>
+        <item>SMS oxu</item>
+        <item>SMS dəyişdir</item>
+        <item>SMS al</item>
+        <item>SMS göndər</item>
+        <item>telefon zəngi et</item>
+        <item>kontaktları oxu</item>
+        <item>kontaktları dəyişdir</item>
+        <item>zəng jurnalını oxu</item>
+        <item>zəng jurnalını dəyişdir</item>
+        <item>kameraya müraciət</item>
+        <item>yerləşməyə müraciət</item>
+    </string-array>
+</resources>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Yalnız ev</item>
+        <item>Avtomatik</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Şəbəkə ilkin tənzimləməsi</item>
+        <item>Nömrəni gizlət</item>
+        <item>Nömrəni göstər</item>
+    </string-array>
+    <string-array name="clir_values_default_only">
+        <item>İLKİN</item>
+    </string-array>
+    <string-array name="connect_disconnect_vibrate_entry_values_support_haptic2">
+        <item>100</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="country_support_esim">
+        <item>FR</item>
+        <item>GB</item>
+        <item>IT</item>
+        <item>ES</item>
+        <item>PT</item>
+        <item>DE</item>
+        <item>BE</item>
+        <item>NL</item>
+        <item>IE</item>
+        <item>LU</item>
+        <item>UA</item>
+        <item>PL</item>
+        <item>CZ</item>
+        <item>HU</item>
+        <item>GR</item>
+        <item>RO</item>
+        <item>SI</item>
+        <item>SK</item>
+        <item>AT</item>
+        <item>HR</item>
+        <item>MK</item>
+        <item>AL</item>
+        <item>RS</item>
+        <item>ME</item>
+        <item>RU</item>
+        <item>BY</item>
+        <item>UZ</item>
+        <item>KZ</item>
+        <item>SE</item>
+        <item>NO</item>
+        <item>FI</item>
+        <item>DK</item>
+        <item>EE</item>
+        <item>LT</item>
+        <item>LV</item>
+        <item>SA</item>
+        <item>ZA</item>
+        <item>CL</item>
+        <item>TH</item>
+        <item>MY</item>
+        <item>TW</item>
+        <item>JP</item>
+        <item>SG</item>
+        <item>BG</item>
+    </string-array>
+    <string-array name="hour_12_items">
+        <item>12</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="hour_24_items">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>13</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>İngiliscə</item>
+        <item>Fransızca</item>
+        <item>İspanca</item>
+        <item>Yaponca</item>
+        <item>Koreyaca</item>
+        <item>Çincə</item>
+        <item>İvritcə</item>
+    </string-array>
+    <string-array name="minute_items">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>38</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA tərcih edilən</item>
+        <item>Yalnız GSM</item>
+        <item>Yalnız WCDMA</item>
+        <item>GSM/WCDMA avtomatik</item>
+        <item>CDMA/EvDo avtomatik</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Yalnız EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Qlobal</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Yalnız TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Yalnız NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+</resources>

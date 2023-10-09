@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_position_action">
+        <item>Menyu düyməsi solda, Geri düyməsi sağda</item>
+        <item>Geri düyməsi solda, Menyu düyməsi sağda</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Son tətbiqləri göstər</item>
+        <item>Menyunu göstər</item>
+    </string-array>
+</resources>

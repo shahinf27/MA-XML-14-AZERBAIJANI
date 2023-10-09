@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLA Xidməti</string>
+    <string name="notification_summary">Wi-Fi %1$s\u0009\u0009Mobil şəbəkəsi %2$s</string>
+    <string name="notification_title">Wi-Fi şəbəkəsi yavaşdır və sürətləndirmək üçün mobli şəbəkə istifadə edilir.</string>
+</resources>

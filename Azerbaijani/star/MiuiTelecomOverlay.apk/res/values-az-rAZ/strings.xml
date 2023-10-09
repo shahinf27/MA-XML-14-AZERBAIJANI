@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_speakerphone_enabled">Dinamik açıqdır</string>
+    <string name="alert_place_outgoing_call_with_redirection">%1$s istifadə edərək zəngi yönləndir</string>
+    <string name="alert_place_unredirect_outgoing_call">Telefon nömrəmi istifadə edərək zəng et</string>
+    <string name="alert_redirect_outgoing_call_or_not">Bu zəngi necə edəcəyinizi seçin</string>
+    <string name="alert_redirect_outgoing_call_timeout">"Zəng %1$s tərəfindən edilə bilməz. Fərqli bir zəng yönləndirməyə istifadə etməyə çalışın və ya kömək üçün tərtibatçı ilə əlaqə saxlayın."</string>
+    <string name="blocked_numbers_butter_bar_title">Əngəlli siyahısı bağlıdır</string>
+    <string name="cant_call_due_to_no_supported_service">"Bu növ zəngləri dəstəkləyən zəng hesabları olmadığına görə zəng edilə bilmir."</string>
+    <string name="cant_call_due_to_ongoing_call">"%1$s zənginizə görə zəng edilə bilmir."</string>
+    <string name="cant_call_due_to_ongoing_calls">"Zəng edilə bilmir. Əvvəlcə %1$s zənginizi bitirin."</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">"Digər tətbiqdəki zəngə görə zəng edilə bilmir."</string>
+    <string name="change_default_call_screening_dialog_affirmative">İlkin olaraq tənzimlə</string>
+    <string name="change_default_call_screening_dialog_negative">İmtina</string>
+    <string name="change_default_call_screening_dialog_title">%s ilkin zəng görüntüləmə tətbiqi edilsin?</string>
+    <string name="change_default_call_screening_warning_message">%s, kontaktlarınızda olmayan zəng edənlər haqqında məlumatları görə biləcək və bu zəngləri əngəlləyə biləcək. Yalnız güvəndiyiniz tətbiqlər ilkin zəng görüntüləmə tətbiqi olaraq təyin edilməlidir.</string>
+    <string name="change_default_call_screening_warning_message_for_disable_old_app">%s, artıq zəngləri görüntüləyə bilməyəcək.</string>
+    <string name="change_default_dialer_dialog_affirmative">İlkin olaraq tənzimlə</string>
+    <string name="developer_title">Telekom tərtibatçı menyusu</string>
+    <string name="duplicate_video_call_not_allowed">"Daha çox zəng əlavə edilə bilmir"</string>
+    <string name="notification_channel_call_blocking">Zəng əngəlləmə</string>
+    <string name="outgoing_call_not_allowed_no_permission">"Bu tətbiq tələb olunan icazələri almadan zəng edə bilməz."</string>
+    <string name="phone_settings_call_blocking_txt">Zəng əngəlləmə</string>
+    <string name="phone_settings_number_not_in_contact_summary_txt">"Kontaktlarda qeyd olunmayan nömrələri əngəllə"</string>
+    <string name="phone_settings_number_not_in_contact_txt">Kontaktlarda olmayan nömrələr</string>
+    <string name="phone_settings_payphone_summary_txt">Ödənişli telefonlardan gələn zəngləri əngəllə</string>
+    <string name="phone_settings_payphone_txt">Ödənişli telefon</string>
+    <string name="phone_settings_private_num_summary_txt">"Nömrələri açıqlanmayan zəng edənləri əngəllə"</string>
+    <string name="phone_settings_private_num_txt">Şəxsi</string>
+    <string name="phone_settings_unknown_summary_txt">Bilinməyən zəng edənləri əngəllə</string>
+    <string name="phone_settings_unknown_txt">Bilinmir</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Zəng əngəlləmə bağlıdır</string>
+    <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Zəng əngəlləmə</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Fövqəladə vəziyyət nömrələrinin sizinlə əlaqə qurmasına icazə vermək üçün zəng əngəlləmə söndürüldü.</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">Fövqəladə vəziyyət zəngi edildi</string>
+    <string name="respond_via_sms_failure_format">"%s ünvanına mesaj göndərilə bilmədi."</string>
+    <string name="telecommAppLabel">Zəngləri idarə et</string>
+</resources>
