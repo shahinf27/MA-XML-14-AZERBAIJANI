@@ -12,4 +12,4 @@ Tərcümə statusu: ![az-AZ translation](https://img.shields.io/badge/az--AZ-100
 
 # Tərcümə üzrə əməkdaşlıq üçün: https://crowdin.com/project/miui-xiaomieu
 
-## Daha ətraflı məlumat üçün:  [@deivids84](https://github.com/deivids84) və ya [@tuxafgmur](https://github.com/Dhollmen)
+## Daha ətraflı məlumat üçün:  [@deivids84](https://github.com/deivids84) və ya [@shahinf27](https://github.com/shahinf27)
