@@ -5,16 +5,16 @@
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d AOD teması</item>
@@ -173,8 +173,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pay_mibi">
-        <item quantity="other">%1$s Mi Sikkə ödə</item>
-        <item quantity="one">%1$s Mi Sikkə ödə</item>
+        <item quantity="other">%1$s Mi Coin ödə</item>
+        <item quantity="one">%1$s Mi Coin ödə</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d rəy</item>
@@ -185,8 +185,8 @@
         <item quantity="one">%1$d element uğurla endirildi</item>
     </plurals>
     <plurals name="resource_mibi_per_set">
-        <item quantity="other">%1$s Mi Sikkə/dəst</item>
-        <item quantity="one">%1$s Mi Sikkə/dəst</item>
+        <item quantity="other">%1$s Mi Coin/dəst</item>
+        <item quantity="one">%1$s Mi Coin/dəst</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f xal</item>

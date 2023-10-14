@@ -24,42 +24,12 @@
         <item>2 gün</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>1 saat</item>
         <item>6 saat</item>
         <item>12 saat</item>
         <item>1 gün</item>
         <item>Maksimum</item>
-    </string-array>
-    <string-array name="message_sending_method">
-        <item>Təklif olunan mesajlaşma xidməti</item>
-        <item>SMS, MMS</item>
-        <item>RCS söhbət, RCS Fayl Transferi</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Həmişə</item>
-        <item>Yalnız səssiz rejimdə</item>
-        <item>Heç vaxt</item>
-    </string-array>
-    <string-array name="rcs_ft_fallback">
-        <item>Heç vaxt soruşma və həmişə SMS Link olaraq göndər</item>
-        <item>Heç vaxt soruşma və heç vaxt SMS Link olaraq göndərmə</item>
-        <item>Həmişə soruş</item>
-    </string-array>
-    <string-array name="rcs_message_fallback">
-        <item>Heç vaxt soruşma və həmişə SMS olaraq göndər</item>
-        <item>Heç vaxt soruşma və heç vaxt SMS olaraq göndərmə</item>
-        <item>Həmişə soruş</item>
-    </string-array>
-    <string-array name="rcs_picture_quality_setting">
-        <item>həmişə soruş</item>
-        <item>heç vaxt ölçüsünü dəyişdirmə</item>
-        <item>həmişə ilkin dəyər olaraq saxlanılan seçilmiş bir variantı yenidən ölçüləndir</item>
-    </string-array>
-    <string-array name="rcs_video_quality_setting">
-        <item>həmişə soruş</item>
-        <item>heç vaxt ölçüsünü dəyişdirmə</item>
-        <item>həmişə ilkin dəyər olaraq saxlanılan seçilmiş bir variantı yenidən ölçüləndir</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="config_udfps_enroll_stage_thresholds">
+    <item>0.25</item>
+    <item>0.5</item>
+    <item>0.75</item>
+    <item>0.875</item>
+  </string-array>
+  <string-array name="emailAddressTypes">
+    <item>Ev</item>
+    <item>İş</item>
+    <item>Digər</item>
+    <item>Özəl</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>Yenidən sına</item>
+    <item></item>
+    <item></item>
+    <item>Barmaq izi skanerini tamamilə örtün və təzyiq tətbiq edin</item>
+    <item></item>
+    <item>Barmaq izi skanerini tamamilə örtün və təzyiq tətbiq edin</item>
+    <item>Barmaq izi skanerini tamamilə örtün və təzyiq tətbiq edin</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Barmaq izi skanerini tamamilə örtün və təzyiq tətbiq edin</item>
+    <item>Barmaq izi skanerini tamamilə örtün və təzyiq tətbiq edin</item>
+    <item>"Çox sürətli! Barmaq izi tanına bilmədi"</item>
+    <item>Barmağınızı bir az hərəkət etdirib yenidən sınayın</item>
+    <item>Barmağınızı qaldırıb yenidən skanerə qoyun</item>
+    <item>Barmağınızı skanerdə bir az uzun saxlayın</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Barmağınızı yavaşca hərəkət etdirin</item>
+    <item>Barmaq izi əlavə edildi, fərqli bir barmaq istifadə edin</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Ev</item>
+    <item>İş</item>
+    <item>Digər</item>
+    <item>Özəl</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>mobil internet</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Ethernet</item>
+    <item>VPN</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>İş</item>
+    <item>Digər</item>
+    <item>Özəl</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Ev</item>
+    <item>Mobil</item>
+    <item>İş</item>
+    <item>İş Faksı</item>
+    <item>Ev Faksı</item>
+    <item>Peycer</item>
+    <item>Digər</item>
+    <item>Özəl</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Ev</item>
+    <item>İş</item>
+    <item>Digər</item>
+    <item>Özəl</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+    <item>Wi-Fi üzərindən zəng etmək və mesaj göndərmək üçün əvvəlcə operatorunuzdan bu xidməti qurmağını xahiş edin. Daha sonra Ayarlarda \"Wi-Fi zəng etmə\"ni işə salın. (Xəta kodu: %1$s)</item>
+  </string-array>
+  <string-array name="wfcOperatorErrorNotificationMessages">
+    <item>Operatorunuzla Wi-Fi zənginin qeydiyyat problemi: %1$s</item>
+  </string-array>
+</resources>

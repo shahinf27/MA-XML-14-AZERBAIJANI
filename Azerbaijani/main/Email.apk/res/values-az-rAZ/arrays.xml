@@ -38,8 +38,8 @@
         <item>Invalid login or password</item>
         <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
         <item>java.net.UnknownHostException: Unable to resolve host</item>
-        <item>müştəri sıradan çıxarıldı, zəhmət olmasa https://mail.sohu.com saytında statusu dəyişdirin</item>
-        <item>başlanğıc parolu yoxdur, müştəri parolu yaratmaq üçün zəhmət olmasa https://mail.sohu.com saytında giriş edin</item>
+        <item>müştəri sıradan çıxarıldı, lütfən https://mail.sohu.com saytında statusu dəyişdirin</item>
+        <item>başlanğıc parolu yoxdur, müştəri parolu yaratmaq üçün lütfən https://mail.sohu.com saytında giriş edin</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
         <item>发票</item>

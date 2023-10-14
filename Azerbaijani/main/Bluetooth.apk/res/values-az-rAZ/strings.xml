@@ -41,11 +41,11 @@
     <string name="aptx_notification_aptx_hd">Bu cihaz Qualcomm® aptX™ HD dəstəkləyir</string>
     <string name="aptx_notification_title">Bluetooth</string>
     <string name="auth_notif_message">%1$s üçün seans açarını yazın</string>
-    <string name="auth_notif_ticker">Obex kimlik təsdiqləmə tələbi</string>
+    <string name="auth_notif_ticker">Obex kimlik doğrulama tələbi</string>
     <string name="auth_notif_title">Seans açarı</string>
-    <string name="bluetooth_a2dp_sink_queue_name">İndi oxunur</string>
+    <string name="bluetooth_a2dp_sink_queue_name">İndi oxudulur</string>
     <string name="bluetooth_broadcast_status">Yayımda</string>
-    <string name="bluetooth_connected">Bluetooth səs bağlantısı quruldu</string>
+    <string name="bluetooth_connected">Bluetooth səs bağlantılıdır</string>
     <string name="bluetooth_disconnected">Bluetooth səs bağlantısı kəsildi</string>
     <string name="bluetooth_map_settings_app_icon">Tətbiq nişanı</string>
     <string name="bluetooth_map_settings_cancel">İmtina</string>
@@ -53,7 +53,7 @@
     <string name="bluetooth_map_settings_intro">Bluetooth vasitəsilə paylaşmaq istədiyiniz hesabları seçin. Bağlantı qurarkən yenə də hesablara müraciəti qəbul etməlisiniz.</string>
     <string name="bluetooth_map_settings_no_account_slots_left">Hesablar seçilə bilmir. 0 yuva qaldı</string>
     <string name="bluetooth_map_settings_save">Saxla</string>
-    <string name="bluetooth_map_settings_title">Bluetooth Mesaj Paylaşma tənzimləmələri</string>
+    <string name="bluetooth_map_settings_title">Bluetooth Mesaj Paylaşma Ayarları</string>
     <string name="bluetooth_opp_file_limit_exceeded">4 GB-dan böyük fayllar köçürülə bilməz</string>
     <string name="bluetooth_sap_notif_disconnect_button">Bağlantını kəs</string>
     <string name="bluetooth_sap_notif_disconnecting">Müştərinin bağlantısının kəsilməsi gözlənilir</string>
@@ -61,7 +61,7 @@
     <string name="bluetooth_sap_notif_message">Müştəri bağlantısı kəsilsin?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM müraciəti</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM müraciəti</string>
-    <string name="broadcast_notification_name">Yayım vəziyyəti</string>
+    <string name="broadcast_notification_name">Yayım statusu</string>
     <string name="bt_audio_share_notification_content">Seçimlərə baxmaq üçün toxunun</string>
     <string name="bt_audio_share_notification_title">Səs paylaşılır</string>
     <string name="bt_enable_cancel">İmtina</string>
@@ -83,10 +83,10 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="defaultname">Avtomobil dəsti</string>
-    <string name="deleteAll_record">Bütün səsyazmaları sil</string>
-    <string name="delete_record">Səsyazmanı sil</string>
+    <string name="deleteAll_record">Bütün yazıları sil</string>
+    <string name="delete_record">Yazını sil</string>
     <string name="download_cancel">Dayandır</string>
     <string name="download_fail_line1">Fayl alınmadı</string>
     <string name="download_fail_line2">Fayl: %1$s</string>
@@ -100,10 +100,10 @@
     <string name="download_succ_line5">Fayl alındı</string>
     <string name="download_succ_ok">Aç</string>
     <string name="download_success">%1$s alışı tamamlandı.</string>
-    <string name="download_title">Fayl transferi</string>
+    <string name="download_title">Fayl köçürmə</string>
     <string name="early_morning">Səhər</string>
     <string name="enabling_progress_content">Bluetooth açılır…</string>
-    <string name="enabling_progress_title">Zəhmət olmasa gözləyin…</string>
+    <string name="enabling_progress_title">Lütfən gözləyin…</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
@@ -138,7 +138,7 @@
     <string name="miui_transfer_inbound_title">Qəbul edilən</string>
     <string name="miui_transfer_outbound_title">Göndərilən</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -250,7 +250,7 @@
     <string name="status_canceled">Köçürmə, istifadəçi tərəfindən ləğv edildi.</string>
     <string name="status_connection_error">Bağlantı uğursuz oldu.</string>
     <string name="status_file_error">Anbar problemi.</string>
-    <string name="status_forbidden">Köçürmə, hədəf cihaz tərəfindən qadağan edilib.</string>
+    <string name="status_forbidden">Köçürmə, hədəf cihaz tərəfindən yasaqlandı.</string>
     <string name="status_no_sd_card_default">SD kart yoxdur. Köçürülən faylları saxlamaq üçün SD kartı daxil edin.</string>
     <string name="status_no_sd_card_nosdcard">USB anbar yoxdur.</string>
     <string name="status_not_accept">"Məzmun dəstəklənmir."</string>
@@ -263,16 +263,16 @@
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="switch_audio_device_bt_a2dp">Bluetooth (Media səsi)</string>
-    <string name="switch_audio_device_bt_a2dp_summary">Bağlantı qurulmuş cihazda media səsini oxut</string>
+    <string name="switch_audio_device_bt_a2dp_summary">Bağlantılı cihazda media səsini oxut</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (Zənglər)</string>
-    <string name="switch_audio_device_bt_hfp_summary">Bağlantı qurulmuş cihazda zəng səsini oxut. Bu özəllik əllə söndürülməlidir.</string>
+    <string name="switch_audio_device_bt_hfp_summary">Bağlantılı cihazda zəng səsini oxut. Bu özəllik əllə söndürülməlidir.</string>
     <string name="switch_audio_device_default">İlkin</string>
     <string name="switch_audio_device_default_summary">Hazırda istifadə edilən cihaz</string>
     <string name="switch_audio_device_hfp_hint">İlkin çıxışa geri qayıt</string>
     <string name="switch_audio_device_hfp_toast_hint">Yenidən bu cihazda səs oxutmağa başlamaq üçün ilkin səs çıxışını seçin.</string>
     <string name="switch_audio_device_phone">Bu cihaz</string>
-    <string name="switch_audio_device_phone_summary">Bu cihazda səs oxudun</string>
-    <string name="switch_audio_device_switch_hint">Bağlantı qurulmuş cihazlar haqqında bildirişləri Tənzimləmələr &gt; Bluetooth &gt; Əlavə tənzimləmələrdən söndürə bilərsiniz.</string>
+    <string name="switch_audio_device_phone_summary">Bu cihazda səs oxut</string>
+    <string name="switch_audio_device_switch_hint">Bağlantılı cihazlar haqqında bildirişləri Ayarlar &gt; Bluetooth &gt; \"Əlavə ayarlar\"da söndürə bilərsiniz.</string>
     <string name="switch_audio_dialog_title">Səs çıxışını seçin</string>
     <string name="switch_audio_notification_content">"Mövcud səs çıxış cihazı: "</string>
     <string name="switch_audio_notification_title">Cihaz bağlantısı</string>
@@ -319,7 +319,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="transfer_clear_dlg_msg">Bütün elementlər siyahıdan silinəcək.</string>
@@ -336,7 +336,7 @@
     <string name="unknown_file">Bilinməyən fayl</string>
     <string name="unknown_file_desc">"Bu fayl növünü açmaq üçün heç bir tətbiq yoxdur.
 "</string>
-    <string name="update_record">Səsyazmanı təsdiqlə</string>
+    <string name="update_record">Yazını təsdiqlə</string>
     <string name="upload_fail_cancel">Bağla</string>
     <string name="upload_fail_line1">"Fayl göndərilmədi: \"%1$s\"."</string>
     <string name="upload_fail_line1_2">Fayl: %1$s</string>

@@ -5,16 +5,16 @@
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Bu elementlər şəxsi alboma əlavə edilsin?</item>
@@ -121,8 +121,8 @@
         <item quantity="one">%d dəq ərzində davam edəcək</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Fotoların, videoların, kontaktların, qeydlərin və digər elementlərin buludla sinxronlaşdırılmasına %d dəqiqəlik fasilə verin.</item>
-        <item quantity="one">Fotoların, videoların, kontaktların, qeydlərin və digər elementlərin buludla sinxronlaşdırılmasına %d dəqiqəlik fasilə verin.</item>
+        <item quantity="other">Fotoların, videoların, kontaktların, notların və digər elementlərin buludla sinxr.sına %d dəqiqəlik fasilə verin.</item>
+        <item quantity="one">Fotoların, videoların, kontaktların, notların və digər elementlərin buludla sinxr.sına %d dəqiqəlik fasilə verin.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d foto və ya video | %2$s</item>
@@ -251,10 +251,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
-    </plurals>
-    <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d element</item>
-        <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d dəqiqə</item>
@@ -479,6 +475,10 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">"Paylaşıla bilmədi.%d foto hələ də emal olunur…"</item>
         <item quantity="one">"Paylaşıla bilmədi.%d foto hələ də emal olunur…"</item>
+    </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Göndərmək üçün maksimum %d element seçin</item>
+        <item quantity="one">Göndərmək üçün maksimum %d element seçin</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%1$s mənbəsindən %2$d video</item>

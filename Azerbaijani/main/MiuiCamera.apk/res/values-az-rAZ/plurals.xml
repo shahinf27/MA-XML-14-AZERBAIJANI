@@ -64,6 +64,10 @@
         <item quantity="other">&lt;Data&gt;Bu cihaz indi çox qızıb.&lt;br&gt;Tətbiq &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d san&lt;/b&gt;&lt;/font&gt; ərzində bağlanılacaq. Mövcud irəliləyiş avtomatik olaraq saxlanıldı.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Bu cihaz indi çox qızıb.&lt;br&gt;Tətbiq &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d san&lt;/b&gt;&lt;/font&gt; ərzində bağlanılacaq. Mövcud irəliləyiş avtomatik olaraq saxlanıldı.&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data&gt;\"İstifadə etdiyiniz Kamera versiyası cihazınızın modelinə uyğun gəlmir.&lt;br&gt;Tətbiq &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d san&lt;/b&gt;&lt;/font&gt; ərzində bağlanacaq. Kamera güncəlləmələrini silib yenidən sınayın.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"İstifadə etdiyiniz Kamera versiyası cihazınızın modelinə uyğun gəlmir.&lt;br&gt;Tətbiq &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d san&lt;/b&gt;&lt;/font&gt; ərzində bağlanacaq. Kamera güncəlləmələrini silib yenidən sınayın.\"&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d dəq</item>
         <item quantity="one">%1$d dəq</item>
@@ -109,8 +113,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Cihazınız həddindən çox qızıb. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
-        <item quantity="one">Cihazınız həddindən çox qızıb. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
+        <item quantity="other">Cihazınız aşırı isinib. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
+        <item quantity="one">Cihazınız aşırı isinib. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s dəq</item>

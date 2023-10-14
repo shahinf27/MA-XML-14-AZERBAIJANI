@@ -45,7 +45,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_call_setup_msg">Zəng davam edir…</string>
     <string name="default_close_channel_msg">Kanal bağlıdır</string>
     <string name="default_open_channel_msg">Kanal açılsın?</string>
@@ -94,7 +94,7 @@
     <string name="menu_end_session">Seansı bitir</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -192,7 +192,7 @@
     <string name="night">Axşam</string>
     <string name="no_sim_card_inserted">SIM Alət dəstini başlatmaq üçün SIM-i daxil edin.</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
@@ -205,12 +205,12 @@
     <string name="sim_type_sim_name">SIM Alət dəsti</string>
     <string name="sim_type_uim_name">UIM Alət dəsti</string>
     <string name="sim_type_usim_name">USIM Alət dəsti</string>
-    <string name="stk_app_state">Tətbiq vəziyyəti</string>
+    <string name="stk_app_state">Tətbiq statusu</string>
     <string name="stk_channel_name">Mobil xidmət mesajları</string>
     <string name="stk_dialog_accept">BƏLİ</string>
     <string name="stk_dialog_reject">XEYR</string>
     <string name="stk_dialog_title">SIM Alət dəsti</string>
-    <string name="stk_ic_remove_content">"Əsas ekran qısayolunu sildikdən sonra, hələ də Tənzimləmələr tətbiqi vasitəsilə USIM alət dəstini istifadə edə biləcəksiniz."</string>
+    <string name="stk_ic_remove_content">"Əsas ekran qısayolunu sildikdən sonra, hələ də Ayarlar tətbiqi vasitəsilə USIM alət dəstini istifadə edə biləcəksiniz."</string>
     <string name="stk_ic_remove_title">USIM alət dəsti Əsas ekrandan silisin?</string>
     <string name="stk_no_service">Xidmət mümkün deyil</string>
     <string name="sunday">Bazar</string>
@@ -259,7 +259,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

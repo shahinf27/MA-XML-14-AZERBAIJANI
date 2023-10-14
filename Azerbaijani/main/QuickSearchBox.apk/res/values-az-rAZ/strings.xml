@@ -19,9 +19,9 @@
     <string name="clear_shortcuts_disagree">"Qısayolları təmizləməyin"</string>
     <string name="clear_shortcuts_prompt">"Təzəlikcə seçilmiş axtarış təkliflərinin bütün qısayollarını təmizləmək istəyirsiniz?
 
-Brauzer tarixçənizi təmizləmək üçün Brauzer tənzimləmələrini istifadə edin."</string>
+Brauzer tarixçənizi təmizləmək üçün Brauzer ayarlarınızı istifadə edin."</string>
     <string name="clear_shortcuts_summary">Təzəlikcə seçilmiş axtarış təkliflərinin qısayollarını təmizlə</string>
-    <string name="common_setting">Ümumi tənzimləmələr</string>
+    <string name="common_setting">Ümumi ayarlar</string>
     <string name="connect_and_retry">İnternetlə bağlantı qurub yenidən sınayın</string>
     <string name="corpus_description_apps">Quraşdırılmış tətbiqlər</string>
     <string name="corpus_description_web">Əlfəcinlər</string>
@@ -48,23 +48,23 @@ Brauzer tarixçənizi təmizləmək üçün Brauzer tənzimləmələrini istifad
     <string name="hot_search">Məşhur</string>
     <string name="loading">Bir saniyə…</string>
     <string name="local_app">Tətbiqlər</string>
-    <string name="local_setting">Tənzimləmələr</string>
+    <string name="local_setting">Ayarlar</string>
     <string name="menu_help">Kömək</string>
-    <string name="menu_settings">Tənzimləmələrdə axtar</string>
+    <string name="menu_settings">Ayarlarda axtar</string>
     <string name="mina_name">Birbaşa tətbiqlər</string>
     <string name="network_unavailable">"Şəbəkə ilə bağlantı qurula bilmədi"</string>
     <string name="permission_prompt_detail">Film, kitab, musiqi və daha çoxunu axtarın.</string>
     <string name="permission_prompt_start">İcazə ver</string>
     <string name="permission_prompt_started_info">"Qlobal axtarışa icazə verdiniz"</string>
     <string name="permission_prompt_title">Daha çoxunu istəyirsiniz?</string>
-    <string name="pull_to_input">Axtarış sətrini göstərmək üçün aşağı çəkin</string>
+    <string name="pull_to_input">Axtarış çubuğunu üzə çıxarmaq üçün aşağı çəkin</string>
     <string name="recent_apps">Son tətbiqlər</string>
     <string name="recent_apps_filter">"İstifadə etmədiyiniz tətbiqləri gizlədin"</string>
     <string name="recent_close_content">"Bu özəllik indi söndürülsün?
-Bunu Tənzimləmələr &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsində dəyişdirə bilərsiniz"</string>
+Bunu Ayarlar &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsində dəyişdirə bilərsiniz"</string>
     <string name="recent_close_title">Özəlliyi söndür</string>
     <string name="recent_delete_content">"Bu tətbiqlər indi gizlədilsin?
-Bunu Tənzimləmələr &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsində dəyişdirə bilərsiniz"</string>
+Bunu Ayarlar &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsində dəyişdirə bilərsiniz"</string>
     <string name="recent_delete_negative">İmtina</string>
     <string name="recent_delete_positive">Oldu</string>
     <string name="recent_delete_title">Tətbiqləri gizlət</string>
@@ -73,7 +73,7 @@ Bunu Tənzimləmələr &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsin
     <string name="recent_filter_functions">Özəlliklər söndürüldü</string>
     <string name="recent_function">Özəlliklər</string>
     <string name="recently_shortcut_label">Son qısayollar</string>
-    <string name="release_to_input">Axtarış sətrini göstərmək üçün buraxın</string>
+    <string name="release_to_input">Axtarış çubuğunu üzə çıxarmaq üçün buraxın</string>
     <string name="remove_from_history">Bu elementi axtarış tarixçəsindən silmək istəyirsiniz?</string>
     <string name="remove_from_history_failed">"Element tarixçədən silinə bilmədi."</string>
     <string name="search_apps">Tətbiqləri axtar</string>
@@ -84,8 +84,8 @@ Bunu Tənzimləmələr &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsin
     <string name="search_in_app_store">Mi Tətbiq Mağazasında axtar</string>
     <string name="search_in_web">Vebdə axtar</string>
     <string name="search_keyword_quicksearchbox">Axtar</string>
-    <string name="search_path_quicksearchbox">Tənzimləmələr/Quraşdırılmış tətbiqlər/Axtar</string>
-    <string name="search_settings">Tənzimləmələrdə axtar</string>
+    <string name="search_path_quicksearchbox">Ayarlar/Quraşdırılmış tətbiqlər/Axtar</string>
+    <string name="search_settings">Ayarlarda axtar</string>
     <string name="search_sources">Axtarıla bilən elementlər</string>
     <string name="search_sources_summary">Telefonda nə axtaracağınızı seçin</string>
     <string name="search_suggestion">Təkliflər</string>
@@ -106,13 +106,13 @@ Bunu Tənzimləmələr &gt; Quraşdırılmış tətbiqlər &gt; Axtar bölməsin
     <string name="switch_email">Poçt</string>
     <string name="switch_file">Fayllar</string>
     <string name="switch_mms">Mesajlar</string>
-    <string name="switch_notes">Qeydlər</string>
+    <string name="switch_notes">Notlar</string>
     <string name="switch_online">Onlayn</string>
     <string name="switch_prompt_ignore">Yox say</string>
     <string name="switch_prompt_set">Seçimlərə bax</string>
     <string name="switch_prompt_title">"%s tapıla bilmir?"</string>
     <string name="switch_prompt_title_default">"Lazım olanı tapa bilmirsiniz?"</string>
-    <string name="switch_setting">Tənzimləmələr</string>
+    <string name="switch_setting">Ayarlar</string>
     <string name="system_search_category_title">Telefon</string>
     <string name="top_clicked">Çox istfdə olunan elementlər</string>
     <string name="update_check">Güncəlləmələri yoxla</string>

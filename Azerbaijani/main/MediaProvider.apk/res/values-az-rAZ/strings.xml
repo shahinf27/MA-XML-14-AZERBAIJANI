@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
+    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
+    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
+    <string name="abc_capital_off">BAĞLI</string>
+    <string name="abc_capital_on">AÇIQ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Axtar…</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtar</string>
+    <string name="abc_searchview_description_submit">Sorğu göndər</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="add">Əlavə et</string>
+    <string name="allow">İcazə ver</string>
+    <string name="app_label">Media anbar</string>
+    <string name="artist_label">Sənətçi</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
+    <string name="cache_clearing_dialog_text">%s, bəzi müvəqqəti faylları təmizləmək istəyir. Bu, batareya və mobil internet istifadəsinin artması ilə nəticələnə bilər.</string>
+    <string name="cache_clearing_dialog_title">Müvəqqəti tətbiq fayllarını təmizlə</string>
+    <string name="cache_clearing_in_progress_title">Müvəqqəti tətbiq faylları təmizlənir…</string>
+    <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
+    <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
+    <string name="chip_text">Çip mətni</string>
+    <string name="clear">Təmizlə</string>
+    <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
+    <string name="deny">Rədd et</string>
+    <string name="deselect">Seçmə</string>
+    <string name="deselected">Seçim ləğv edildi</string>
+    <string name="error_icon_content_description">Xəta</string>
+    <string name="exo_controls_cc_disabled_description">Altyazıları fəallaşdır</string>
+    <string name="exo_controls_cc_enabled_description">Altyazıları sıradan çıxart</string>
+    <string name="exo_controls_fastforward_description">İrəli çək</string>
+    <string name="exo_controls_fullscreen_enter_description">Tam ekrana keç</string>
+    <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
+    <string name="exo_controls_hide">Pleyer kontrollarını gizlət</string>
+    <string name="exo_controls_next_description">Növbəti</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
+    <string name="exo_controls_pause_description">Fasilə ver</string>
+    <string name="exo_controls_play_description">Oxut</string>
+    <string name="exo_controls_playback_speed">Sürət</string>
+    <string name="exo_controls_previous_description">Əvvəlki</string>
+    <string name="exo_controls_repeat_all_description">Hazırkı rejim: Hamısını təkrarla. Təkrarlama rejimini dəyişdir.</string>
+    <string name="exo_controls_repeat_off_description">Hazırkı rejim: Heç birini təkrarlama. Təkrarlama rejimini dəyişdir.</string>
+    <string name="exo_controls_repeat_one_description">Hazırkı rejim: Birini təkrarla. Təkrarlama rejimini dəyişdir.</string>
+    <string name="exo_controls_rewind_description">Geri çək</string>
+    <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
+    <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
+    <string name="exo_controls_shuffle_off_description">Qarışdırma rejimini fəallaşdır</string>
+    <string name="exo_controls_shuffle_on_description">Qarışdırma rejimini sıradan çıxart</string>
+    <string name="exo_controls_stop_description">Dayandır</string>
+    <string name="exo_controls_vr_description">VR rejimi</string>
+    <string name="exo_download_completed">Endirmə tamamlandı</string>
+    <string name="exo_download_description">Endir</string>
+    <string name="exo_download_downloading">Endirilir</string>
+    <string name="exo_download_failed">Endirmə uğursuz oldu</string>
+    <string name="exo_download_notification_channel_name">Endirilənlər</string>
+    <string name="exo_download_paused">Endirməyə fasilə verildi</string>
+    <string name="exo_download_paused_for_network">Şəbəkəni gözləyən endirmələr</string>
+    <string name="exo_download_paused_for_wifi">Wi-Fi gözləyən endirmələr</string>
+    <string name="exo_download_removing">Endirilənlər silinir</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_role_alternate">Alternativ</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Rəy</string>
+    <string name="exo_track_role_supplementary">Tamamlayıcı</string>
+    <string name="exo_track_selection_auto">Avto</string>
+    <string name="exo_track_selection_none">Yoxdur</string>
+    <string name="exo_track_selection_title_audio">Səs</string>
+    <string name="exo_track_selection_title_text">Mətn</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround səs</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround səs</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround səs</string>
+    <string name="exo_track_unknown">Bilinmir</string>
+    <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
+    <string name="grant_dialog_button_allow">İcazə ver</string>
+    <string name="grant_dialog_button_deny">Rədd et</string>
+    <string name="icon_content_description">Dialoq nişanı</string>
+    <string name="item_view_role_description">Vərəq</string>
+    <string name="material_clock_toggle_content_description">Gündüz və ya axşam seçin</string>
+    <string name="material_hour_selection">Saatı seçin</string>
+    <string name="material_hour_suffix">"Saat %1$s"</string>
+    <string name="material_minute_selection">Dəqiqə seçin</string>
+    <string name="material_minute_suffix">%1$s dəqiqə</string>
+    <string name="material_slider_range_end">Aralıq sonu,</string>
+    <string name="material_slider_range_start">Aralıq başlanğıcı,</string>
+    <string name="material_timepicker_am">GƏ</string>
+    <string name="material_timepicker_clock_mode_description">Vaxtı daxil etmək üçün saat rejiminə keçin.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dəqiqə</string>
+    <string name="material_timepicker_pm">GS</string>
+    <string name="material_timepicker_select_time">Vaxt seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
+    <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d ədəddən çox yeni bildiriş</string>
+    <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
+    <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
+    <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">Oldu</string>
+    <string name="mtrl_picker_date_header_title">Tarix seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
+    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Yararsız format.</string>
+    <string name="mtrl_picker_invalid_format_example">Nümunə: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">İstifadə: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Yararsız aralıq.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s ilinə get</string>
+    <string name="mtrl_picker_out_of_range">Aralıq xarici: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlanğıc tarixi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitmə tarixi</string>
+    <string name="mtrl_picker_range_header_title">Aralıq seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlanğıc tarixi – Bitmə tarixi</string>
+    <string name="mtrl_picker_save">Saxla</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarix</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitmə tarixi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlanğıc tarixi</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Təqvim giriş rejiminə keç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
+    <string name="mtrl_timepicker_confirm">Oldu</string>
+    <string name="not_selected">seçilmədi</string>
+    <string name="password_toggle_content_description">Parolu göstər</string>
+    <string name="permission_delete_image">{count, plural, one {}=1 {^1 üçün bu fotonu silmə icazəsi verilsin?} other {^1 üçün ^2 fotonu silmə icazəsi verilsin?} }</string>
+    <string name="permission_delete_video">{count, plural, one {}=1 {^1 üçün bu videonu silmə icazəsi verilsin?} other {^1 üçün ^2 videonu silmə icazəsi verilsin?} }</string>
+    <string name="permission_progress_trash_audio">{count, plural, one {}=1 {Səs faylı tullantı qutusuna daşınır…} other {^1 səs faylı tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_generic">{count, plural, one {}=1 {Element tullantı qutusuna daşınır…} other {^1 element tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_image">{count, plural, one {}=1 {Foto tullantı qutusuna daşınır…} other {^1 foto tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_video">{count, plural, one {}=1 {Video tullantı qutusuna daşınır…} other {^1 video tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_untrash_audio">{count, plural, one {}=1 {Səs faylı tullantı qutusundan daşınır…} other {^1 səs faylı tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_generic">{count, plural, one {}=1 {Element tullantı qutusundan daşınır…} other {^1 element tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_image">{count, plural, one {}=1 {Foto tullantı qutusundan daşınır…} other {^1 foto tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_video">{count, plural, one {}=1 {Video tullantı qutusundan daşınır…} other {^1 video tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_write_audio">{count, plural, one {}=1 {Səs faylı dəyişdirilir…} other {^1 səs faylı dəyişdirilir…} }</string>
+    <string name="permission_progress_write_generic">{count, plural, one {}=1 {Element dəyişdirilir…} other {^1 element dəyişdirilir…} }</string>
+    <string name="permission_progress_write_image">{count, plural, one {}=1 {Foto dəyişdirilir…} other {^1 foto dəyişdirilir…} }</string>
+    <string name="permission_progress_write_video">{count, plural, one {}=1 {Video dəyişdirilir…} other {^1 video dəyişdirilir…} }</string>
+    <string name="permission_required">Bu elementi dəyişdirmək və ya silmək üçün icazə tələb olunur.</string>
+    <string name="permission_required_action">Davam et</string>
+    <string name="permission_trash_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 səs faylını tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_generic">{count, plural, one {}=1 {^1 üçün bu elementi tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 elementi tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_image">{count, plural, one {}=1 {^1 üçün bu fotonu qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 fotonu tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_video">{count, plural, one {}=1 {^1 üçün bu videonu tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 videonu tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 səs faylını tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_generic">{count, plural, one {}=1 {^1 üçün bu elementi tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 elementi tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_image">{count, plural, one {}=1 {^1 üçün bu fotonu qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 fotonu tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_video">{count, plural, one {}=1 {^1 üçün bu videonu tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 videonu tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_write_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 səs faylını dəyişdirmə icazəsi verilsin?} }</string>
+    <string name="permission_write_generic">{count, plural, one {}=1 {^1 üçün bu elementi dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 elementi dəyişdirmə icazəsi verilsin?} }</string>
+    <string name="permission_write_image">{count, plural, one {}=1 {^1 üçün bu fotonu dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 fotonu dəyişdirmə icazəsi verilsin?} }</string>
+    <string name="permission_write_video">{count, plural, one {}=1 {^1 üçün bu videonu dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 videonu dəyişdirmə icazəsi verilsin?} }</string>
+    <string name="picker_add_button_multi_select">Əlavə et (^1)</string>
+    <string name="picker_album_item_count">{count, plural, one {}=1 {^1 element} other {^1 element} }</string>
+    <string name="picker_albums">Albomlar</string>
+    <string name="picker_albums_empty_message">Albom yoxdur</string>
+    <string name="picker_app_label">Foto seçici</string>
+    <string name="picker_category_camera">Kamera</string>
+    <string name="picker_category_downloads">Endirilənlər</string>
+    <string name="picker_category_favorites">Sevimlilər</string>
+    <string name="picker_category_screenshots">Ekran şəkilləri</string>
+    <string name="picker_cloud_sync">Bulud mediası artıq %1$s tərəfindən əlçatandır</string>
+    <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">%1$s, %2$s tarixində çəkildi</string>
+    <string name="picker_motion_photo">Hərəkətli Foto</string>
+    <string name="picker_motion_photo_text">Hərəkətli Foto</string>
+    <string name="picker_mute_video">Videonun səsini kəs</string>
+    <string name="picker_pause_video">Videoya fasilə ver</string>
+    <string name="picker_personal_profile">Şəxsiyə keç</string>
+    <string name="picker_photo">Foto</string>
+    <string name="picker_photos">Fotolar</string>
+    <string name="picker_photos_empty_message">Foto və ya video yoxdur</string>
+    <string name="picker_play_video">Videonu oxut</string>
+    <string name="picker_preview">Önbaxış</string>
+    <string name="picker_privacy_message">Bu tətbiq, yalnız seçdiyiniz fotolara müraciət edə bilər</string>
+    <string name="picker_profile_admin_msg_from_personal">Şəxsi bir tətbiqdən iş məlumatlarına müraciət etməyə icazə verilmir</string>
+    <string name="picker_profile_admin_msg_from_work">Bir iş tətbiqindən şəxsi məlumatlara müraciət etməyə icazə verilmir</string>
+    <string name="picker_profile_admin_title">Admininiz tərəfindən əngəlləndi</string>
+    <string name="picker_profile_work_paused_msg">İş fotolarını açmaq üçün, iş tətbiqlərinizi işə salıb yenidən sınayın</string>
+    <string name="picker_profile_work_paused_title">İş tətbiqlərinə fasilə verildi</string>
+    <string name="picker_unmute_video">Videonun səsini aç</string>
+    <string name="picker_video_item_content_desc">%1$s tarixində çəkilən, müddəti %2$s olan video</string>
+    <string name="picker_view_selected">Seçilənə bax</string>
+    <string name="picker_work_profile">İşə keç</string>
+    <string name="recent">Sonuncular</string>
+    <string name="root_audio">Səs</string>
+    <string name="root_documents">Sənədlər</string>
+    <string name="root_images">Şəkillər</string>
+    <string name="root_videos">Videolar</string>
+    <string name="search_menu_title">Axtar</string>
+    <string name="select">Seç</string>
+    <string name="select_up_to">{count, plural, one {}=1 {Ən çox ^1 element seçin} other {Ən çox ^1 element seçin} }</string>
+    <string name="selected">Seçildi</string>
+    <string name="storage_description">Yerli anbar</string>
+    <string name="transcode_cancel">İmtina</string>
+    <string name="transcode_denied">"%s, media faylları emal edə bilmir"</string>
+    <string name="transcode_processing">Media emal olunur…</string>
+    <string name="transcode_processing_cancelled">Media emalı ləğv edildi</string>
+    <string name="transcode_processing_error">Media emal xətası</string>
+    <string name="transcode_processing_started">Media emalı başladıldı</string>
+    <string name="transcode_processing_success">Media uğurla emal edildi</string>
+    <string name="transcode_wait">Gözləyin</string>
+    <string name="uid_label">Media</string>
+    <string name="unknown">Bilinmir</string>
+</resources>

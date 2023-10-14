@@ -5,16 +5,16 @@
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s saat %2$s"</item>
@@ -49,9 +49,9 @@
         <item quantity="one">Simvol aralığı artırıldı. Simvol aralığı %s.</item>
     </plurals>
     <plurals name="choose_long_gif_limit_toast_tip">
-        <item quantity="other">"Animasiyalar üçün oynatma müddəti %d saniyəni keçə bilməz.
+        <item quantity="other">"Animasiyalar üçün oxutma müddəti %d saniyəni aşa bilməz.
 Bu nöqtədə daha uzun animasiyalar dayandırılacaq."</item>
-        <item quantity="one">"Animasiyalar üçün oynatma müddəti %d saniyəni keçə bilməz.
+        <item quantity="one">"Animasiyalar üçün oxutma müddəti %d saniyəni aşa bilməz.
 Bu nöqtədə daha uzun animasiyalar dayandırılacaq."</item>
     </plurals>
     <plurals name="count_selected">

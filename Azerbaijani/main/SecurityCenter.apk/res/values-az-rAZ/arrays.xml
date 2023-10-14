@@ -124,12 +124,21 @@
     <string-array name="debug_open_intercept">
         <item>Bir kompüter istifadə edərək cihazınızdakı fayllara müraciət etmək və düzəliş etmək mümkün olacaq.</item>
         <item>Açıq icazəniz olmadan cihazınızda tətbiq quraşdırmasına icazə veriləcək.</item>
-        <item>"Ekran məzmununuzu uzaqdan izləyə və qeyd edə biləcəksiniz."</item>
+        <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
         <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Bəli</item>
         <item>Xeyr</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Ən aşağı</item>
@@ -171,11 +180,15 @@
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Hansı tətbiqləri nə qədər istifadə etdiyinizi öyrənərək maraqlarınız və davranışlarınızla bağlı məlumat yığın</item>
-        <item>Operatorunuzla əlaqəli və dil tənzimləmələrinə, eləcə də digər detallara müraciət edin</item>
+        <item>Operatorunuzla əlaqəli və dil ayarlarına, eləcə də digər detallara müraciət edin</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Təsdiqlənməyən üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>
+        <item>"Doğrulanmamış üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>
         <item>Bəzi üçüncü tərəf tətbiqlərdə şəxsi məlumatlarınızı riskə atan zərərli proqram ola bilər.</item>
+    </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>İlkin</item>
+        <item>Hamısı</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Daxili anbar</item>
@@ -192,14 +205,14 @@
     </string-array>
     <string-array name="sort_title_new">
         <item>Tətbiq adına görə sırala</item>
-        <item>İstifadə tezliyinə görə sırala</item>
-        <item>İstifadə sahəsinə görə sırala</item>
+        <item>Ən son istfdə edlnlərə görə sırala</item>
+        <item>İstfd. etdy. anbar sahəsinə görə sırala</item>
         <item>Quraşdırma vaxtına görə sırala</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Tətbiq adı</item>
-        <item>İstifadə tezliyi</item>
-        <item>İstifadə olunan sahə</item>
+        <item>Təzəlikcə istifadə edilən</item>
+        <item>İstifadə edilən anbar sahəsi</item>
         <item>Quraşdırma vaxtı</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

@@ -121,8 +121,8 @@
         <item quantity="one">%1$d günə qədər daxil edə bilərsiniz</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">%d xatırlayıcı tənzimlənə bilər</item>
-        <item quantity="one">%d xatırlayıcı tənzimlənə bilər</item>
+        <item quantity="other">%d xatırlayıcı ayarlana bilər</item>
+        <item quantity="one">%d xatırlayıcı ayarlana bilər</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

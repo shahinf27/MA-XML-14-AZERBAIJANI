@@ -30,6 +30,10 @@
     <item>Yalnız bu tədbir</item>
     <item>Seriyadakı bütün tədbirlər</item>
   </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Bir dəfə söndür</item>
+    <item>Həmişə bağlı</item>
+  </string-array>
   <string-array name="date_calculate_spinner">
     <item>İrəli</item>
     <item>Geri</item>
@@ -78,6 +82,10 @@
     <item>tərəzi</item>
     <item>Tərəzi</item>
     <item>23/9 - 23/10</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Bir dəfə işə sal</item>
+    <item>Həmişə açıq</item>
   </string-array>
   <string-array name="panchang_weeks">
     <item>Bazar</item>
@@ -273,7 +281,7 @@
     <item>Manaus</item>
     <item>Santyaqo</item>
     <item>Nyufaundlend</item>
-    <item>Brazilia</item>
+    <item>Braziliya</item>
     <item>Buenos Ayres</item>
     <item>Qrenlandiya</item>
     <item>Montevideo</item>
@@ -339,6 +347,94 @@
     <item>Fici</item>
     <item>Tonqa</item>
   </string-array>
+  <string-array name="timezone_values">
+    <item>Pacific/Majuro</item>
+    <item>Pacific/Midway</item>
+    <item>Pacific/Honolulu</item>
+    <item>America/Anchorage</item>
+    <item>America/Los_Angeles</item>
+    <item>America/Tijuana</item>
+    <item>America/Phoenix</item>
+    <item>America/Chihuahua</item>
+    <item>America/Denver</item>
+    <item>America/Costa_Rica</item>
+    <item>America/Chicago</item>
+    <item>America/Mexico_City</item>
+    <item>America/Regina</item>
+    <item>America/Bogota</item>
+    <item>America/New_York</item>
+    <item>America/Caracas</item>
+    <item>America/Barbados</item>
+    <item>America/Halifax</item>
+    <item>America/Manaus</item>
+    <item>America/Santiago</item>
+    <item>America/St_Johns</item>
+    <item>America/Sao_Paulo</item>
+    <item>America/Argentina/Buenos_Aires</item>
+    <item>America/Godthab</item>
+    <item>America/Montevideo</item>
+    <item>Atlantic/South_Georgia</item>
+    <item>Atlantic/Azores</item>
+    <item>Atlantic/Cape_Verde</item>
+    <item>Africa/Casablanca</item>
+    <item>Europe/London</item>
+    <item>Europe/Amsterdam</item>
+    <item>Europe/Belgrade</item>
+    <item>Europe/Brussels</item>
+    <item>Europe/Sarajevo</item>
+    <item>Africa/Windhoek</item>
+    <item>Africa/Brazzaville</item>
+    <item>Asia/Amman</item>
+    <item>Europe/Athens</item>
+    <item>Asia/Beirut</item>
+    <item>Africa/Cairo</item>
+    <item>Europe/Helsinki</item>
+    <item>Asia/Jerusalem</item>
+    <item>Europe/Minsk</item>
+    <item>Africa/Harare</item>
+    <item>Asia/Baghdad</item>
+    <item>Europe/Moscow</item>
+    <item>Asia/Kuwait</item>
+    <item>Africa/Nairobi</item>
+    <item>Asia/Tehran</item>
+    <item>Asia/Baku</item>
+    <item>Asia/Tbilisi</item>
+    <item>Asia/Yerevan</item>
+    <item>Asia/Dubai</item>
+    <item>Asia/Kabul</item>
+    <item>Asia/Karachi</item>
+    <item>Asia/Oral</item>
+    <item>Asia/Yekaterinburg</item>
+    <item>Asiya/Kolkata</item>
+    <item>Asia/Colombo</item>
+    <item>Asia/Katmandu</item>
+    <item>Asia/Almaty</item>
+    <item>Asia/Rangoon</item>
+    <item>Asia/Krasnoyarsk</item>
+    <item>Asia/Bangkok</item>
+    <item>Asia/Shanghai</item>
+    <item>Asia/Hong_Kong</item>
+    <item>Asia/Macao</item>
+    <item>Asia/Singapore</item>
+    <item>Asia/Irkutsk</item>
+    <item>Asia/Kuala_Lumpur</item>
+    <item>Australia/Perth</item>
+    <item>Asia/Taipei</item>
+    <item>Asia/Seoul</item>
+    <item>Asia/Tokyo</item>
+    <item>Asia/Yakutsk</item>
+    <item>Australia/Adelaide</item>
+    <item>Australia/Darwin</item>
+    <item>Australia/Brisbane</item>
+    <item>Australia/Hobart</item>
+    <item>Australia/Sydney</item>
+    <item>Asia/Vladivostok</item>
+    <item>Pacific/Guam</item>
+    <item>Asia/Magadan</item>
+    <item>Pacific/Auckland</item>
+    <item>Pacific/Fiji</item>
+    <item>Pacific/Tongatapu</item>
+  </string-array>
   <string-array name="vikrami_samvat_month_names">
     <item>Çaitra</item>
     <item>Vaishākha</item>
@@ -382,7 +478,7 @@
     <item>Toz</item>
     <item>Yüngül qum fırtınası</item>
     <item>Dolu</item>
-    <item>Tozlu</item>
+    <item>Üzən toz</item>
     <item>Sisli</item>
     <item>Donmuş yağış</item>
   </string-array>

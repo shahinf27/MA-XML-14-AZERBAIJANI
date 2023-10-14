@@ -4,11 +4,11 @@
     <string name="action_text">Mesaj: %s</string>
     <string name="app_name">Etiketlər</string>
     <string name="button_done">Hazırdır</string>
-    <string name="call_phone_permission_denied">Bu tətbiq zəng edə bilməsi üçün Telefon icazəsinə müraciət etməlidir. Etiket icazəsini Tənzimləmələrdən idarə edə bilərsiniz</string>
+    <string name="call_phone_permission_denied">Bu tətbiqin zəng edə bilməsi üçün Telefon icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
     <string name="empty_tag_prompt">Bu etiket boşdur.</string>
-    <string name="external_storage_permission_denied">Bu tətbiq fayllara müraciət etmək üçün Xarici Anbar icazəsinə müraciət etməlidir. Etiket icazəsini Tənzimləmələrdən idarə edə bilərsiniz</string>
+    <string name="external_storage_permission_denied">Bu tətbiqin fayllara müraciət edə bilməsi üçün Xarici Anbar icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
     <string name="import_vcard">^1 idxal et</string>
-    <string name="mime_display_name">NFC etiketindən verilənlər</string>
+    <string name="mime_display_name">NFC etiketindən data</string>
     <string name="tag_empty">Boş etiketi</string>
     <string name="tag_unknown">Bilinməyən etiket növü</string>
     <string name="title_existing_tag">Etiket</string>

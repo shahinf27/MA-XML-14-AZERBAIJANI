@@ -21,6 +21,6 @@
     <string name="upgrade_out_of_memory_notification_text">Güncəlləməni tamamlamaq üçün toxunun.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Güncəlləmə, daha çox yaddaş tələb edir.</string>
     <string name="upgrade_out_of_memory_notification_title">Kontaktları yükləmək üçün yaddaşı artırın</string>
-    <string name="voicemail_cleanup">Səsli mesajı təmizlə</string>
-    <string name="voicemail_from_column">"Səsli mesaj göndərən "</string>
+    <string name="voicemail_cleanup">Səsli poçtu təmizlə</string>
+    <string name="voicemail_from_column">"Səsli poçt göndərən "</string>
 </resources>

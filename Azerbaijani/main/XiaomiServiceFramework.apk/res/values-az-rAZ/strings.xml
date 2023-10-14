@@ -38,13 +38,12 @@
     <string name="error_device_id_message">"Yararsız cihaz kimliyi: %s
 Cihaz kimliyi yararlı IMEI və ya MAC ünvanı olmalıdır. Cihaz kimliyi olmadan, bəzi Mi Hesabı və Mi Cloud özəllikləri əlçatan olmayacaq."</string>
     <string name="error_device_id_title">"Yararlı cihaz kimliyi alına bilmir"</string>
-    <string name="explain_send_sms_permission_button">Təsdiqlə</string>
-    <string name="explain_send_sms_permission_msg">%s xidmətini işə salmaq üçün Xiaomi Xidmət Çərçivəsi telefon nömərinizi təsdiqləmək məqsədi ilə bir SMS göndərəcək. Operatorunuz normal SMS üçün ödəniş alacaq.</string>
-    <string name="explain_send_sms_permission_title">Telefon nömrənizi təsdiqləyin</string>
+    <string name="explain_send_sms_permission_button">Doğrula</string>
+    <string name="explain_send_sms_permission_msg">%s xidmətini işə salmaq üçün Xiaomi xidmət çərçivəsi, telefon nömrəsini doğrulamaq məqsədi ilə bir SMS göndərəcək. Operatorunuz normal SMS üçün ödəniş alacaq.</string>
+    <string name="explain_send_sms_permission_title">Telefon nömrənizi doğrulayın</string>
     <string name="pop_up_allow_notify_dialog">İcazə ver</string>
     <string name="pop_up_deny_notify_dialog">Rədd et</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="size_unit_byte">%1$s B</string>
     <string name="size_unit_gigabyte">%1$s GB</string>
     <string name="size_unit_kilobyte">%1$s KB</string>
     <string name="size_unit_megabyte">%1$s MB</string>

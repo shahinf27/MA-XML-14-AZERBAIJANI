@@ -29,9 +29,9 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="always_on_disconnected_message">"%1$s daim bağlantıda qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. Telefonunuz, %1$s ilə təkrar bağlantı qurana qədər hər kəsə açıq bir şəbəkə istifadə edəcək."</string>
-    <string name="always_on_disconnected_message_lockdown">"%1$s daim bağlantıda qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. VPN təkrar bağlantı qurana qədər bağlantınız olmayacaq."</string>
-    <string name="always_on_disconnected_message_settings_link">VPN tənzimləmələrini dəyişdir</string>
+    <string name="always_on_disconnected_message">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. Telefonunuz, %1$s ilə təkrar bağlantılı olana qədər hər kəsə açıq bir şəbəkə istifadə edəcək."</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. VPN təkrar bağlantılı olana qədər bağlantınız olmayacaq."</string>
+    <string name="always_on_disconnected_message_settings_link">VPN ayarlarını dəyişdir</string>
     <string name="always_on_disconnected_title">"Həmişə açıq VPN-ə bağlana bilmir"</string>
     <string name="am">GƏ</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -41,7 +41,7 @@
     <string name="data_transmitted">Göndərildi:</string>
     <string name="data_value_format">%1$s bayt / %2$s paket</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="disconnect">Bağlantını kəs</string>
     <string name="dismiss">Ləğv et</string>
     <string name="duration">Müddət:</string>
@@ -60,10 +60,10 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="legacy_title">VPN ilə bağlantı quruldu</string>
+    <string name="legacy_title">VPN bağlantılıdır</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -146,13 +146,13 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="warning">%s, şəbəkə trafikini müşahidə etməyə icazə verən bir VPN bağlantısı qurmaq istəyir. Mənbəyə güvənirsinizsə qəbul edin. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; VPN aktiv ikən ekranınızın yuxarısında görünür.</string>
+    <string name="warning">%s, şəbəkə trafikini izləməyə imkan verən bir VPN bağlantısı qurmaq istəyir. Mənbəyə güvənirsinizsə qəbul edin. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; VPN aktiv ikən ekranınızın yuxarısında görünür.</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

@@ -8,7 +8,7 @@
     <string name="cert_missing_error">"Sertifikat faylı tapıla bilmədiyi üçün quraşdırıla bilmədi."</string>
     <string name="cert_not_saved">Sertifikat quraşdırılmayıb.</string>
     <string name="cert_read_error">"Sertifikat faylı oxuna bilmədiyi üçün quraşdırıla bilmədi."</string>
-    <string name="cert_temp_error">Müvəqqəti xəta. Zəhmət olmasa daha sonra yenidən sınayın.</string>
+    <string name="cert_temp_error">Müvəqqəti xəta. Lütfən daha sonra yenidən sınayın.</string>
     <string name="cert_too_large_error">"Sertifikat həcmi çox böyük olduğu üçün quraşdırıla bilmədi."</string>
     <string name="certificate">Sertifikat</string>
     <string name="certificate_capabilities_warning">Qeyd: Bu sertifikatı verən, cihaza gələn və cihazdan gedən bütün trafiki yoxlaya bilər.</string>
@@ -40,8 +40,8 @@
     <string name="pkcs12_file_password_dialog_title">Bu arxivdən çıxart: %s</string>
     <string name="pkcs12_password_dialog_title">Sertifikatı arxivdən çıxart</string>
     <string name="redirect_ca_certificate_close_button">Bağla</string>
-    <string name="redirect_ca_certificate_title">Tənzimləmələrdə CA sertifikatlarını quraşdır</string>
-    <string name="redirect_ca_certificate_with_app_info_message">%1$s tərəfindən təmin edilən bu sertifikat Tənzimləmələrdə quraşdırılmalıdır. CA sertifikatlarını Yalnız güvəndiyiniz təşkilatlardan quraşdırın.</string>
+    <string name="redirect_ca_certificate_title">Ayarlarda CA sertifikatlarını quraşdır</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s tərəfindən təmin edilən bu sertifikat Ayarlarda quraşdırılmalıdır. CA sertifikatlarını Yalnız güvəndiyiniz təşkilatlardan quraşdırın.</string>
     <string name="select_certificate_usage_title">Sertifikat növünü seçin</string>
     <string name="unable_to_save_cert">"Sertifikat saxlanıla bilmədi. Kimlik məlumatı anbarı fəal deyil və ya düzgün başladılmayıb."</string>
     <string name="user_cert_is_added">İstifadəçi sertifikatı quraşdırıldı</string>
@@ -54,7 +54,7 @@
 FQDN: %2$s
 Rouminq Konsorsiumları: %3$s
 Ölkə: %4$s
-Səlahiyyət metodu: EAP-%5$s
+Səlahiyyət üsulu: EAP-%5$s
 "</string>
     <string name="wifi_detail_label">Detallar</string>
     <string name="wifi_detail_title">%s üçün detallar</string>

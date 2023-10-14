@@ -32,7 +32,7 @@
     <string name="am">GƏ</string>
     <string name="app_name">Ekran Yazıcı</string>
     <string name="app_notification_channel_record_complete">Bitmiş yazılar haqqında bildiriş</string>
-    <string name="app_notification_info">Ekran Yazıcı arxaplanda işləyir</string>
+    <string name="app_notification_info">Hazırda ekran yazılır…</string>
     <string name="app_notification_record_saved">"Yazı uğurla saxlanıldı
 Baxmaq üçün toxunun"</string>
     <string name="app_notification_title">Ekran Yazıcı</string>
@@ -54,7 +54,7 @@ Baxmaq üçün toxunun"</string>
     <string name="close_screen_record">Yazı dayandırıldı</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="description_content">"Ekran Yazıcı, sistem səviyyəli yazı imkanları təqdim edir. Davam etsəniz, Ekran Yazıcını istifadə edə bilməyəcəksiniz. Davam etmək üçün təsdiqləyin."</string>
     <string name="description_title">Ekran Yazıcı haqqında</string>
     <string name="deselect_all">Heç birini seçmə</string>
@@ -67,7 +67,7 @@ Baxmaq üçün toxunun"</string>
     <string name="first_using_mic_dialog_message">Ekran yazıcı, səs yazmaq üçün mikrofonunuza müraciət etməlidir. İcazə verilsin?</string>
     <string name="first_using_mic_dialog_title">Tələb olunan icazələr</string>
     <string name="fixed_frame_rate">Sabit kadr sürəti</string>
-    <string name="fixed_frame_rate_summary">Videoların sabit kadr sürəti ilə yazılması, sosial media platformalarında oynatmanı təkmilləşdirir və batareya ömrünü azaldır.</string>
+    <string name="fixed_frame_rate_summary">Videoların sabit kadr sürəti ilə yazılması, sosial media platformalarında oxutmanı təkmilləşdirir və batareya ömrünü azaldır.</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -95,8 +95,8 @@ Baxmaq üçün toxunun"</string>
     <string name="is_go_home">Ekran yazıcıya geri qayıt</string>
     <string name="is_go_home_summary">"Yazmanı dayandırdıqdan sonra \"Ekran yazıcı\"nın başlanğıc səhifəsini aç"</string>
     <string name="loopback_sound">Dinamik</string>
-    <string name="low_battery">Yazmağa başlamazdan əvvəl telefonunuzu şarj edin</string>
-    <string name="low_battery_for_pad">Yazmağa başlamazdan əvvəl cihazınızı şarj edin</string>
+    <string name="low_battery">Yazmağa başlamazdan əvvəl telefonunuzu doldurun</string>
+    <string name="low_battery_for_pad">Yazmağa başlamazdan əvvəl cihazınızı doldurun</string>
     <string name="low_battery_title">Zəif batareya</string>
     <string name="low_battery_warning">Batareyada çox azdır. Yazma dayandırıldı və video saxlanıldı.</string>
     <string name="low_memory_for_pad">Anbarda boş sahə %1$d GB-dan azdır. %2$d dəqiqəyə qədər yaza bilərsiniz.</string>
@@ -107,7 +107,7 @@ Baxmaq üçün toxunun"</string>
     <string name="mic_sound">Mikrofon</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -178,11 +178,11 @@ Baxmaq üçün toxunun"</string>
     <string name="no_recorder_info2">Yazmağa başlamaq üçün düyməyə toxunun</string>
     <string name="no_sound">Səssiz</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_send">Göndər</string>
     <string name="permission_desc">İcazə detalları</string>
-    <string name="permission_intro_microphone">Səs mənbəyi mikrofona tənzimlənəndə səsləri yazmaq üçün</string>
+    <string name="permission_intro_microphone">Səs mənbəyi mikrofon olaraq ayarlananda səsləri yazmaq üçün</string>
     <string name="permission_intro_storage">Ekran yazılarını saxlamaq üçün</string>
     <string name="permission_microphone_desc">Mikrofonu ekran yazıları üzrə səs mənbəyi olaraq istifadə etmək üçün</string>
     <string name="pm">GS</string>
@@ -193,8 +193,8 @@ Baxmaq üçün toxunun"</string>
     <string name="recording_failure">"Yazıla bilmədi, başdan başlayın"</string>
     <string name="recording_max_size">"Video fayl ölçü limitinə çatdığı üçün yazı dayandırıldı və saxlanıldı. Hələ bitirməmisinizsə, yazıya qaldığınız yerdən başlayın."</string>
     <string name="recording_without_mic">"Mikrofon məşğuldur, səs indi yazıla bilmir."</string>
-    <string name="resolution">Ölçülər</string>
-    <string name="resolution_summary">Yüksək ölçülü videolar daha aydın görünür</string>
+    <string name="resolution">Dəqiqlik</string>
+    <string name="resolution_summary">Yüksək dəqiqlikli videolar daha aydın görünür</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -205,7 +205,7 @@ Baxmaq üçün toxunun"</string>
     <string name="search_menu_title">Axtar</string>
     <string name="select_all">Hamısını seç</string>
     <string name="send">Göndər</string>
-    <string name="settings">Tənzimləmələr</string>
+    <string name="settings">Ayarlar</string>
     <string name="settings_other">Digər</string>
     <string name="settings_privacy">Gizlilik Siyasəti</string>
     <string name="show_hard_key">Naviqasiya düymələrini göstər</string>
@@ -270,7 +270,7 @@ Baxmaq üçün toxunun"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

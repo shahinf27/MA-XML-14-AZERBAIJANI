@@ -89,8 +89,8 @@
         <item quantity="one">Yazılan %d zəng.</item>
     </plurals>
     <plurals name="call_title_redialing_with_times">
-        <item quantity="other">%d dəfə təkrar zəng edildi</item>
-        <item quantity="one">%d dəfə təkrar zəng edildi</item>
+        <item quantity="other">%d dəfə təkrar yığıldı</item>
+        <item quantity="one">%d dəfə təkrar yığıldı</item>
     </plurals>
     <plurals name="conference_call_number">
         <item quantity="other">%s şəxs</item>

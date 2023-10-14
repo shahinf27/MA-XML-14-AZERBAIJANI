@@ -40,7 +40,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="air_space_created">İş sahəsi uğurla yaradıldı</string>
     <string name="air_space_deleted">İş sahəsi uğurla silindi</string>
     <string name="air_space_exit">Sahədən çıx</string>
-    <string name="air_space_setting">Sahə tənzimləmələri</string>
+    <string name="air_space_setting">Sahə ayarları</string>
     <string name="airspace_users_full">"Daha çox iş sahəsi yaradılmadı"</string>
     <string name="alwaysUsePrompt">Seçimimi xatırla</string>
     <string name="am">GƏ</string>
@@ -55,6 +55,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="can_not_delete_when_calling">"Zəng əsnasında sahələr silinə bilmir"</string>
     <string name="can_not_switch_when_calling">"Zəng əsnasında sahələr dəyişdirilə bilmir"</string>
     <string name="can_not_switch_when_green_kid_active">İkinci sahəyə keçid valideyn nəzarəti tərəfindən məhdudlaşdırıldı</string>
+    <string name="can_not_switch_when_green_kid_active_new">"Ailə Qoruma açıq olduqda İkinci sahəyə keçilə bilməz"</string>
     <string name="can_not_switch_when_super_power_active">"Ultra batareya qənaəti açıq olduqda sahələr dəyişdirilə bilmir"</string>
     <string name="cancelClosePassword">"Söndürməyin"</string>
     <string name="cancel_button">İmtina</string>
@@ -75,7 +76,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="close_second_space_success">İkinci sahə silindi</string>
     <string name="closed">Bağlı</string>
     <string name="complete_setting">Bitir</string>
-    <string name="complete_setting_sub_title">Tənzimləmələri nizamlamaq üçün daha sonra geri qayıda bilərsiniz.</string>
+    <string name="complete_setting_sub_title">Ayarları nizamlamaq üçün daha sonra geri qayıda bilərsiniz.</string>
     <string name="complete_setting_title">"Artıq hazırsınız!"</string>
     <string name="confirm">Oldu</string>
     <string name="confirmClose">Söndür</string>
@@ -103,11 +104,11 @@ onları İkinci sahədə göstərin"</string>
     <string name="create_work_space">İş sahəsi yarat</string>
     <string name="creating_app_icon">Nişan yaradılır…</string>
     <string name="cta_declaration_agree_and_continue">Razıyam</string>
-    <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxuyub qəbul etməlisiniz: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
+    <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxumalı və razılaşmalısınız: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
     <string name="cta_declaration_title">Şərtlər və Qaydalar</string>
     <string name="current_space">Hazırkı sahə</string>
     <string name="dataSafe">İkinci sahəni istifadə etmək iki cihaza sahib olmaq kimidir.</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="declare_dialog_title">İkili tətbiqlər haqqında</string>
     <string name="deleteAll">Hamısını sil</string>
     <string name="deleteDataConfirm">Bütün elementlər silinəcək</string>
@@ -117,13 +118,13 @@ onları İkinci sahədə göstərin"</string>
     <string name="delete_phone_fingerprint">İkinci sahə barmaq izini sil</string>
     <string name="delete_src_file">Faylları sil</string>
     <string name="delete_src_photo">Fotoları sil</string>
-    <string name="dialog_message_service_error">"Səlahiyyət ləğv edilə edilə bilmədi və fabrik tənzimləmələrinə qaytarıla bilmədi. Yenidən sınayın."</string>
+    <string name="dialog_message_service_error">"Səlahiyyət ləğv edilə və fabrik sıfırlaması icra edilə bilmədi. Yenidən sınayın.​"</string>
     <string name="dialog_tip_need_network">Səlahiyyəti ləğv etmək üçün cihazınız internetə bağlanmalıdır.</string>
     <string name="dialog_title">Diqqət</string>
     <string name="dialog_title_service_error">Server xətası</string>
     <string name="dialog_undo_negative">"Ləğv etməyin"</string>
-    <string name="dialog_verify">Barmaq izinizi təsdiqləyin</string>
-    <string name="dialog_verify_fingerprint_retry">"Barmaq izi təsdiqlənə bilmədi. Yenidən sınayın."</string>
+    <string name="dialog_verify">Barmaq izinizi doğrulayın</string>
+    <string name="dialog_verify_fingerprint_retry">"Barmaq izi doğrulana bilmədi. Yenidən sınayın."</string>
     <string name="dir_switch_out_all_photos">İkinci sahə Qalereyası</string>
     <string name="disable">Söndür</string>
     <string name="do_not_ask">"Təkrar soruşma"</string>
@@ -137,14 +138,14 @@ onları İkinci sahədə göstərin"</string>
     <string name="ent_activation">Aktivləşdir</string>
     <string name="ent_activation_hint">Müəssisə rejimini aktivləşdirmək üçün korporativ kodunuzu lisenziya kodu ilə birlikdə daxil edin. Bundan sonra, özəl müəssisə xidmətləri fəallaşdırılacaq.</string>
     <string name="ent_activation_hint_whit_licence">"Özəl müəssisə xidmətlərini fəallaşdırmaq üçün Müəssisə rejimini aktivləşdirin.
-Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvəl müvafiq gizlilik siyasətlərini oxuyun və qəbul edin."</string>
+Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvəl müvafiq gizlilik siyasətlərini oxuyun və razılaşın."</string>
     <string name="ent_agency_code">Korporativ kod</string>
     <string name="ent_agency_code_hint">Korporativ kodu daxil edin</string>
     <string name="ent_agency_code_invalid">Daxil etdiyiniz korporativ kod yararsızdır.</string>
-    <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və qəbul etdim"</string>
+    <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və razılaşıram"</string>
     <string name="ent_app_verified">Deyəsən, cihazınızda müəssisə tətbiqləri quraşdırılıb. Müəssisə rejimi aktivləşdirilsin?</string>
     <string name="ent_confirm_dialog_content">"Müəssisə rejimini aktivləşdirdikdən sonra sisteminizin indiki vəziyyətinə qayıda bilməyəcəksiniz. Ancaq, bütün məlumatlarınız hələ də bu cihazda saxlanılacaq. Müəssisə rejimini aktivləşdirmək üçün cihazınızı yenidən başlatmalısınız. İndi aktivləşdirilsin?"</string>
-    <string name="ent_disallow_running">Tətbiqin işləməsi qadağandır</string>
+    <string name="ent_disallow_running">Tətbiqin işləməsi yasaqlanıb</string>
     <string name="ent_download_install_dialog_content">Müəssisə rejimini aktivləşdirmək üçün korporativ tətbiqləri quraşdırmalısınız. İndi quraşdırılsın?</string>
     <string name="ent_download_install_dialog_title">Korporativ tətbiqləri endir</string>
     <string name="ent_downloading_message">%d%% endirilir</string>
@@ -158,7 +159,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="ent_licence_code_hint">Lizensiya kodunu daxil edin</string>
     <string name="ent_licence_code_invalid">Daxil etdiyiniz lisenziya kodu yararsızdır.</string>
     <string name="ent_mode_activated">Müəssisə rejimi aktivləşdirildi</string>
-    <string name="ent_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="ent_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ent_next_step">Növbəti</string>
     <string name="ent_privacy_policy_notice">* Bu rejimdə şəxsi məlumatlar, korporasiyanız tərəfindən müəyyən edilmiş siyasətlərə uyğun olaraq yığılır. Xiaomi, bu rejimdə heç bir şəxsi məlumat yığmır.</string>
     <string name="enter_air_space">İş sahəsinə get</string>
@@ -228,7 +229,7 @@ quraşdırılan tətbiqlərə nəzarət edin</string>
     <string name="guide_contact_sub_title_desc">"İkinci sahəyə əlavə edilən kontaktlar şəxsi olacaq.
 Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="guide_contact_suc_sub_title_desc">İkinci sahədə yalnız şəxsi kontaktlar və mesajlar göstəriləcək</string>
-    <string name="guide_contact_suc_title_desc">Uğurla tənzimləndi</string>
+    <string name="guide_contact_suc_title_desc">Uğurla ayarlandı</string>
     <string name="guide_contact_title_desc">Şəxsi elementlər ikinci sahədə göstərilsin?</string>
     <string name="guide_pwd_detail_title">"Kilid ekranından İkinci sahəyə daxil olaraq
 məlumatlarınızı qoruyun"</string>
@@ -249,8 +250,8 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="import_photo">Fotoları daxilə köçür</string>
     <string name="import_photo_desc">İkinci sahədə paylaşılan elementlərə bax</string>
     <string name="import_photo_suc">Fotolar daxilə köçürüldü</string>
-    <string name="input_space_finger">İndi tənzimlə</string>
-    <string name="input_space_password">İndi tənzimlə</string>
+    <string name="input_space_finger">İndi ayarla</string>
+    <string name="input_space_password">İndi ayarla</string>
     <string name="instagram_send">Instagram-da paylaş</string>
     <string name="install">Quraşdır</string>
     <string name="install_error">"Quraşdırıla bilmədi. Yenidən sınayın."</string>
@@ -263,16 +264,16 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="loading_space">Bir saniyə…</string>
     <string name="loading_success">Uğurla yükləndi</string>
     <string name="lock_screen_open_second_space">Kilid ekranından İkinci sahəyə daxil ol</string>
-    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızın fabrik tənzimləmələrinə qaytarılmasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
-    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınız fabrik tənzimləmələrinə qaytarılacaq, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
+    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik datasına sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
+    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınızda fabrik datasına sıfırlama prosesi icra ediləcək, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
     <string name="master_clear_apply_title">Diqqət</string>
-    <string name="master_clear_not_available">Fabrik tənsimləmələrimə sıfırlamaq, şikətiniz tərəfindən məhdudlaşdırılıb.</string>
-    <string name="master_clear_not_available_ep">"Fabrik tənzimləmələrinə sıfırlama və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
+    <string name="master_clear_not_available">Fabrik sıfırlama prosesi şirkətiniz tərəfindən məhdudlaşdırılıb.</string>
+    <string name="master_clear_not_available_ep">"Fabrik sıfırlama prosesini icra etmə və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
     <string name="menu_item_about_privacy_title">Gizlilik Siyasəti</string>
     <string name="messageData">Mesajlar</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -342,20 +343,20 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="msg_switch_file">Bu fayllar daşındıqdan sonra Birinci sahədən silinsin?</string>
     <string name="msg_switch_file_second">Bu fayllar daşındıqdan sonra İkinci sahədən silinsin?</string>
     <string name="msg_switch_photo">Bu fotolar daşındıqdan sonra Birinci sahədən silinsin?</string>
-    <string name="needSetKeyguardFirst">Birinci sahə parolunu tənzimlə</string>
-    <string name="needSetKeyguardFirstDes">İkinci sahə parolunu tənzimləməzdən əvvəl Birinci sahə parolunu tənzimləyin</string>
+    <string name="needSetKeyguardFirst">Birinci sahə parolunu ayarla</string>
+    <string name="needSetKeyguardFirstDes">İkinci sahə parolunu ayarlamazdan əvvəl Birinci sahə parolunu ayarlayın</string>
     <string name="need_network_when_bind">Cihaz əlavə etməzdən əvvəl şəbəkəyə bağlanın</string>
     <string name="need_network_when_create">İş sahəsi yaratmazdan əvvəl şəbəkəyə bağlanın</string>
     <string name="need_reset_passwd">İş sahəsinə daxil olmazdan əvvəl İş sahəsi parolunu sıfırlayın</string>
     <string name="need_set_second_space_desc">İkinci sahədə barmaq izi əlavə etməzdən əvvəl İkinci sahəyə parol əlavə edin</string>
-    <string name="need_set_second_space_pwd_first">Əvvəlcə İkinci sahə parolunu tənzimləyin</string>
+    <string name="need_set_second_space_pwd_first">Əvvəlcə İkinci sahə parolunu ayarlayın</string>
     <string name="newSecondSpace">İkinci sahəni işə sal</string>
     <string name="next_setp">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="no_match_repate_scanner">"Uyğunlaşan barmaq izləri tapıla bilmədi, yenidən skan edin"</string>
     <string name="noon">Günorta</string>
     <string name="normal_app">Birinci sahə</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_air_space">"Bu özəllik telefonunuzda dəstəklənmir"</string>
     <string name="not_support_multiple_users">"Çoxlu sahələr dəstəklənmir"</string>
     <string name="notificationSetPassword">Parol təyin et</string>
@@ -371,7 +372,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="openSuccess">İşə salındı</string>
     <string name="opened">Açıq</string>
     <string name="other">Digər</string>
-    <string name="otherSettings">Digər tənzimləmələr</string>
+    <string name="otherSettings">Digər ayarlar</string>
     <string name="passWordGuardSummary">Kilid ekranından İkinci sahəyə daxil olmaq üçün bir parol istifadə edin</string>
     <string name="passwordProtect">Parol</string>
     <string name="please_diff_finger_print">"Birinci sahə və İkinci sahədə fərqli barmaq izlərinin istifadə edildiyinə əmin olun.
@@ -424,7 +425,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="search_result_text">"Heç bir tətbiq tapıla bilmədi"</string>
     <string name="secondSpace">İkinci sahə</string>
     <string name="second_owner_finger_print">İkinci sahə barmaq izi</string>
-    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması nişanları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Tənzimləmələrdən müraciət edə biləcəksiniz.</string>
+    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması nişanları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda müraciət edə biləcəksiniz.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Anladım</string>
     <string name="second_space_desktop_tips_dialog_title">Vacib güncəlləmə</string>
     <string name="second_space_finger_printf_desc">İkinci sahəyə daxil olmaq üçün özəl olaraq istifadə edilən barmaq izi əlavə edin</string>
@@ -439,9 +440,9 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="setSecondSpacePasswordGuide">İkinci sahə parolu təyin et</string>
     <string name="setSecondSpacePasswordGuideDes">Kilid ekranından İkinci sahəyə daxil olmaq üçün bu parolu istifadə edin</string>
     <string name="setSpacePasswordGuide">Kilid ekranından hər iki sahəyə daxil olmaq üçün fərqli parollar istifadə edin</string>
-    <string name="setSuccess">Parollar uğurla tənzimləndi</string>
+    <string name="setSuccess">Parollar uğurla ayarlandı</string>
     <string name="set_space_finger">Barmaq izi təyin et</string>
-    <string name="set_space_finger_sub_text_suc">Barmaq izi uğurla tənzimləndi</string>
+    <string name="set_space_finger_sub_text_suc">Barmaq izi uğurla ayarlandı</string>
     <string name="set_space_password">Parol təyin et</string>
     <string name="set_space_pwd_detail">İkinci sahəyə parol istifadə edərək daxil ola bilərsiniz</string>
     <string name="set_space_pwd_suc">İkinci sahə parolu əlavə edildi</string>
@@ -455,20 +456,20 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="settings_msg_add_shortcut_to_second_space">İkinci sahədə qısayol yaradıldı</string>
     <string name="settings_msg_remove_shortcut_from_owner_space">Birinci sahədən qısayol silindi</string>
     <string name="settings_msg_remove_shortcut_from_second_space">Qısayol ikinci sahədən silindi</string>
-    <string name="settings_notification_and_switch_owner_space">Birinci sahə tənzimləmələri</string>
-    <string name="settings_notification_and_switch_second_space">İkinci sahə tənzimləmələri</string>
+    <string name="settings_notification_and_switch_owner_space">Birinci sahə ayarları</string>
+    <string name="settings_notification_and_switch_second_space">İkinci sahə ayarları</string>
     <string name="settings_notification_from_owner_space_title">Birinci sahə bildirişlərini göstər</string>
     <string name="settings_notification_from_second_space_title">İkinci sahə bildirişlərini göstər</string>
     <string name="settings_notification_second_space_show_in_locked_summary">Kilid ekranında İkinci sahədən bildirişlərini göstər</string>
     <string name="settings_notification_second_space_show_in_locked_title">Kilid ekranı bildirişlərini göstər</string>
-    <string name="settings_second_space_entrance_summary">İkinci sahə qısayolunu Tənzimləmələrdə göstər</string>
-    <string name="settings_second_space_entrance_title">Tənzimləmələrdə qısayol</string>
+    <string name="settings_second_space_entrance_summary">İkinci sahə qısayolunu Ayarlarda göstər</string>
+    <string name="settings_second_space_entrance_title">Ayarlardakı qısayol</string>
     <string name="settings_set_password_for_owner_space">Birinci sahəyə ekran kilidi təyin et</string>
-    <string name="settings_set_password_for_owner_space_desc">Qısayolu Tənzimləmələrdən silmək üçün, Birinci sahəyə ekran kilidi təyin edin.</string>
+    <string name="settings_set_password_for_owner_space_desc">Qısayolu Ayarlardan silmək üçün Birinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_set_password_for_sec_space">İkinci sahəyə ekran kilidi təyin et</string>
-    <string name="settings_set_password_for_sec_space_desc">Qısayolu Tənzimləmələrdən silmək üçün, İkinci sahəyə ekran kilidi təyin edin.</string>
+    <string name="settings_set_password_for_sec_space_desc">Qısayolu Ayarlardan silmək üçün İkinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_space_data">Verilənlər</string>
-    <string name="settings_status_icon_summary">Vəziyyət sətrində ikinci sahə nişanını göstər</string>
+    <string name="settings_status_icon_summary">İkinci sahə nişanını status çubuğunda göstər</string>
     <string name="settings_status_icon_title">İkinci sahə nişanı</string>
     <string name="settings_switch_shortcut_summary">Birinci sahədə Əsas ekran qısayolunu göstər</string>
     <string name="settings_switch_shortcut_title">Əsas ekran qısayolu</string>
@@ -484,7 +485,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="show_private_msg">Şəxsi mesajları göstər</string>
     <string name="show_private_msg_summary">Şəxsi mesajları İkinci sahədə göstər</string>
     <string name="skip">Ötür</string>
-    <string name="spaceSetting">Tənzimləmələr</string>
+    <string name="spaceSetting">Ayarlar</string>
     <string name="space_create_guide_desc_1">Tətbiqləri və fotoları güvəndə saxlayın</string>
     <string name="space_create_guide_desc_2">İstifadəyə tam hazır ayrı bir sahə</string>
     <string name="space_create_guide_desc_3">"İkinci sahə cihazınızdakı digər elementlərə təsir etmir"</string>
@@ -496,7 +497,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="space_des_default">Şifrələnmiş verilənlərlə təcrid olunmuş sahə</string>
     <string name="space_finger_sub_text">Daha sürətli keçid etmək üçün İkinci sahə barmaq izi təyin edin</string>
     <string name="space_name_default">İş sahəsi</string>
-    <string name="startSet">Tənzimlə</string>
+    <string name="startSet">Ayarla</string>
     <string name="startTransfer">Daşı</string>
     <string name="start_input_finger_print">Barmaq izi əlavə et</string>
     <string name="start_new_fingerprint">Yeni barmaq izi əlavə et</string>
@@ -511,7 +512,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="sunday_shortest">Baz</string>
     <string name="sure_to_use">Təsdiqlə</string>
     <string name="switchDataSummary">Elementləri sahələr arasında daşıyın</string>
-    <string name="switch_apps_settings">Tətbiq tənzimləmələri</string>
+    <string name="switch_apps_settings">Tətbiq ayarları</string>
     <string name="switch_data_app">Elementləri İkinci sahəyə daşıyın</string>
     <string name="switch_data_settings">Məlumat daşı</string>
     <string name="switch_download_space">İş sahəsinə keç</string>
@@ -540,7 +541,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="title_choose_app_status">Tətbiq növünü seçin</string>
     <string name="title_switch_file">Bu fayllar silinsin?</string>
     <string name="title_switch_photo">Bu fotolar silinsin?</string>
@@ -558,7 +559,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda zavod tənzimləmələrinə sıfırlanma həyata keçiriləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış verilənləri idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib zavod tənzimləmələrinə sıfırlansın?"</string>
+    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda fabrik datasına sıfırlanma icra ediləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış dataları idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib fabrik datasına sıfırlama icra edilsin?"</string>
     <string name="undo_activated_dialog_ok">Ləğv et</string>
     <string name="undo_grant_dialog_message">Səlahiyyəti ləğv etdikdən sonra Xiaomi, bu özəllik üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. İndi ləğv edilsin?</string>
     <string name="undo_privacy_menu">Səlahiyyəti ləğv et</string>
@@ -578,7 +579,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="xspace_account">İkili tətbiq hesabları</string>
     <string name="xspace_chocie">İkili tətbiq dəstəyi</string>
     <string name="xspace_creating">İkili tətbiq yaradılır…</string>
-    <string name="xspace_default_app_summary">Daxil olmaq, paylaşmaq və səs köməkçisi üçün istifadə olunan ilkin tətbiqləri seçin</string>
+    <string name="xspace_default_app_summary">Daxil olmaq, paylaşmaq və səsli köməkçi üçün istifadə olunan ilkin tətbiqləri seçin</string>
     <string name="xspace_default_app_title">Fərdiləşdirmə</string>
     <string name="xspace_default_guide_notification_content">Dəyişdirmək üçün toxunun</string>
     <string name="xspace_default_guide_notification_main_title">İlkin tətbiq istifadə edilir</string>
@@ -610,11 +611,11 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_notification_error">İkili WeChat-a daxil olun və yenidən sınayın</string>
     <string name="xspace_remove">"İkili tətbiq hesablarını silin"</string>
     <string name="xspace_resolver_activity_title">Tətbiq seçin</string>
-    <string name="xspace_setting_label">İkili tətbiq tənzimləmələri</string>
-    <string name="xspace_settins">Tənzimlə</string>
+    <string name="xspace_setting_label">İkili tətbiq ayarları</string>
+    <string name="xspace_settins">Ayarla</string>
     <string name="xspace_start">Yarat</string>
     <string name="xspace_uninstall_completed">İkili tətbiq uğurla silindi</string>
-    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq verilənləri silinəcək.</string>
+    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
     <string name="xspace_uninstall_dialog_title">İkili tətbiqi sil</string>
     <string name="xspace_uninstalling">Silinir…</string>
     <string name="yesterday">Dünən</string>

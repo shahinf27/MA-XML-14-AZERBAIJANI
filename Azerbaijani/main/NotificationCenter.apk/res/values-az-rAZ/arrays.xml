@@ -6,17 +6,4 @@
         <item>Bildiriş göstərə bilən tətbiqlər</item>
         <item>"Bildiriş göstərə bilməyən tətbiqlər"</item>
     </string-array>
-    <string-array name="lock_screen_display_rules_no_password">
-        <item>Bildiriş məzmununu göstər</item>
-        <item>"Kilid ekranı bildirişlərini göstərmə"</item>
-    </string-array>
-    <string-array name="lock_screen_display_rules_with_password">
-        <item>Bildiriş məzmununu göstər</item>
-        <item>Bildirişləri göstər, ancaq məzmununu gizlət</item>
-        <item>"Kilid ekranı bildirişlərini göstərmə"</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
 </resources>

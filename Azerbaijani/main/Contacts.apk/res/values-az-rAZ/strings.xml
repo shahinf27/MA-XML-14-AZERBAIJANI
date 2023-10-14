@@ -35,7 +35,7 @@
     <string name="account_phone">Yalnız cihaz, sinxronlaşdırılmayıb</string>
     <string name="account_sim">SIM kart</string>
     <string name="account_type_format">%1$s kontakt</string>
-    <string name="action_menu_overflow_description">Tənzimləmələr</string>
+    <string name="action_menu_overflow_description">Ayarlar</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_title_contacts_filter">Göstəriləcək kontaktlar</string>
     <string name="add_account">Hesab əlavə et</string>
@@ -60,7 +60,6 @@
     <string name="attach_photo_dialog_title">Kontakt fotosu</string>
     <string name="audio_chat">Səsli söhbət</string>
     <string name="auto_nickname">Avto</string>
-    <string name="auto_record_yellowpage">Sarı səhifələr</string>
     <string name="auto_set_nickname">Avto</string>
     <string name="back_description">Geri</string>
     <string name="back_view_description">Geri qayıt</string>
@@ -97,9 +96,10 @@
     <string name="bh_card_order_name">Xidmət paketi</string>
     <string name="bh_card_order_pay_price">Ödənilən miqdar</string>
     <string name="bh_card_order_price">Qiymət</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">%1$s üçün %2$s CNY əlavə edilsin?</string>
-    <string name="bh_charge_continue">Vəsait yüklə</string>
-    <string name="bh_charge_number">Vəsait yüklənilir: %1$s</string>
+    <string name="bh_charge_continue">Artır</string>
+    <string name="bh_charge_number">Artırılır: %1$s</string>
     <string name="bh_charged_phone_number">Telefon nömrəsi: %1$s</string>
     <string name="bh_close_traffic_package">Operator plan detallarını bağla</string>
     <string name="bh_confirm">Oldu</string>
@@ -126,8 +126,9 @@
     <string name="bh_funtion_desc">Mi Operator Xidmətlərinə xoş gəldiniz! Telefon balansınızı yoxlamaq, zəng dəqiqəsi və mobil internet satın almaq və daha çoxu üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiq, normal işləməsi üçün şəbəkəyə bağlanmalıdır.</string>
     <string name="bh_get_balance_success">Uğurla yoxlanıldı. Burada məlumatlar gecikmə ilə güncəllənə bilər.</string>
     <string name="bh_get_charge_phone_number">Kontaktlardan seçin</string>
+    <string name="bh_goto_granted">İcazə vermə</string>
     <string name="bh_goto_open">İcazə verilmədi</string>
-    <string name="bh_goto_set">Tənzimlə</string>
+    <string name="bh_goto_set">Ayarla</string>
     <string name="bh_i_got_it">Anladım</string>
     <string name="bh_input_hint">Telefon nömrəsi daxil edin</string>
     <string name="bh_input_total_limit">Data miqdarı daxil edin</string>
@@ -136,7 +137,7 @@
     <string name="bh_just_now">İndicə</string>
     <string name="bh_login_to_cancellation">Xidmətləri ləğv edə bilmək üçün əvvəlcə daxil olun.</string>
     <string name="bh_login_to_withdrawal">Razılığı geri götürə bilmək üçün əvvəlcə daxil olun.</string>
-    <string name="bh_misim_recharge">Vəsait yüklə</string>
+    <string name="bh_misim_recharge">Artır</string>
     <string name="bh_mm">Mi Mobil</string>
     <string name="bh_more_recommend">Daha çox tövsiyə</string>
     <string name="bh_more_traffic_pkg">Daha çox internet paketi</string>
@@ -158,7 +159,7 @@
     <string name="bh_order_id">Sifariş kimliyi</string>
     <string name="bh_order_loading">Bir saniyə…</string>
     <string name="bh_order_pay">Ödəniş</string>
-    <string name="bh_order_status">Sifariş vəziyyəti</string>
+    <string name="bh_order_status">Sifariş statusu</string>
     <string name="bh_order_time">Əməliyyat vaxtı</string>
     <string name="bh_other_charge">Digər telefon nömrəsi</string>
     <string name="bh_other_operator">Digər operatorlar</string>
@@ -167,35 +168,35 @@
     <string name="bh_pay_fee">Miqdar</string>
     <string name="bh_pay_success_desc">Balansınız gecikmə ilə hesablana bilər</string>
     <string name="bh_perm_ask_read_contacts">Əvvəlcə \"Mi Operator Xidmətləri\"nin kontaktlarınıza müraciətinə icazə verin.</string>
-    <string name="bh_perm_desc_read_contacts">Vəsait yükləyərkən kontaktları görüntüləmək üçün</string>
+    <string name="bh_perm_desc_read_contacts">Artırarkən kontaktları görüntüləmək üçün</string>
     <string name="bh_permission_contact">Kontaktlara müraciət</string>
-    <string name="bh_permission_contact_desc">Kontaktlarınızın balansına vəsait yükləmək üçün</string>
-    <string name="bh_permission_get_accounts_desc">Sifariş vermək və vəziyyətlərini yoxlamaq üçün</string>
+    <string name="bh_permission_contact_desc">Kontaktlarınızın balansını artırmaq üçün</string>
+    <string name="bh_permission_get_accounts_desc">Sifariş vermək və statusunu yoxlamaq üçün</string>
     <string name="bh_permission_read_call_log">Zəng tarixçəsinə müraciət</string>
     <string name="bh_permission_read_call_log_desc">Zəng müddətini görüntüləmək üçün</string>
     <string name="bh_permission_read_call_log_desc_and_reason">Zəng müddətini görüntüləmək üçün zəng jurnalını oxu</string>
-    <string name="bh_permission_read_contact_desc_and_reason">Kontaktlarınızın balansına vəsait yükləmək üçün kontaktları oxu</string>
+    <string name="bh_permission_read_contact_desc_and_reason">Kontaktlarınızın balansını artırmaq üçün kontaktları oxu</string>
     <string name="bh_permission_read_phone_state_desc">Telefon nömrələrini və əlaqəli operator məlumatlarını görüntüləmək üçün</string>
     <string name="bh_permission_showing">İcazə detalları</string>
     <string name="bh_pkg_data_cant_query">"Operator məhdudiyyətlərinə görə detallara baxıla bilmir"</string>
-    <string name="bh_please_complete_sim_before_charge">Vəsait yükləmək üçün əvvəlcə bir telefon nömrəsi əlavə edin.</string>
+    <string name="bh_please_complete_sim_before_charge">Artırmaq üçün əvvəlcə bir telefon nömrəsi əlavə edin.</string>
     <string name="bh_please_fill_total_limit">Planınıza daxil olan mobil interneti əlavə edin</string>
-    <string name="bh_please_set_pkg">Balansınızı yoxlaya bilmək üçün planınızı tənzimləyin.</string>
+    <string name="bh_please_set_pkg">Balansınızı yoxlaya bilmək üçün planınızı ayarlayın.</string>
     <string name="bh_privacy_policy">Gizlilik Siyasəti</string>
     <string name="bh_qualification_and_certificate">Lisenziyalar və sertifikatlaşdırma</string>
     <string name="bh_receive_zero_card">Ödənişsiz SIM</string>
     <string name="bh_recharge_money">Miqdar</string>
     <string name="bh_recharge_record">Doldurma qeydi</string>
-    <string name="bh_recharge_title">Vəsait yüklə</string>
+    <string name="bh_recharge_title">Artır</string>
     <string name="bh_recommend">Tövsiyə edilən</string>
     <string name="bh_refresh_time">Son güncəlləmə: %1$s</string>
-    <string name="bh_refreshing_sim_state">SIM vəziyyəti təzələnir…</string>
+    <string name="bh_refreshing_sim_state">SIM statusu təzələnir…</string>
     <string name="bh_save">Saxla</string>
-    <string name="bh_save_desc">Növbəti vəsait yükləməsində istifadə etmək üçün bu nömrəni saxla</string>
+    <string name="bh_save_desc">Növbəti artırmada istifadə etmək üçün bu nömrəni saxla</string>
     <string name="bh_save_sccuss">Uğurla saxlanıldı</string>
     <string name="bh_saved_number">Saxlanılan nömrə: %1$s</string>
     <string name="bh_should_login_to_buy">Zəng dəqiqələri və mobil internet satın ala bilmək üçün Xiaomi Hesabınıza daxil olun</string>
-    <string name="bh_similar_number_hint">Bu nömrə %1$s ilə oxşardır. Yenə də bu nömrəyə vəsait yüklənilsin?</string>
+    <string name="bh_similar_number_hint">Bu nömrə %1$s ilə oxşardır. Yenə də bu nömrə artırılsın?</string>
     <string name="bh_stop_carrier_services">\"Mi Operator Xidmətləri\"ni bağla</string>
     <string name="bh_stop_carrier_services_short">\"Mi Operator Xidmətləri\"ni bağla</string>
     <string name="bh_stop_result">"\"Mi Operator Xidmətləri\"ni bağlasanız, operator planını idarə edə və ya internet və zəng dəqiqəsi satın ala bilməyəcəksiniz. Yenə də bağlanılsın?"</string>
@@ -222,7 +223,7 @@
     <string name="bh_used_today">Bu gün istfdə edilən</string>
     <string name="bh_user_agreement">İstifadəçi Razılaşması</string>
     <string name="bh_vs">Mi Roaming</string>
-    <string name="bh_where_to_restart_carrier_services">\"Mi Operator Xidmətləri\"ni həmişə Kontaktlar &gt; Tənzimləmələrdə yenidən aça bilərsiniz.</string>
+    <string name="bh_where_to_restart_carrier_services">\"Mi Operator Xidmətləri\"ni istədiyiniz vaxt Kontaktlar &gt; Ayarlarda yenidən aça bilərsiniz.</string>
     <string name="bh_will_open">%1$s açılır…</string>
     <string name="bh_withdraw_permission_failure_description">Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="bh_withdraw_permission_failure_title">"Razılıq geri götürülə bilmədi"</string>
@@ -234,9 +235,9 @@
     <string name="bh_withdrawal_of_consent_result">"Davam etsəniz, \"Mi Operator Xidmətləri\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Bundan sonra, şəxsi məlumatlarınızın yığılmasını və istifadə edilməsini dayandıracağıq və sifariş tarixçənizi həmişəlik siləcəyik. Razılığı geri götürməzdən əvvəl bütün əməliyyatlarınızın tamamlandığına əmin olun."</string>
     <string name="bh_wrong_number_hint">Yararlı bir telefon nömrəsi daxil edin</string>
     <string name="bind_simcard_default">Zənglər üçün ilkin SIM</string>
-    <string name="bind_simcard_menu">Zənglər üçün ilkin SIM olaraq tənzimlə</string>
+    <string name="bind_simcard_menu">Zənglər üçün ilkin SIM olaraq ayarla</string>
     <string name="bind_simcard_no_dual">"İkili SIM tapıla bilmədi"</string>
-    <string name="bind_simcard_not_set">Tənzimlənmədi</string>
+    <string name="bind_simcard_not_set">Ayarlanmadı</string>
     <string name="bind_simcard_title">Zənglər üçün ilkin SIM</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı yarımçıq kəsildi</string>
     <string name="blurbJoinContactDataWith">%s ilə birləşdirmək istədiyiniz kontaktı seçin:</string>
@@ -256,6 +257,8 @@
     <string name="call_feature_vilte">ViLTE</string>
     <string name="call_home">Evə zəng et</string>
     <string name="call_isdn">ISDN-ə zəng et</string>
+    <string name="call_limit">Zəng məhdudiyyətləri</string>
+    <string name="call_limit_content">"\"%s\" - zəng edilə bilmədi. Yalnız kontaktlar siyahınızdakı təsdiqlənmiş telefon nömrələrinə zəng edə bilərsiniz."</string>
     <string name="call_main">Əsas nömrəyə zəng et</string>
     <string name="call_mms">MMS-ə zəng et</string>
     <string name="call_mobile">Mobilə zəng et</string>
@@ -263,40 +266,6 @@
     <string name="call_other_fax">Faksa zəng et</string>
     <string name="call_pager">Çağırış cihazına zəng et</string>
     <string name="call_radio">Radiotelefona zəng et</string>
-    <string name="call_record_add_numbers">Telefon nömrələri əlavə et</string>
-    <string name="call_record_auto_always">Bütün zənglər</string>
-    <string name="call_record_auto_scenario_title">Yazılan zənglər</string>
-    <string name="call_record_auto_summary">Zəngləri avtomatik olaraq yaz</string>
-    <string name="call_record_auto_title">Avtomatik yaz</string>
-    <string name="call_record_auto_unknown_number">Bilinməyən nömrə</string>
-    <string name="call_record_auto_whitelist">Seçilmiş telefon nömrələri</string>
-    <string name="call_record_content_search">Səsli zəng axtarışı</string>
-    <string name="call_record_content_search_summary">Müəyyən sözlərin deyildiyi zəngləri tapa bilmək üçün zəngləri avtomatik olaraq yazın və mətnə çevirin</string>
-    <string name="call_record_content_summary">"Gizliliyinizi qorumaq üçün zənglərinizin səsyazmaları, yazılı mətnləri ilə cihazınızda şifrələnib saxlanılacaq. Digər tətbiqlər bu elementlərə müraciət edə bilməyəcək."</string>
-    <string name="call_record_content_title">Zəng səsyazmalarını mətnə çevirin</string>
-    <string name="call_record_content_type">Saxlanılmış səsyazmalar</string>
-    <string name="call_record_content_type_audio">Yalnız səs</string>
-    <string name="call_record_content_type_audio_text">Səs və mətn</string>
-    <string name="call_record_content_type_text">Yalnız mətn</string>
-    <string name="call_record_history">Zəng səsyazmaları</string>
-    <string name="call_record_password">Gizlilik qoruma parolu</string>
-    <string name="call_record_password_closed">Bağlı</string>
-    <string name="call_record_password_opened">Açıq</string>
-    <string name="call_record_password_summary">Əlavə bir parolla zəng səsyazmalarını qoruyun</string>
-    <string name="call_record_storage_list">Zəng səsyazmaları</string>
-    <string name="call_record_text_auto_delete">Zəng səsyazmalarını avtomatik silin</string>
-    <string name="call_record_text_auto_delete_half_year">%d ay sonra</string>
-    <string name="call_record_text_auto_delete_never">Heç vaxt</string>
-    <string name="call_record_text_auto_delete_one_month">%d ay sonra</string>
-    <string name="call_record_user_notice_all_purpose">Müəyyən sözlərin deyildiyi zəngləri tapın</string>
-    <string name="call_record_user_notice_permission_desc_microphone">Zəngləri yazmaq üçün</string>
-    <string name="call_record_user_notice_permission_desc_storage">Səsyazmaları saxlamaq üçün</string>
-    <string name="call_record_user_notice_title">Səsli zəng axtarışı</string>
-    <string name="call_record_whitelist_custom">Seçilmiş zənglər</string>
-    <string name="call_recording_notification_summary">Zəng yazıldıqdan sonra bir bildiriş al</string>
-    <string name="call_recording_notification_title">Yazılmış zəngləri bildir</string>
-    <string name="call_recording_notification_title_error">"Zəng yazıla bilmədi"</string>
-    <string name="call_recording_setting">Zəng səsyazmaları</string>
     <string name="call_sim1_menu_title">SIM 1-də zəng et</string>
     <string name="call_sim2_menu_title">SIM 2-də zəng et</string>
     <string name="call_sim_menu_title_suffix">(Əsas)</string>
@@ -305,7 +274,7 @@
     <string name="call_work">İşə zəng et</string>
     <string name="call_work_mobile">İş mobilinə zəng et</string>
     <string name="call_work_pager">İş çağırış cihazına zəng et</string>
-    <string name="calllog_call_note_menu">Zəng qeydləri</string>
+    <string name="calllog_call_note_menu">Zəng notları</string>
     <string name="calllog_call_record_menu">Yazılan zənglər</string>
     <string name="calllog_menu_blacklist">Əngəllə</string>
     <string name="calllog_menu_edit_before_call">Düzəliş et</string>
@@ -319,8 +288,11 @@
     <string name="callrecordview_item_op_time_rejected">Rədd edildi</string>
     <string name="callrecordview_item_op_time_short_incoming">"Gələn: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Gedən: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Avto-cavablandırma</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Mi AI Zəng Köməkçisi</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Əllə götürmə</string>
     <string name="callrecordview_item_op_video">Video</string>
-    <string name="callrecordview_menu_add_call_note">Zəng qeydi əlavə et</string>
+    <string name="callrecordview_menu_add_call_note">Zəng notu əlavə et</string>
     <string name="callrecordview_menu_aiphone">AI zəngləri</string>
     <string name="callrecordview_menu_batch_delete">Toplu sil</string>
     <string name="callrecordview_menu_blocklist">Əngəlli siyahısı</string>
@@ -334,8 +306,8 @@
     <string name="callrecordview_menu_delete_stranger">Bilinməyən nömrələri təmizlə</string>
     <string name="callrecordview_menu_identify_numbers">Telefon nömrələrini müəyyənləşdir</string>
     <string name="callrecordview_menu_mobiledata">Mobil internet al</string>
-    <string name="callrecordview_menu_recharge">Vəsait yüklə</string>
-    <string name="callrecordview_menu_settings">Tənzimləmələr</string>
+    <string name="callrecordview_menu_recharge">Artır</string>
+    <string name="callrecordview_menu_settings">Ayarlar</string>
     <string name="callrecordview_menu_show_accepted">Cavablanan zənglər</string>
     <string name="callrecordview_menu_show_all">Bütün zənglər</string>
     <string name="callrecordview_menu_show_called">Gedən zənglər</string>
@@ -378,7 +350,7 @@
     <string name="composer_has_no_exportable_contact">Xaricə köçürülə biləcək kontakt yoxdur. Əgər cihazınızda kontaktlar varsa, bəzi şəbəkə provayderləri kontaktların cihazınızdan xaricə köçürülməsinə icazə verməyə bilər.</string>
     <string name="composer_not_initialized">"vCard hazırlayıcı düzgün başlamadı."</string>
     <string name="conference_call_disable_tip">"Zəng edilə bilmir. Cihazınızın VoLTE dəstəyi ilə 4G şəbəkəsinə bağlandığına əmin olun."</string>
-    <string name="confirm_call_log_dial_summary">Yanlış zənglər etməmək üçün zəng jurnalından nömrə yığmazdan əvvəl təsdiq istəyin.</string>
+    <string name="confirm_call_log_dial_summary">Təsadüfi zəngləri önləmək üçün zəng qeydlərindən nömrə yığmazdan əvvəl təsdiq istənilsin.</string>
     <string name="confirm_call_log_dial_title">Zəng jurnalından yığımları təsdiqlə</string>
     <string name="confirm_delete_contact_all_call_logs">"Bütün %s tarixçəsi təmizlənsin?"</string>
     <string name="confirm_delete_selected_all_call_logs">Zəng tarixçəsi təmizlənsin?</string>
@@ -393,7 +365,7 @@
     <string name="contact_clear_search_history">Tarixçəni təmizlə</string>
     <string name="contact_delete_toast">Kontaktlar uğurla silindi</string>
     <string name="contact_detail_action_item_calllog">Zəng tarixçəsi</string>
-    <string name="contact_detail_calllog_call_note_tips">Qeydlər</string>
+    <string name="contact_detail_calllog_call_note_tips">Notlar</string>
     <string name="contact_detail_calllog_call_record_tips">Yazılan zənglər</string>
     <string name="contact_detail_calllog_correct_yellow_page">Düzəlt və ya bildir</string>
     <string name="contact_detail_calllog_empty">Tarixçə yoxdur</string>
@@ -424,7 +396,7 @@
     <string name="contactsJoinedMessage">Kontaktlar birləşdirildi</string>
     <string name="contactsList">Kontaktlar</string>
     <string name="contacts_default_notification_channel">Bildirişlər</string>
-    <string name="contacts_hybrid_activity_label">Kontaktları bərpa et</string>
+    <string name="contacts_hybrid_activity_label">Kontaktları geri qaytar</string>
     <string name="contacts_trash_activity_hint">Bərpa ediləcək kontaktları seçin</string>
     <string name="contacts_trash_activity_title">Təzəlikcə silinmiş kontaklar</string>
     <string name="contacts_trash_delete">Sil</string>
@@ -455,7 +427,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="custom_list_filter">Xüsusi baxışı müəyyənləşdir</string>
     <string name="custom_nickname_hint">Ləqəbi daxil edin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_year_toggle">İli daxil edin</string>
     <string name="default_ringtone">İlkin zəng səsi</string>
     <string name="deleteCloudConfirmationDetail">%s kontakt məlumatları Cloud-dan və bu cihazdan silinsin?</string>
@@ -464,8 +436,8 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="delete_call_log_message">Zəng tarixçəsi təmizlənsin?</string>
     <string name="delete_call_log_selected_title">Seçilmiş zəng tarixçəsi təmizlənsin?</string>
     <string name="delete_call_log_title">Zəng tarixçəsini təmizlə</string>
-    <string name="delete_conference_call_log_message">Bu kontaktla əlaqəli bütün konfrans zənglərinin qeydləri silinsin?</string>
-    <string name="delete_conference_call_log_title">Konfrans zənginin qeydlərini sil</string>
+    <string name="delete_conference_call_log_message">Bu kontaktla əlaqələndirilmiş bütün konfrans zəng yazıları silinsin?</string>
+    <string name="delete_conference_call_log_title">Konfrans zəngi qeydlərini sil</string>
     <string name="delete_duplicate">Birləşdir</string>
     <string name="delete_duplicate_message">"Kontaktlar birləşdirilir… "</string>
     <string name="delete_group_dialog_message">"\"%1$s\" silinsin? Kontaktlar silinməyəcək."</string>
@@ -480,7 +452,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="description_call_log_missed_call">Buraxılmış zəng</string>
     <string name="description_call_log_missed_forwarding_call">Buraxılmış yönləndirilən zəng</string>
     <string name="description_call_log_outgoing_call">Gedən zəng</string>
-    <string name="description_call_log_voicemail">Səsli mesaj</string>
+    <string name="description_call_log_voicemail">Səsli poçt</string>
     <string name="description_contact_photo">Kontakt fotosu</string>
     <string name="description_dial_phone_number">Telefonu yığ: %1$s</string>
     <string name="description_image_button_comma">Vergül</string>
@@ -506,8 +478,6 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="description_send_message">%1$s - mesaj göndər</string>
     <string name="deselect_all">Heç birini seçmə</string>
     <string name="device_import_account_dialog_title">Hesab seçin</string>
-    <string name="device_import_account_dialog_title_suffix">"
-(%1$s kontakt tapıldı)"</string>
     <string name="device_import_local_account">Yerli hesab</string>
     <string name="device_import_message">Daxilə köçürülür</string>
     <string name="device_import_progress_begin_message">Daxilə köçürülür…</string>
@@ -517,18 +487,18 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="device_other_guide">Digər cihaz bluetooth dəstəkləyir?</string>
     <string name="device_other_title">Digər cihazlardan daxilə köçür</string>
     <string name="device_paired_dialog_message">Kontaktlar alınır…</string>
-    <string name="device_pairing_dialog_message">Cütləşir…</string>
+    <string name="device_pairing_dialog_message">Cütləşdirilir…</string>
     <string name="device_transfer_by_bluetooth_message">"%1$d. Digər cihazda Bluetooth-u açın. 
 
-- Bluetooth-u Android cihazlarında şəbəkə tənzimləmələrində tapa bilərsiniz.
-- iOS cihazlarında, Bluetooth Tənzimləmələr menyusundadır.
+- Bluetooth, Android cihazlarındakı şəbəkə ayarlarında tapıla bilər.
+- iOS cihazlarında, Bluetooth Ayarlar menyusundadır.
 
 %2$d. Kəşf oluna bilən rejimi, Android cihazlarında da açılmalıdır.
 
 %3$d. \"Növbəti\"yə toxunun və Kontaktlara tələb olunan icazələri verin."</string>
     <string name="device_transfer_by_sim_message">"%1$d. Kontaktları SIM kartdakı digər cihazdan köçürün;
 
-%2$d. Kontaktlar tətbiqindəki tənzimləmələri açın və sonra \"Kontaktları Daxilə Xaricə köçür\" - \"SIM kartdan daxilə köçür\" bölməsinə gedin, seçmək üçün hər hansı bir SIM kontakta basıb saxlayın və bütün tələb edilən kontaktları seçin və \"Daxilə köçür\"ə toxunun."</string>
+%2$d. Kontaktlar tətbiqindəki ayarları açın və sonra \"Kontaktları Daxilə Xaricə köçür\" - \"SIM kartdan daxilə köçür\" bölməsinə gedin, seçmək üçün hər hansı bir SIM kontakta basılı tutun və bütün tələb edilən kontaktları seçin və \"Daxilə köçür\"ə toxunun."</string>
     <string name="device_version_header_bluetooth">Bluetooth ilə daxilə köçür</string>
     <string name="device_version_header_no_bluetooth">SIM kart ilə daxilə köçür</string>
     <string name="dialerIconLabel">Sonuncular</string>
@@ -594,11 +564,11 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="export_to_sim2">SIM kart 2-ə köçür</string>
     <string name="export_to_sim_prepare_title">Hazırlanır…</string>
     <string name="export_to_sim_title">Xaricə köçürülür…</string>
-    <string name="exporting_contact_failed_message">"Kontakt verilənləri xaricə köçürülmədi.
+    <string name="exporting_contact_failed_message">"Kontakt datası xaricə köçürülmədi.
 Səbəb: \"%s\""</string>
     <string name="exporting_contact_failed_title">"Xaricə köçürülə bilmədi"</string>
     <string name="exporting_contact_list_message">Bura köçürülür: %s.</string>
-    <string name="exporting_contact_list_title">Kontakt verilənləri xaricə köçürülür</string>
+    <string name="exporting_contact_list_title">Kontakt datası xaricə köçürülür</string>
     <string name="exporting_vcard_canceled_title">%s xaricə köçürülməsi ləğv edildi.</string>
     <string name="exporting_vcard_finished_title">%s xaricə köçürülməsi bitdi.</string>
     <string name="external_profile_title">%1$s profilim</string>
@@ -645,7 +615,6 @@ Səbəb: \"%s\""</string>
     <string name="group_rename_dialog_title">Qrupu yenidən adlandır</string>
     <string name="group_rename_fail_toast">"Qrup yenidən adlandırıla bilmədi"</string>
     <string name="group_rename_success_toast">Qrup yenidən adlandırıldı</string>
-    <string name="group_sms_error_message">"SMS-in %s nəfərdən çox alıcısı ola bilməz."</string>
     <string name="group_sms_progress_msg">Qruplaşdırılır…</string>
     <string name="groupsLabel">Qruplar</string>
     <string name="groups_list_empty">Qrup yoxdur</string>
@@ -653,7 +622,7 @@ Səbəb: \"%s\""</string>
     <string name="hide_app_description_title">\"Kontaktlar\" Əsas ekrandan silinsin?</string>
     <string name="hint_findContacts">Kontaktları axtar</string>
     <string name="hint_more_contact">Dublikat kontaktları birləşdir</string>
-    <string name="hybrid_check_network">Şəbəkə tənzimləmələri</string>
+    <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
     <string name="hybrid_network_unavaliable">"Şəbəkəyə bağlana bilmir"</string>
@@ -701,9 +670,10 @@ Səbəb: \"%s\""</string>
     <string name="item_offical">Rəsmi</string>
     <string name="keep_local">"Sinxronlaşdırma"</string>
     <string name="keep_local_btn">"Cihazın daxili anbarını istifadə edin"</string>
+    <string name="know">Anladım</string>
     <string name="label_custom_type">Xüsusi</string>
     <string name="label_no_duplicate_contacts">Dublikat tapılmadı</string>
-    <string name="label_notes">Qeydlər</string>
+    <string name="label_notes">Notlar</string>
     <string name="label_sip_address">İnternet zəngi</string>
     <string name="launcherDialer">Telefon</string>
     <string name="listCustomView">Xüsusi görünüşdəki kontaktlar</string>
@@ -725,7 +695,7 @@ Səbəb: \"%s\""</string>
     <string name="lunarBirthdayLabelsGroup">Ay təqvimi doğum günü</string>
     <string name="make_primary">Bu seçimi xatırla</string>
     <string name="manage_external_storage_dialog_message">Zəng səsyazmalarını idarə etmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
-    <string name="manage_external_storage_dialog_positive">Tənzimləmələr</string>
+    <string name="manage_external_storage_dialog_positive">Ayarlar</string>
     <string name="manage_external_storage_dialog_title">Tələb olunan icazələr</string>
     <string name="map_custom">%s ünvanına bax</string>
     <string name="map_home">Ev ünvanına bax</string>
@@ -750,10 +720,10 @@ Səbəb: \"%s\""</string>
     <string name="menu_newContactButton">Əlavə et</string>
     <string name="menu_new_favorite_action_bar">Sevimlilərə əlavə et</string>
     <string name="menu_new_group_action_bar">Yeni</string>
-    <string name="menu_not_redirect_calls_to_vm">Səsli mesaj istifadə edilmir</string>
-    <string name="menu_redirect_calls_to_vm">Bütün zəngləri səsli mesaja yönləndir</string>
+    <string name="menu_not_redirect_calls_to_vm">Səsli poçt istifadə edilmir</string>
+    <string name="menu_redirect_calls_to_vm">Bütün zəngləri səsli poçta yönləndir</string>
     <string name="menu_removeStar">Sevimlilərdən silin</string>
-    <string name="menu_settings">Tənzimləmələr</string>
+    <string name="menu_settings">Ayarlar</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_share_qrcode">QR kodu</string>
     <string name="menu_share_text">Mətn</string>
@@ -768,8 +738,8 @@ Səbəb: \"%s\""</string>
     <string name="missing_name">(Ad yoxdur)</string>
     <string name="missing_required_permission">Lazımi bir icazəni sıradan çıxartdınız.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
@@ -779,8 +749,9 @@ Səbəb: \"%s\""</string>
     <string name="miuix_appcompat_cloud_state_syncing">Cloud ilə sinxronlaşdırılır…</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -883,7 +854,7 @@ Səbəb: \"%s\""</string>
     <string name="non_phone_close">Bağla</string>
     <string name="noon">Günorta</string>
     <string name="not_applied">"Tətbiq edilə bilmədi"</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_click_detail">Detallara baxmaq üçün toxunun</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud bəzi kontaktlarınızı silmək istəyir</string>
     <string name="notification_missedCallTitle">Buraxılmış zəng</string>
@@ -907,11 +878,11 @@ Səbəb: \"%s\""</string>
     <string name="payphone">Taksafon</string>
     <string name="people">Kontaktlar</string>
     <string name="permission_access_fine_location_desc">Yerli şəbəkə siqnalını yaxşılaşdırmaq üçün</string>
-    <string name="permission_camera_desc">Kimlik təsdiqləməsi zamanı foto çəkmək üçün</string>
+    <string name="permission_camera_desc">Kimlik doğrulaması zamanı foto çəkmək üçün</string>
     <string name="permission_dailog_positive_button">Get</string>
     <string name="permission_dailog_title">Tələb olunan icazələr</string>
     <string name="permission_notice_desc_access_fine_location">Kontaktları Bluetooth vasitəsilə digər cihazlardan daxilə köçürmək üçün</string>
-    <string name="permission_notice_desc_add_voicemail">Səsli mesaj və səs mesajı özəlliklərini istifadə etmək üçün</string>
+    <string name="permission_notice_desc_add_voicemail">Səsli poçt və səsli mesaj özəlliklərini istifadə etmək üçün</string>
     <string name="permission_notice_desc_call_phone">Əsas ekran qısayolları vasitəsilə zəng etmək üçün</string>
     <string name="permission_notice_desc_call_phone_for_pad">Üçüncü tərəf tətbiqlərində zəng etmək üçün</string>
     <string name="permission_notice_desc_camera">Profil şəkilləri çəkmək üçün</string>
@@ -923,12 +894,12 @@ Səbəb: \"%s\""</string>
     <string name="permission_notice_desc_write_call_logs">Zəng tarixçəsinə düzəliş etmək üçün</string>
     <string name="permission_notice_desc_write_contacts">Kontaktları idarə etmək üçün</string>
     <string name="permission_notice_desc_write_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
-    <string name="permission_record_audio_desc">Kimlik təsdiqləməsi zamanı səsinizi istifadə etmək üçün</string>
+    <string name="permission_record_audio_desc">Kimlik doğrulama zamanı səsinizi istifadə etmək üçün</string>
     <string name="permission_retry_deny">İmtina</string>
     <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək üçün, Əsas ekran qısayolları vasitəsilə zənglər etmək, kontaktlarınızı idarə etmək və zəng tarixçəsini güncəl saxlamaq üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə müraciət və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
     <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə etməsi üçün bu tətbiqin kontaktlarınıza müraciət və düzəliş etməsinə, həmçinin cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
-    <string name="permission_retry_setting">Tənzimləmələr</string>
-    <string name="permission_write_external_storage_desc">Tətbiq verilənlərini saxlamaq üçün</string>
+    <string name="permission_retry_setting">Ayarlar</string>
+    <string name="permission_write_external_storage_desc">Tətbiq datasını saxlamaq üçün</string>
     <string name="phoneLabelsGroup">Telefon</string>
     <string name="phone_number_too_long_toast">Nömrə çox uzundur</string>
     <string name="phone_primary">Əsas</string>
@@ -960,8 +931,8 @@ Səbəb: \"%s\""</string>
     <string name="pref_key_sdn_manage1">SDN kart 1 göstər</string>
     <string name="pref_key_sdn_manage2">SDN kart 2 göstər</string>
     <string name="pref_key_sim_manage">SIM kartlar</string>
-    <string name="pref_key_sim_manage1">SIM kart 1-i tənzimlə</string>
-    <string name="pref_key_sim_manage2">SIM kart 2-ni tənzimlə</string>
+    <string name="pref_key_sim_manage1">SIM kart 1-i ayarla</string>
+    <string name="pref_key_sim_manage2">SIM kart 2-ni ayarla</string>
     <string name="pref_summary_import_from_account">Kontaktları Google və Exchange hesablarından Xiaomi Hesabıma köçür</string>
     <string name="pref_title_account_import">Kontaktları daxilə köçür</string>
     <string name="pref_title_import_from_account">Xiaomi Hesabına köçür</string>
@@ -976,10 +947,11 @@ Səbəb: \"%s\""</string>
     <string name="preference_dial_pad_touch_tone_title">Nömrə yığım tonları</string>
     <string name="preference_display_contact">Görüntüləmə seçimləri</string>
     <string name="preference_export">Xaricə köçür</string>
+    <string name="preference_feedback_title">Əks-əlaqə</string>
     <string name="preference_import">Daxilə köçür</string>
     <string name="preference_import_export">Daxilə/xaricə köçür</string>
     <string name="preference_import_export_title">Kontaktları daxilə/xaricə köçür</string>
-    <string name="preference_key_trash_bin_title">Kontaktları bərpa et</string>
+    <string name="preference_key_trash_bin_title">Kontaktları geri qaytar</string>
     <string name="preference_other">Digər</string>
     <string name="preference_privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="preference_privacy_settings">Gizlilik</string>
@@ -997,19 +969,11 @@ Səbəb: \"%s\""</string>
     <string name="preference_smart_group_location_title">Yerləşmələr</string>
     <string name="preference_smart_group_title">Ağıllı qruplar</string>
     <string name="preference_tone_title">Tonlar</string>
-    <string name="preference_yellowpage_function_setting">Sarı səhifələr tənzimləmələri</string>
+    <string name="preference_yellowpage_function_setting">Sarı səhifələr ayarları</string>
     <string name="presentation_payphone">Taksafon</string>
     <string name="presentation_private">Gizli nömrə</string>
     <string name="presentation_unknown">Bilinməyən nömrə</string>
     <string name="previous">Əvvəlki</string>
-    <string name="privacy_password_message1">Gizlilik qoruma parolu foto, qeyd və gizli qovluqlar üçün işləyir.</string>
-    <string name="privacy_password_message2">Gizlilik qoruma parolunu istifadə edin. O foto, qeyd və gizli fayllar üçün işləyir.</string>
-    <string name="privacy_password_message3">Parolunuz, foto, qeyd və gizli qovluqlar üçün işləyə bilən Gizlilik qoruma parolu ilə əvəz olunacaq.</string>
-    <string name="privacy_password_set_password">Tənzimlə</string>
-    <string name="privacy_password_title1">Parol təyin et</string>
-    <string name="privacy_password_title2">Gizlilik qoruma parolunu istifadə et</string>
-    <string name="privacy_password_title3">Parolu güncəllə</string>
-    <string name="privacy_password_title4">Parol güncəlləndi</string>
     <string name="privacy_settings_blue_scan_connect">Yaxınlıqdakı cihazlara bağlan</string>
     <string name="privacy_settings_call_phone">Zəng et</string>
     <string name="privacy_settings_call_phone_description">Əsas ekran qısayolları vasitəsilə zəng etmək üçün</string>
@@ -1053,7 +1017,7 @@ Səbəb: \"%s\""</string>
     <string name="qrcode_card_title">QR kodu</string>
     <string name="quick_dial_setting_delete_dialog_message">Təyin edilmiş cəld yığım nömrəsi silinsin?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Sil</string>
-    <string name="quick_dial_setting_hint">Bir cəld yığım nömrəsi təyin etmək və ya silmək üçün bir düyməyə toxunun. Yığmaq üçün nömrə təyin edilmiş düyməyə basıb saxlayın.</string>
+    <string name="quick_dial_setting_hint">Bir cəld yığım nömrəsi təyin etmək və ya silmək üçün bir düyməyə toxunun. Yığmaq üçün nömrə təyin edilmiş düyməyə basılı tutun.</string>
     <string name="quick_dial_setting_set_dialog_message">Bu düyməyə cəld yığım nömrəsi təyin edilsin?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Bəli</string>
     <string name="quick_dial_setting_title">Cəld yığım</string>
@@ -1066,7 +1030,7 @@ Səbəb: \"%s\""</string>
     <string name="recentCallsIconLabel">Zəng jurnalı</string>
     <string name="recent_contacts_label">Sonuncular</string>
     <string name="recent_number">Sonuncu</string>
-    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu tənzimləməzdən əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu ayarlamazdan əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
     <string name="redirect_calls_to_vm_confirm_text">Oldu</string>
     <string name="relationLabelsGroup">Münasibət</string>
     <string name="removePhoto">Fotonu sil</string>
@@ -1090,7 +1054,7 @@ Səbəb: \"%s\""</string>
     <string name="saf_permission_dialog_content">"Android, ilkin olaraq \"Kontaktlar\" və \"Telefon\"un zəng qeydlərinə daxil olmasına icazə vermir. Bu tətbiqin baxa bilməsi üçün zəng qeydlərinə müraciət etməsinə icazə verin."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">İcazə ver</string>
     <string name="saf_permission_dialog_later">Daha sonra</string>
-    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng qeydlərinə müraciətinə icazə ver</string>
+    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng yazılarına müraciətinə icazə ver</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1099,21 +1063,15 @@ Səbəb: \"%s\""</string>
     <string name="scan_business_card">Vizit kartı skan et</string>
     <string name="scan_bussiness_card_merge_tip">Ziddiyətli verilənlər dəyişdirildi</string>
     <string name="scan_merge">Dublikat kontaktlar axtarılır…</string>
-    <string name="scan_not_installed">Əvvəlcə Skaneri quraşdırın</string>
+    <string name="scan_not_installed_china">Əvvəlcə Mi AI Skaneri quraşdırın</string>
+    <string name="scan_not_installed_global">Əvvəlcə Skaneri quraşdırın</string>
     <string name="scan_qrcode_card_hint1">Yuxarıdakı QR kodu skan edin</string>
     <string name="scanning_sdcard_failed_message">Səbəb: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">"Anbar sahəsi skan edilə bilmədi"</string>
     <string name="sdnContacts_empty">SDN yoxdur</string>
     <string name="sdnContacts_emptyLoading">SDN yüklənir…</string>
     <string name="searchHint">Kontakt axtarışı</string>
-    <string name="search_group_call">Zənglər</string>
-    <string name="search_group_call_search_tip">Bu zəngdə nəticələr tapıldı. Baxmaq üçün toxunun.</string>
-    <string name="search_group_contacts">Kontaktlar</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="search_new_funcation">Bu özəllik haqqında</string>
-    <string name="search_open_new_funcation">Aç</string>
-    <string name="search_open_new_funcation_tip">Bu özəllik açıq olduqda, müəyyən sözlərin deyildiyi zəngləri tapmaq üçün zəngləriniz avtomatik olaraq yazılacaq.</string>
-    <string name="search_open_new_funcation_title">Səsli zəng axtarışı</string>
     <string name="search_results_searching">Axtarılır…</string>
     <string name="search_settings_description">Kontaktlarınızın adları</string>
     <string name="searching_vcard_message">Cihazdakı vCard verilənləri axtarılır…</string>
@@ -1129,7 +1087,7 @@ Səbəb: \"%s\""</string>
     <string name="separatorJoinAggregateSuggestions">Təklif olunan kontaktlar</string>
     <string name="service_provider">Kataloq</string>
     <string name="service_provider_detail">Kataloq detalları</string>
-    <string name="set_default">İlkin olaraq tənzimlə</string>
+    <string name="set_default">İlkin olaraq ayarla</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Kontaktı paylaş</string>
     <string name="share_error">"Bu kontakt paylaşıla bilmir"</string>
@@ -1271,12 +1229,12 @@ Səbəb: \"%s\""</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="titleJoinContactDataWith">Kontaktları birləşdir</string>
-    <string name="toast_call_no_SoundRecorder">"Səsyazma əlçatmazdır"</string>
-    <string name="toast_call_no_notes">"Qeydlər tətbiqi əlçatmazdır"</string>
+    <string name="toast_call_no_SoundRecorder">"Səsyazan əlçatmazdır"</string>
+    <string name="toast_call_no_notes">"Notlar tətbiqi əlçatmazdır"</string>
     <string name="toast_copy_done">Hazırdır</string>
     <string name="toast_copying">Kopyalanır…</string>
     <string name="toast_finish_delete_call_log">Uğurla təmizləndi</string>
@@ -1304,7 +1262,6 @@ Səbəb: \"%s\""</string>
     <string name="two_letter">ABC</string>
     <string name="type_mx_msg">Mi Mesaj</string>
     <string name="unable_get_device_id">IMEI alına bilmir</string>
-    <string name="undefined">Tənzimlənmədi</string>
     <string name="unknow_phone_number_call_failed">"Bilinməyən nömrələrə zəng edilə bilmir"</string>
     <string name="unknow_phone_number_mms_failed">"Bilinməyən nömrələrə mesaj göndərilə bilmir"</string>
     <string name="unknown">Bilinmir</string>
@@ -1312,7 +1269,7 @@ Səbəb: \"%s\""</string>
     <string name="unknown_details_add_to_contact">Mövcud</string>
     <string name="unknown_details_new_contact">Yeni</string>
     <string name="unshow_qr_code_in_narrow_screen_split">"Bölünmüş ekranı istifadə edərkən QR kodlar göstərilə bilmir"</string>
-    <string name="update_sim_contact_photo_toast">"SIM kontaktları üçün profil şəkli tənzimləmənə bilmir"</string>
+    <string name="update_sim_contact_photo_toast">"SIM kontaktları üçün profil fotosu ayarlana bilmir"</string>
     <string name="upgrade_in_progress">Kontakt siyahısı güncəllənir.</string>
     <string name="upgrade_out_of_memory">"Kontaktlar güncəllənmə prosesindədir. 
 
@@ -1334,7 +1291,7 @@ Aşağıdakı seçimlərdən birini seçin:"</string>
     <string name="viewContactTitle">Kontakt detalları</string>
     <string name="view_more_call_logs">Daha çoxuna bax</string>
     <string name="view_updates_from_group">Güncəlləmələrə bax</string>
-    <string name="voicemail">Səsli mesaj</string>
+    <string name="voicemail">Səsli poçt</string>
     <string name="websiteLabelsGroup">Veb sayt</string>
     <string name="webview_btn_retry">Yenidən sına</string>
     <string name="webview_network_failure">"Şəbəkəyə bağlana bilmədi"</string>

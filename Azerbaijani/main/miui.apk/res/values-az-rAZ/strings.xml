@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Sinxr təkrar aktivləşdir</string>
     <string name="activating">Aktivləşdirilir…</string>
     <string name="address">Ünvan</string>
-    <string name="after_reset_need_restore_system_app">"Deyəsən, fabrik tənzimləmələrinə qayıtdınız. MIUI-ni normal istifadə edə bilmək üçün üçün şəbəkəyə qoşulun və sistem elementlərini bərpa edin."</string>
+    <string name="after_reset_need_restore_system_app">"Deyəsən, fabrik sıfırlaması icra etdiniz. MIUI-ni normal istifadə edə bilmək üçün üçün şəbəkəyə bağlanın və sistem elementlərini bərpa edin."</string>
     <string name="afternoon">GS</string>
     <string name="am">GƏ</string>
     <string name="birthday">Doğum günü</string>
@@ -19,7 +19,7 @@
     <string name="check_phone_error_title">Sinxr bağlıdır</string>
     <string name="check_phone_io_error">"Şəbəkə ilə bağlantı qurula bilmir"</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_to_restore">Fabrik tənzimləmələrinə qayıtdıqdan sonra MIUI-ni normal istifadə edə bilmək üçün sistem elementlərini bərpa edin. Başlamaq üçün toxunun.</string>
+    <string name="click_to_restore">Fabrik sıfırlamasından sonra MIUI-ni normal istifadə edə bilmək üçün sistem elementlərini bərpa edin. Başlamaq üçün toxunun.</string>
     <string name="close">Bağla</string>
     <string name="com_android_email">Poçt</string>
     <string name="com_android_soundrecorder">Səsyazan</string>
@@ -30,8 +30,8 @@
     <string name="com_miui_compass">Kompas</string>
     <string name="com_miui_health">Xiaomi Health</string>
     <string name="com_miui_huanji">Mi Mover</string>
-    <string name="com_miui_notes">Qeydlər</string>
-    <string name="com_miui_screenrecorder">Ekran Qeydedici</string>
+    <string name="com_miui_notes">Notlar</string>
+    <string name="com_miui_screenrecorder">Ekran Yazıcı</string>
     <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Hava</string>
     <string name="com_xiaomi_drivemode">Avtomobil rejimi</string>
@@ -44,10 +44,10 @@
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Təsdiqlə</string>
     <string name="copyright">Müəllif hüquqları</string>
-    <string name="date_picker_dialog_title">Tarixi tənzimlə</string>
+    <string name="date_picker_dialog_title">Tarixi ayarla</string>
     <string name="date_picker_lunar">Ənənəvi Çin təqvimi</string>
     <string name="date_time_done">Hazırdır</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_description">Sil</string>
     <string name="deselect_all">Seçimi ləğv et</string>
     <string name="deselect_all_description">Heç birini seçmə</string>
@@ -145,7 +145,7 @@
     <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_right_now">Bərpa et</string>
     <string name="retry">Yenidən sına</string>
-    <string name="sar">RF Məruz qalma məlumatları</string>
+    <string name="sar">RF Ekspozisiya Məlumatı</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şən</string>
@@ -192,7 +192,7 @@
     <string name="system_app_restore_completed">Uğurla bərpa edildi</string>
     <string name="system_app_restore_completed_detail">Bütün sistem elementləri uğurla bərpa edildi</string>
     <string name="system_app_restore_failed">Xəta baş verdi</string>
-    <string name="system_app_restore_failed_detail">"Sistem elementləri bərpa edilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayın və elementlər tam bərpa olunana qədər cihazınızı yenidən başlatmayın və ya söndürməyin. Yenidən sınamaq üçün aşağıdakı düyməyə toxunun."</string>
+    <string name="system_app_restore_failed_detail">"Sistem elementləri bərpa edilə bilmədi. Şəbəkə ayarlarınızı yoxlayın və elementlər tam bərpa olunana qədər cihazınızı yenidən başlatmayın və ya söndürməyin. Yenidən sınamaq üçün aşağıdakı düyməyə toxunun."</string>
     <string name="system_restore">Elementləri bərpa et</string>
     <string name="tap_to_update_system_app">Sistem tətbiqlərini güncəlləmək üçün toxunun</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
@@ -238,7 +238,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

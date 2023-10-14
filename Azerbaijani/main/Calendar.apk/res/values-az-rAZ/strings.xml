@@ -39,7 +39,7 @@
     <string name="accessibility_sync_cal">Təqvimi sinxronlaşdır</string>
     <string name="account_and_calendar">Hesablar</string>
     <string name="action_bar_return">Geri</string>
-    <string name="action_label">Geri qayıt</string>
+    <string name="action_label">Qayıt</string>
     <string name="action_text_card_manager">Kanal</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="add_anniversary">İldönümü əlavə et</string>
@@ -52,6 +52,7 @@
     <string name="additional_calendar_note">Bəzi əlavə təqvimlər mövcud olmaya bilər və ya tutarsız amillərdən asılı olaraq dəyişə bilər</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agenda_month_empty_hint">Bu gün üçün tədbir yoxdur</string>
+    <string name="agenda_not_today_empty_hint">Burada hələ heç bir tədbir yoxdur. Yaratmaq üçün toxunun.</string>
     <string name="agenda_tomorrow">SABAH, %1$s</string>
     <string name="agenda_view">Tədbirlər</string>
     <string name="alarm_label">Ləğv et</string>
@@ -86,8 +87,8 @@
     <string name="birthday_notification_title_today">"%1$s üçün %3$s"</string>
     <string name="birthday_saved">Doğum günü saxlanıldı</string>
     <string name="birthday_term">doğum günü</string>
-    <string name="button_record_menstruation">Qeyd</string>
-    <string name="calendar_account_settings">Hesab tənzimləmələri</string>
+    <string name="button_record_menstruation">Qeyd et</string>
+    <string name="calendar_account_settings">Hesab ayarları</string>
     <string name="calendar_permission_desc">Tədbirləri idarə et</string>
     <string name="calendar_privacy_policy">Gizlilik Siyasəti</string>
     <string name="can_not_create_long_event">Tədbir adı çox uzundur</string>
@@ -127,7 +128,7 @@
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
     <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_update_button">Güncəllə</string>
     <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləyənə qədər %1$s işləməyəcək."</string>
@@ -175,7 +176,7 @@
     <string name="date_jump_hint">Birbaşa müəyyən tarixə gedin</string>
     <string name="date_jump_title">Tarixə get</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_today">" (bu gün)"</string>
     <string name="date_view">Tarix</string>
     <string name="day">Gün</string>
@@ -262,6 +263,7 @@
     <string name="event_info_when">Nə vaxt</string>
     <string name="event_info_where">Harada</string>
     <string name="event_reminder_allday_day_zero">Eyni gün %2$s</string>
+    <string name="event_reminder_custom">Özəl</string>
     <string name="event_reminder_value_zero">Tədbirdən əvvəl</string>
     <string name="event_title">Başlıq</string>
     <string name="event_view">Tədbirə bax</string>
@@ -288,6 +290,7 @@
     <string name="full_scorecard">Tam hesab kartı</string>
     <string name="gadget_no_events">Yaxınlaşan təqvim tədbiri yoxdur</string>
     <string name="gadget_title">Təqvim</string>
+    <string name="glance_card_sub_title">Kilid ekranınızda həyacanverici hekayələr əldə edin</string>
     <string name="global_action_text_card_manager">Təqviminizi özəlləşdirin</string>
     <string name="global_cricket_no_match">Bu gün üçün planlaşdırılmış kriket oyunları yoxdur. Digər günləri yoxlayın.</string>
     <string name="global_football_final">FİNAL</string>
@@ -308,9 +311,9 @@
     <string name="greetingcard_reminder_dialog_title">Bildirişlər al</string>
     <string name="greetingcard_reminder_disabled_status">"WhatsApp statusları haqqında gündəlik xatırladıcılar almayacaqsınız."</string>
     <string name="greetingcard_reminder_disabled_text">Xatırladıcıları aç</string>
-    <string name="greetingcard_reminder_enabled_status">"WhatsApp vəziyyətləri haqqında günlük xatırladıcılar alacaqsınız."</string>
+    <string name="greetingcard_reminder_enabled_status">"WhatsApp statusları haqqında gündəlik xatırladıcılar alacaqsınız."</string>
     <string name="greetingcard_reminder_enabled_text">Xatırladıcılar açıqdır</string>
-    <string name="greetingcard_reminder_pref_desc">Salamlamalar və vəziyyətlər haqqında günlük bildiriş alın</string>
+    <string name="greetingcard_reminder_pref_desc">Salamlamalar və statuslar haqqında gündəlik bildiriş alın</string>
     <string name="greetingcard_reminder_pref_title">Bildirişlər al</string>
     <string name="greetingcard_select_activity_label">Bütün salamlamalar</string>
     <string name="greetingcard_view_all_text">Hamısına bax</string>
@@ -354,7 +357,7 @@
     <string name="install_email_finished">Uğurla quraşdırıldı</string>
     <string name="installing_email">Quraşdırılır…</string>
     <string name="item_num_selected">%1$d element seçildi</string>
-    <string name="language_change_confirmation">Uğurla dəyişdirildi. Dili, Təqvim tənzimləmələrindən dəyişdirə bilərsiniz.</string>
+    <string name="language_change_confirmation">Uğurla dəyişdirildi. Dili, Təqvim ayarlarında dəyişdirə bilərsiniz.</string>
     <string name="launch_weather_comment">Hava durumu məlumatını üçün buraya toxunun</string>
     <string name="load_more_events">%d tədbirə bax</string>
     <string name="load_more_events_default">"Növbəti ilin tədbirlərinə bax"</string>
@@ -395,7 +398,7 @@
     <string name="menstruation_last_start_date">Son menstruasiya başladı</string>
     <string name="menstruation_record">Qeyd edilən periodlar</string>
     <string name="menstruation_select_date">Tarixi seçin</string>
-    <string name="menstruation_setting">Menstruasiya tənzimləmələri</string>
+    <string name="menstruation_setting">Menstruasiya ayarları</string>
     <string name="menstrution_auth_description">Menstruasiya köməkçisi periodları qeyd etməyinizə, yaxınlaşan periodların təxmini tarixlərini müəyyən etməyinizə və xatırladıcılar almağınıza imkan verir. Bütün əlaqəli verilənlər cihazınızın yerli yaddaşında saxlanılır.</string>
     <string name="menu_general_preferences">Ümumi</string>
     <string name="menu_reminder_preferences">Xatırladıcılar</string>
@@ -410,7 +413,7 @@
     <string name="missing_name">(Adsız)</string>
     <string name="missing_required_permission">Tələb edilən icazələri məhdudlaşdırdınız.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -514,12 +517,12 @@
     <string name="no_events_hint">Tədbir yoxdur</string>
     <string name="no_holiday_selected">"İstirahət günləri seçilmədi"</string>
     <string name="no_internet">"İnternetə bağlana bilmədi"</string>
-    <string name="no_internet_dialog_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="no_internet_dialog_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="no_internet_dialog_title">Xəta baş verdi</string>
     <string name="no_long_holidays">Yaxınlaşan uzun bayram yoxdur</string>
     <string name="no_more_events">Göstəriləcək heç bir tədbir yoxdur</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmədi.
-Şəbəkə tənzimləmələrini yoxlayıb yenidən sınayın."</string>
+Şəbəkə ayarlarını yoxlayıb yenidən sınayın."</string>
     <string name="no_network_btn">Yenidən sına</string>
     <string name="no_records">Burada hələ element yoxdur.</string>
     <string name="no_storage">Yetərli anbar sahəsi yoxdur</string>
@@ -530,11 +533,11 @@
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="not_more_than_three_weekday">%d günə qədər seçə bilərsiniz</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notes_hint">Tapşırıq əlavə etmək üçün toxunun</string>
-    <string name="notes_reminders_channel">Qeyd xatırladıcıları</string>
-    <string name="notes_settings_summary">Gündəlik tapşırıqları və qeydləri Təqvimə əlavə edin</string>
-    <string name="notes_title">Qeydlər</string>
+    <string name="notes_reminders_channel">Not xatırladıcıları</string>
+    <string name="notes_settings_summary">Gündəlik tapşırıqları və notları Təqvimə əlavə edin</string>
+    <string name="notes_title">Notlar</string>
     <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s və %5$s</string>
     <string name="notes_week_name_four">%1$s, %2$s, %3$s və %4$s</string>
     <string name="notes_week_name_seven">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s və %7$s</string>
@@ -543,6 +546,10 @@
     <string name="notes_week_name_two">%1$s və %2$s</string>
     <string name="notes_weekly">Həftəlik</string>
     <string name="notification_channel_name">Təqvim xatırladıcıları</string>
+    <string name="notification_open_setting_button_exit">Xeyr, təşəkkürlər</string>
+    <string name="notification_open_setting_button_ok">İcazə ver</string>
+    <string name="notification_open_setting_message">"\"Təqvim\"in sizə bildirişlər göndərməsinə icazə verməyincə, tədbirlər haqqında bildirişlər ala bilməyəcəksiniz."</string>
+    <string name="notification_open_setting_title">Təqvim bildirişlərinə icazə verilsin?</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Amanta ayı:</string>
     <string name="panchang_ayana">Ayana</string>
@@ -568,7 +575,8 @@
     <string name="panchang_yog">Yoq</string>
     <string name="partner_compatibility">Tərəfdaş uyğunluğu</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="path_calendar_settings">Sistem tətbiqləri/Təqvim/Tənzimləmələr</string>
+    <string name="path_calendar_settings">Sistem tətbiqləri/Təqvim/Ayarlar</string>
+    <string name="permission_denial">Bu özəlliyi istifadə edə bilmək üçün icazələri verin</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="picker_day">Seçilmiş gün: %1$d. Seçmək üçün şaquli olaraq sürüşdür.</string>
     <string name="picker_month">Seçilmiş ay: %1$d. Seçmək üçün şaquli olaraq sürüşdür.</string>
@@ -603,12 +611,13 @@
     <string name="preferences_week_start_day_title">Həftənin başlanğıcı</string>
     <string name="prefsx_notify_sound_none">Səssiz</string>
     <string name="premission_description_log">Jurnalları yaddaşda saxlamaq üçün</string>
-    <string name="premission_description_ringtone">Zəng səslərini tənzimləmək üçün</string>
+    <string name="premission_description_notice">Tədbirlər və bayramlar haqqında bildiriş göndərmək üçün</string>
+    <string name="premission_description_ringtone">Zəng səslərini ayarlamaq üçün</string>
     <string name="privacy_and_permissions">Gizlilik və icazələr</string>
-    <string name="privacy_card_description">Bütün özəlliklərə müraciət etmək üçün Gizlilik Siyasətimizi qəbul edin.</string>
+    <string name="privacy_card_description">Bütün özəlliklərə müraciət etmək üçün Gizlilik Siyasətimizlə razılaşın.</string>
     <string name="privacy_policy_dialog_agree">Razıyam</string>
     <string name="privacy_policy_dialog_dont_agree">"Razı deyiləm"</string>
-    <string name="privacy_policy_dialog_message"><Data>\"Təqvimə xoş gəldiniz!&lt;br/&gt;Bu tətbiqi tədbirlər yaratmaq və idarə etmək, xatırladıcılar tənzimləmək və yerləşmənizə xas əlavə məlumatlar almaq üçün istifadə edə bilərsiniz.&lt;br/&gt;Təqvim, sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız verilənləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. &lt;br/&gt;\"Təqvim\"i istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyub qəbul edin. \"Təqvim\"in Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz.&lt;br/&gt; \"Gizlilik Siyasəti\"mizi qəbul etməsəniz, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="privacy_policy_dialog_message"><Data>\"Təqvimə xoş gəlmisiniz!&lt;br/&gt;Bu tətbiqi tədbirlər yaratmaq və idarə etmək, xatırladıcılar ayarlamaq və yerləşmənizə xas əlavə məlumatlar almaq üçün istifadə edə bilərsiniz.&lt;br/&gt;Təqvim, sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. &lt;br/&gt;\"Təqvim\"i istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Təqvim\"in Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz.&lt;br/&gt; \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="privacy_policy_dialog_title">Şərtlər və qaydalar</string>
     <string name="privacy_revoke_switch_text">Razılığın geri götürülməsi</string>
     <string name="pull_refresh_events">%d tədbirə bax</string>
@@ -629,6 +638,8 @@
     <string name="remind_title_menstruation_start">Periodun nə vaxt başlayacağını xatırlat</string>
     <string name="remind_title_record">Qeyd etmək üçün xatırlat</string>
     <string name="repeat_activity_label">Təkrarla</string>
+    <string name="repeat_alarm_close_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı söndürülsün?</string>
+    <string name="repeat_alarm_open_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı qurulsun?</string>
     <string name="repeat_custom_activity_label">Özəl</string>
     <string name="repeat_custom_prompt_daily">hər %1$s</string>
     <string name="repeat_custom_prompt_sentence">Tədbir hər %1$s təkrarlanacaq</string>
@@ -674,17 +685,17 @@
     <string name="select_menstruation_end_date">Bu periodun bitmə tarixini seçin</string>
     <string name="select_weekly_off_dialog_title">İstirahət günlərini seçin</string>
     <string name="send">Göndər</string>
-    <string name="set_interval">Aralığı tənzimlə</string>
-    <string name="set_reminder">Xatırladıcını tənzimlə</string>
-    <string name="setting">Tənzimləmələr</string>
+    <string name="set_interval">Aralığı ayarla</string>
+    <string name="set_reminder">Xatırladıcı qur</string>
+    <string name="setting">Ayarlar</string>
     <string name="setting_about_calendar_version">Təqvim versiyası:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">MIUI versiyası:</string>
     <string name="setting_about_summary">Versiya:</string>
     <string name="setting_accounts">Təqvim hesabları</string>
     <string name="setting_change_language">Təqvim dilini seçin</string>
-    <string name="setting_desc_import_todo">\"Qeydlər\"dən vaxta həssas tapşırıqları daxilə köçürün</string>
-    <string name="setting_features_title">Özəllik tənzimləmələri</string>
+    <string name="setting_desc_import_todo">\"Not\"lardan vaxt həssaslı tapşırıqları daxilə köçür</string>
+    <string name="setting_features_title">Özəllik ayarları</string>
     <string name="setting_holiday_display_desc">Bayram kartları əsas səhifədə gündəliyinizin altında yerləşir</string>
     <string name="setting_holiday_reminder">Bayram xatırladıcı</string>
     <string name="setting_import_events">Tədbirləri daxilə köçür</string>
@@ -705,7 +716,7 @@
     <string name="short_date_format">dd MMM</string>
     <string name="shortcut_new_event">Tədbir əlavə et</string>
     <string name="shortcut_next_agenda">Növbəti tədbir</string>
-    <string name="shortcut_settings">Tənzimləmələr</string>
+    <string name="shortcut_settings">Ayarlar</string>
     <string name="show_day_view">Günü göstər</string>
     <string name="show_indic_date_summary">Hindistan dillərindən biri sistem dili kimi təyin edildikdə, Hind təqvimi əlçatan olacaq</string>
     <string name="show_menstruation_info">Menstruasiya məlumatlarını göstər</string>
@@ -751,7 +762,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="tab_view_week">Həftə</string>
     <string name="tab_view_year">İl</string>
     <string name="talk_back_read_date">%1$s (%2$s ay təqviminə görə).</string>
-    <string name="talk_back_setting">Tənzimləmələr</string>
+    <string name="talk_back_setting">Ayarlar</string>
     <string name="talk_back_tab_switch">Baxışlar arasında keçid</string>
     <string name="talk_back_tab_switch_language">Təqvim dilini seçin</string>
     <string name="talkback_bengali">Benqalca</string>
@@ -773,7 +784,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="tb_mens_month_future_date">"%1$s. Gələcək tarixləri seçmək olmur."</string>
     <string name="tb_mens_month_history">Günlərlə ortalama period müddəti: %1$d. Günlərlə ortalama dövr müddəti: %2$d.</string>
     <string name="tb_mens_month_marked">%1$s. Menstruasiya dövrü işarələndi.</string>
-    <string name="tb_mens_month_no_marks">"%1$s. Vəziyyət işarələnmədi."</string>
+    <string name="tb_mens_month_no_marks">"%1$s. Status işarələnmədi."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tarixi dəyişdirmək üçün toxunun.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Menstruasiya dövrünün %2$d. günü. Seçildi.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Menstruasiya dövrünün %2$d. günü. Tarix seçmək üçün toxunun.</string>
@@ -790,13 +801,13 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_zone">Saat qurşağı</string>
     <string name="timezone_label">Saat qurşağı</string>
     <string name="title_click_record_menstruation">Period qeyd edin</string>
     <string name="title_menstruation_predict_start_today">Periodunuz çox güman ki, bu gün başlayacaq</string>
     <string name="title_menstruation_predict_start_tomorrow">Periodunuz çox güman ki, sabah başlayacaq</string>
-    <string name="title_no_record_menstruation">"Periodlarınızı hələ ki, qeyd etməmisiniz."</string>
+    <string name="title_no_record_menstruation">"Hələ periodlarınızı qeyd etməmisiniz."</string>
     <string name="title_p_tracker">Menstruasiya</string>
     <string name="title_start_use_menstruation_assistant">Menstruasiya dövrünüzü qeyd edin</string>
     <string name="today">Bu gün</string>
@@ -845,7 +856,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="user_experience_revoke_switch">İstifadəçi Təcrübə Proqramı</string>
     <string name="user_notice_button_exit">İmtina</string>
     <string name="user_notice_button_ok">Oldu</string>
-    <string name="user_notice_message">"Bu məhsulu istifadə edərək, bunları qəbul edirsiniz: %1$s və %2$s. Bəzi özəlliklər, normal işləməsi üçün internet bağlantısı, yerləşməyə, kontaktlara və SMS-ə müraciət tələb edir."</string>
+    <string name="user_notice_message">"Bu məhsulu istifadə edərək razılaşırsınız: %1$s və %2$s. Bəzi özəlliklər, normal işləməsi üçün internet bağlantısı, yerləşməyə, kontaktlara və SMS-ə müraciət tələb edir."</string>
     <string name="user_notice_title">Diqqət</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>

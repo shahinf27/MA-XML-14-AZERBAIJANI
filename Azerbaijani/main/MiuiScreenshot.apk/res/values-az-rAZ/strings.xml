@@ -34,6 +34,8 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
+    <string name="annotation_open">Alətləri göstər</string>
+    <string name="annotation_stow">Alətləri gizlət</string>
     <string name="app_name">Ekran şəkli</string>
     <string name="back">Geri</string>
     <string name="base_btn_cancel">İmtina</string>
@@ -41,7 +43,7 @@
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
     <string name="btn_exit_send">Çıx</string>
     <string name="btn_sure">Oldu</string>
-    <string name="can_drag">Daxil etmək və ya göndərmək üçün sürüşdür</string>
+    <string name="can_drag">Daxil etmək və ya göndərmək üçün sürükləyin</string>
     <string name="can_not_transfer_when_screening">"Köçürmə əsnasında yayımlana bilmir"</string>
     <string name="chooser_fragment_mishare_title">Paylaş</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -49,17 +51,18 @@
     <string name="confirm_cancel_task_files">%1$s üçün fayl göndərilməsi ləğv edilsin?</string>
     <string name="confirm_cancel_task_images">%1$s üçün şəkil göndərilməsi ləğv edilsin?</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_success_toast">Uğurla kopyalandı</string>
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="cta_btn_agree">Razıyam</string>
     <string name="cta_btn_disagree">"Razı deyiləm"</string>
     <string name="cta_main_purpose">\"Ekran şəkli redaktoru\"na xoş gəldiniz! Ekran şəkillərini kəsmək və onlara düzəliş etmək üçün bu tətbiqi istifadə edə bilərsiniz.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran şəkillərini saxlamaq üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
     <string name="device_list_all">Bütün cihazlar</string>
     <string name="device_list_more">Daha çox</string>
-    <string name="device_offline">Digər cihaz xətdən kənardadır. Başdan başlat.</string>
+    <string name="device_offline">Digər cihaz oflayndır. Başdan başlat.</string>
     <string name="device_status_failed">"Göndərilə bilmədi"</string>
     <string name="device_status_sending">Göndərilir…</string>
     <string name="device_status_success">Uğurla göndərildi</string>
@@ -104,7 +107,7 @@
     <string name="long_screenshot_error">Xəta baş verdi. Yenidən sınayın.</string>
     <string name="long_screenshot_guide_text">"Sürüşən ekran şəkli
 çəkmək üçün toxunun"</string>
-    <string name="long_screenshot_intercepted_error">"Ekran şəkli çəkilə bilmədi. Yenidən sınayın."</string>
+    <string name="long_screenshot_intercepted_error">Kəsinti baş verdi. Ekran şəkli Qalereyada saxlanıldı.</string>
     <string name="long_screenshot_out_of_memory_error">Şəkil çox böyükdür</string>
     <string name="long_screenshot_processing">Emal olunur…</string>
     <string name="long_screenshot_processing_description_accessibility">Emal olunur</string>
@@ -115,7 +118,7 @@
     <string name="main_save_error_msg">"Bir xətaya görə dəyişikliklər saxlanıla bilmədi"</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -184,10 +187,10 @@
     <string name="nearby_share">Yaxınlıqdakılarla paylaş</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="operation_send">Göndər</string>
     <string name="partial_screenshot_edit">Düzəliş et</string>
-    <string name="partial_screenshot_failed_to_capture_title">"Bu tətbiq ekran şəklini çəkməyə icazə vermir"</string>
+    <string name="partial_screenshot_failed_to_capture_title">"Bu səhifənin ekran şəkilləri çəkilə bilmir"</string>
     <string name="partial_screenshot_failed_to_save_title">"Saxlanıla bilmədi. Yetərsiz anbar sahəsi."</string>
     <string name="partial_screenshot_insert_failed">"Saxlanıla bilmədi"</string>
     <string name="partial_screenshot_repaint">Başdan başlat</string>
@@ -217,6 +220,12 @@
     <string name="photo_save_to_msg">Saxlanıldı: %s</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
+    <string name="privacy_mosaic_result_done">Şəxsi məlumatlar əngəlləndi</string>
+    <string name="privacy_mosaic_result_fail">"Şəxsi məlumatlar əngəllənə bilmədi. Yenidən sınayın."</string>
+    <string name="privacy_mosaic_result_none">Heç bir şəxsi məlumat tapılmadı</string>
+    <string name="privacy_mosaic_tip">Şəxsi məlumatları əngəlləmək üçün toxunun</string>
+    <string name="privacy_mosaic_tip_long">"Sürüşən ekran şəkilləri dəstəklənmir"</string>
+    <string name="privacy_mosaic_tip_partial">"Qismən ekran şəkilləri dəstəklənmir"</string>
     <string name="remover_menu_processing">Emal olunur</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -252,6 +261,8 @@
     <string name="screen_talkback_shape">Forma</string>
     <string name="screen_talkback_small">Ekstra kiçik</string>
     <string name="screen_talkback_text">Mətn</string>
+    <string name="screenshot_detected_multiple_template">%1$s daxil olmaqla bir neçə tətbiq bu ekran şəklini aşkarladı</string>
+    <string name="screenshot_detected_template">%1$s bu ekran şəklini aşkarladı</string>
     <string name="screenshot_edit">Düzəliş et</string>
     <string name="screenshot_failed_in_landscape_mode">"Mənzərə rejimində ekran şəkillərini sürüşdürmə edilə bilmir"</string>
     <string name="screenshot_feedback_txt">Əks-əlaqə</string>
@@ -260,6 +271,9 @@
     <string name="screenshot_save">Saxla</string>
     <string name="screenshot_send">Göndər</string>
     <string name="screenshot_thumbnail">Ekran şəkli eskizi</string>
+    <string name="scroll_annotation">Sürüşdür və açıqlama əlavə et</string>
+    <string name="scroll_annotation_btn_quit">Açıqlamanı tərk et</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Çıxmazdan əvvəl açıqlamalar saxlanılsın?</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
     <string name="send_files_by">Faylları paylaş</string>
@@ -291,11 +305,11 @@
     <string name="text_edit_dialog_style_transparent">Şəffaflıq</string>
     <string name="text_item_type_talkback_bubble_arrow1">Ox 1</string>
     <string name="text_item_type_talkback_bubble_arrow2">Ox 2</string>
-    <string name="text_item_type_talkback_bubble_circular">Nitq balonu</string>
+    <string name="text_item_type_talkback_bubble_circular">Nitq qabarcığı</string>
     <string name="text_item_type_talkback_bubble_none">Mətn sahəsi</string>
-    <string name="text_item_type_talkback_bubble_oval">Oval nitq balonu</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat nitq balonu 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat nitq balonu 2</string>
+    <string name="text_item_type_talkback_bubble_oval">Oval nitq qabarcığı</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat nitq qabarcığı 1</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat nitq qabarcığı 2</string>
     <string name="text_item_type_talkback_bubble_signature">İmza</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -342,7 +356,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
     <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet istifadə edərək endirilsin?"</string>

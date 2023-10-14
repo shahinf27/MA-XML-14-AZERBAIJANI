@@ -37,12 +37,12 @@
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
     <plurals name="accessibility_battery_level">
-        <item quantity="other">Batareya enerjisi %d faizdir.</item>
-        <item quantity="one">Batareya enerjisi %d faizdir.</item>
+        <item quantity="other">Batareya %d faiz dolub.</item>
+        <item quantity="one">Batareya %d faiz dolub.</item>
     </plurals>
     <plurals name="accessibility_battery_level_charging">
-        <item quantity="other">Enerji yığır, %d faiz</item>
-        <item quantity="one">Enerji yığır, %d faiz</item>
+        <item quantity="other">%d faiz dolub</item>
+        <item quantity="one">%d faiz dolub</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

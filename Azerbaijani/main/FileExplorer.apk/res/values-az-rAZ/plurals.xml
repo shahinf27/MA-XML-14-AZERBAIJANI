@@ -57,8 +57,8 @@
         <item quantity="one">%1$d gün əvvəl</item>
     </plurals>
     <plurals name="delete_cloud_files">
-        <item quantity="other">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən bərpa edilə bilər.</item>
-        <item quantity="one">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən bərpa edilə bilər.</item>
+        <item quantity="other">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən geri qaytarıla bilər.</item>
+        <item quantity="one">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən geri qaytarıla bilər.</item>
     </plurals>
     <plurals name="delete_files">
         <item quantity="other">%1$d fayl silinsin?</item>

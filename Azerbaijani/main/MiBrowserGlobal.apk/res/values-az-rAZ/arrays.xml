@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>https://www.bing.com/favicon.ico</item>
+        <item>https://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Ağ</item>
+        <item>Sarı</item>
+        <item>Boz</item>
+        <item>Qəhvəyi</item>
+        <item>Yaşıl</item>
+        <item>Göy</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Maraqlı deyil</item>
+        <item>Təkrar</item>
+        <item>Aşağı keyfiyyət</item>
+        <item>Uyğunsuz foto</item>
+        <item>Saxta məlumat</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Açıq məzmun</item>
+        <item>Yanlış məlumat</item>
+        <item>Köhnə xəbərlər</item>
+        <item>Extrimist baxış</item>
+        <item>Subliminal reklam</item>
+        <item>"Bəyənmədim"</item>
+    </string-array>
+    <string-array name="only_bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>https://www.bing.com/favicon.ico</item>
+        <item>https://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Geriyə/irəliyə get</item>
+        <item>Vərəqləri dəyişdir</item>
+        <item>Heç biri</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>İlkin başlanğıc səhifəsi</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Planşet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Şaquli baxış</item>
+        <item>Üfüqi baxış</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Açıq</item>
+        <item>Yalnız Gizli rejimdə</item>
+        <item>Bağlı</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çox kiçik</item>
+        <item>Kiçik</item>
+        <item>Normal</item>
+        <item>Böyük</item>
+        <item>Çox böyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Masaüstü</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Məhdudlaşdır</item>
+        <item>Soruş</item>
+        <item>İcazə ver</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Məhdudlaşdır</item>
+        <item>Soruş</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Məhdudlaşdır</item>
+        <item>İcazə ver</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Avto</item>
+        <item>Yoxdur</item>
+        <item>Yeni istifadəçi</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_only_bing">
+        <item>bing</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Axtar</item>
+        <item>Xəbərlər</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Xeyr, təşəkkürlər</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Oldu</item>
+        <item>İzlə</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Brauzerdən mesaj</item>
+        <item>Olimpiya Oyunlarını Mi ilə izləyin</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>"Hazırkı şəbəkə bağlantınız çox yavaşdır. Deyəsən, şəbəkə əhatə dairəsi zəif olan ərazidəsiniz."</item>
+        <item>Hazırkı şəbəkə bağlantısı yavaşdır.</item>
+        <item>Şəbəkə bağlantısı ilə bağlı heç bir problem tapılmadı.</item>
+        <item>"Hazırkı şəbəkə bağlantısı sürətlidir. Filmə baxmaq üçün yetərlidir!"</item>
+        <item>"Hazırkı şəbəkə bağlantısı çox sürətlidir! Oyununuzun zirvəsindəsiniz."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Sosial mediadan video və foto endirin</item>
+        <item>WhatsApp statuslarındakı şəkil və videoları yaddaşda saxlayın</item>
+        <item>Cihazınızdakı faylları idarə edin və onları şəxsiləşdirin</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Videolar endir</item>
+        <item>WhatsApp Status Saxlayıcı</item>
+        <item>Şəxsi fayllar</item>
+    </string-array>
+</resources>

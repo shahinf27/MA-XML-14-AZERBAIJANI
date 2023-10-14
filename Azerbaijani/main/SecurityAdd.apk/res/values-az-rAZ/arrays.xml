@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Ən aşağı</item>
+        <item>Aşağı</item>
+        <item>Normal</item>
+        <item>Yüksək</item>
+        <item>Ən yüksək</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Tarazlı</item>
+        <item>Yüksək keyfiyyət</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Tarazlı</item>
+        <item>İlkin</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Yüksək sürət</item>
+        <item>Tarazlı</item>
+        <item>Yüksək keyfiyyət</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>Ən sürətli</item>
+        <item>Tarazlı</item>
+        <item>İlkin</item>
+    </string-array>
+</resources>

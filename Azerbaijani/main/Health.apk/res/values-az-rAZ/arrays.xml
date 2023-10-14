@@ -36,7 +36,7 @@
         <item>2 saat</item>
     </string-array>
     <string-array name="contact_relation_array">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>Valideyn</item>
         <item>Bacı</item>
         <item>Qardaş</item>
@@ -51,7 +51,7 @@
         <item>" kJ"</item>
     </string-array>
     <string-array name="gender_array">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>Kişi</item>
         <item>Qadın</item>
     </string-array>
@@ -61,7 +61,7 @@
         <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
@@ -87,7 +87,7 @@
         <item>Hər bazar</item>
     </string-array>
     <string-array name="rh_blood_array">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>Mənfi</item>
         <item>Müsbət</item>
     </string-array>
@@ -150,7 +150,7 @@
         <item>" funt"</item>
     </string-array>
     <string-array name="yes_no_array">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>Bəli</item>
         <item>Xeyr</item>
     </string-array>

@@ -10,12 +10,12 @@
     <string name="cant_call_due_to_ongoing_call">"%1$s zənginizə görə zəng edilə bilmir."</string>
     <string name="cant_call_due_to_ongoing_calls">"Zəng edilə bilmir. Əvvəlcə %1$s zənginizi bitirin."</string>
     <string name="cant_call_due_to_ongoing_unknown_call">"Digər tətbiqdəki zəngə görə zəng edilə bilmir."</string>
-    <string name="change_default_call_screening_dialog_affirmative">İlkin olaraq tənzimlə</string>
+    <string name="change_default_call_screening_dialog_affirmative">İlkin olaraq ayarla</string>
     <string name="change_default_call_screening_dialog_negative">İmtina</string>
     <string name="change_default_call_screening_dialog_title">%s ilkin zəng görüntüləmə tətbiqi edilsin?</string>
     <string name="change_default_call_screening_warning_message">%s, kontaktlarınızda olmayan zəng edənlər haqqında məlumatları görə biləcək və bu zəngləri əngəlləyə biləcək. Yalnız güvəndiyiniz tətbiqlər ilkin zəng görüntüləmə tətbiqi olaraq təyin edilməlidir.</string>
     <string name="change_default_call_screening_warning_message_for_disable_old_app">%s, artıq zəngləri görüntüləyə bilməyəcək.</string>
-    <string name="change_default_dialer_dialog_affirmative">İlkin olaraq tənzimlə</string>
+    <string name="change_default_dialer_dialog_affirmative">İlkin olaraq ayarla</string>
     <string name="developer_title">Telekom tərtibatçı menyusu</string>
     <string name="duplicate_video_call_not_allowed">"Daha çox zəng əlavə edilə bilmir"</string>
     <string name="notification_channel_call_blocking">Zəng əngəlləmə</string>
@@ -31,8 +31,8 @@
     <string name="phone_settings_unknown_txt">Bilinmir</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Zəng əngəlləmə bağlıdır</string>
     <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Zəng əngəlləmə</string>
-    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Fövqəladə vəziyyət nömrələrinin sizinlə əlaqə qurmasına icazə vermək üçün zəng əngəlləmə söndürüldü.</string>
-    <string name="phone_strings_emergency_call_made_dialog_title_txt">Fövqəladə vəziyyət zəngi edildi</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Fövqəladə hal nömrələrinin sizinlə əlaqə qurmasına icazə vermək üçün zəng əngəlləmə söndürüldü.</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">Fövqəladə hal zəngi edildi</string>
     <string name="respond_via_sms_failure_format">"%s ünvanına mesaj göndərilə bilmədi."</string>
     <string name="telecommAppLabel">Zəngləri idarə et</string>
 </resources>

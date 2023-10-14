@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>Zəngli saat 1 dəqiqədən az vaxtda çalacaq</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Zəngli saat %d dəqiqədən az vaxtda çalacaq</item>
         <item>Zəngli saat %1$s ərzində çalacaq</item>
         <item>Zəngli saat %2$s ərzində çalacaq</item>
         <item>Zəngli saat %1$s %2$s ərzində çalacaq</item>
@@ -24,14 +24,14 @@
         <item>B.e. - Cüm</item>
         <item>Özəl</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Zəngli saat 1 dəqiqədən az vaxtda sönəcək.</item>
+    <string-array name="alarm_set_new_array">
+        <item>Zəngli saat %d dəqiqədən az vaxtda sönəcək.</item>
         <item>Zəngli saat %1$s ərzində sönəcək.</item>
         <item>Zəngli saat %2$s ərzində sönəcək.</item>
         <item>Zəngli saat %1$s və %2$s ərzində sönəcək.</item>
         <item>Zəngli saat %3$s ərzində sönəcək.</item>
         <item>Zəngli saat %1$s və %3$s ərzində sönəcək.</item>
-        <item>Zəngli saat%2$s və %3$s ərzində sönəcək.</item>
+        <item>Zəngli saat %2$s və %3$s ərzində sönəcək.</item>
         <item>Zəngli saat %1$s %2$s və %3$s ərzində sönəcək.</item>
     </string-array>
     <string-array name="aqi_value">
@@ -42,20 +42,19 @@
         <item>Çox pis</item>
         <item>Şiddətli</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Heç vaxt</item>
-        <item>1 dəqiqə</item>
-        <item>5 dəqiqə</item>
-        <item>10 dəqiqə</item>
-        <item>15 dəqiqə</item>
-        <item>20 dəqiqə</item>
-        <item>25 dəqiqə</item>
-        <item>30 dəqiqə</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Bazar ertəsi - Cümə</item>
         <item>Hər gün</item>
         <item>İş günü</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>B.e. - Cüm</item>
+        <item>Hər gün</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Hər gün</item>
+        <item>B.e. - Cüm</item>
+        <item>Özəl</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Hər gün</item>
@@ -164,7 +163,7 @@
         <item>Bakı</item>
         <item>Banqkok</item>
         <item>Beirut</item>
-        <item>Kəlkətə</item>
+        <item>Kolkata</item>
         <item>Dəməşq</item>
         <item>Dəkkə</item>
         <item>Dubay</item>
@@ -320,7 +319,7 @@
         <item>Hanoy</item>
         <item>Ankara</item>
         <item>Banqalor</item>
-        <item>Brazilia</item>
+        <item>Braziliya</item>
         <item>Keyptaun</item>
         <item>İslamabad</item>
         <item>Rio de Janeyro</item>
@@ -350,11 +349,6 @@
         <item>Tequsiqalpa</item>
         <item>Paramaribo</item>
         <item>Kito</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Ağ</item>
-        <item>Qara</item>
-        <item>Avtomatik</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Kot-d'İvuar"</item>
@@ -643,31 +637,6 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ekvador</item>
-    </string-array>
-    <string-array name="days_of_week">
-        <item>Baz</item>
-        <item>B.e.</item>
-        <item>Ç.a.</item>
-        <item>Çər</item>
-        <item>C.a.</item>
-        <item>Cüm</item>
-        <item>Şәn</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>Təyin edilən vaxtda</item>
-        <item>15 dəqiqə əvvəlcədən</item>
-        <item>30 dəqiqə əvvəlcədən</item>
-        <item>1 saat əvvəlcədən</item>
-        <item>Heç biri</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 dəqiqə</item>
-        <item>5 dəqiqə</item>
-        <item>10 dəqiqə</item>
-        <item>15 dəqiqə</item>
-        <item>20 dəqiqə</item>
-        <item>25 dəqiqə</item>
-        <item>30 dəqiqə</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Ümumi %1$s</item>

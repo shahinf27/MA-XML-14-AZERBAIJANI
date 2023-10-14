@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Bağlantılı cihazlar</item>
+        <item>Bağlantı və paylaşım/Bağlantılı cihazlar</item>
+        <item>MIUI+, MIUIPLUS, toxunmadan, çoxlu ekran, qarşılıqlı bağlantı, ekranı əks etdir, maus və klaviatura, ekran uzantısı, tətbiqə toxunmadan, Mi Smart Hub, əks etdir, uzantı, çoxlu tapşırıq, paylaş, maus, klaviatura, cihazlara bağlan</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. \"Screen Combo\"nu istifadə etməzdən əvvəl mobil cihazınızdakı portativ hotspot-u, Mi Share-i və ya yayımı söndürün.
+2. Mobil cihazınızda və kompüterinizdə Wi-Fi-ı açın.
+3. Mobil cihazınızın kompüterinizə yaxın olduğuna əmin olun."</item>
+        <item>Kompüteriniz, daha əvvəl bağlantılı olan mobil cihazları aşkarlamaq üçün Bluetooth-u istifadə edir. Mobil cihazınızda Bluetooth-un açıq olub-olmadığını yoxlayın.</item>
+        <item>"Mobil cihazlar, ekran kilidli olduqda datanı kompüterlərlə sinxronlaşdıra bilmir. İlkin olaraq, Screen Combo, mobil cihazınız bir kompüterə bağlananda ekranın kilidlənməsinə icazə vermir. Bunu Ayarlarda dəyişdirə bilərsiniz."</item>
+        <item>"1. Uyğun mobil cihazlar: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. QR kodu skan etdikdən sonra rəsmi veb saytımıza yönləndirilmisinizsə, cihazınız hələ dəstəklənmir.
+2. Uyğun kompüterlər: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. \"MIUI+ Beta\"nı kompüterinizə buradan endirin: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"QR kod ilə bağlantı qurula bilmir?"</item>
+        <item>"Kompüterinizlə mobil cihazları tapa bilmirsiniz?"</item>
+        <item>"Mobil cihazınızı kilidləyə bilmirsiniz?"</item>
+        <item>Uyğunluq</item>
+    </string-array>
+</resources>

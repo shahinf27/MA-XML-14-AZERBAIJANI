@@ -53,15 +53,15 @@
     <string name="call_log_short_out">Bu nömrəyə indicə zəng etmisiniz</string>
     <string name="call_not_support_high_frequency_click">"Bu düyməyə tez-tez toxunmayın"</string>
     <string name="call_progress_info_call_forwarding">Bu zəng yönləndirildi</string>
-    <string name="call_progress_info_call_rejected">Digər şəxs indi məşğuldur. Zəhmət olmasa daha sonra zəng edin.</string>
-    <string name="call_progress_info_call_waiting">Digər şəxs indi məşğuldur. Zəhmət olmasa gözləyin…</string>
+    <string name="call_progress_info_call_rejected">Digər şəxs indi məşğuldur. Lütfən daha sonra zəng edin.</string>
+    <string name="call_progress_info_call_waiting">Digər şəxs indi məşğuldur. Lütfən gözləyin…</string>
     <string name="call_progress_info_no_answer_from_user">"Zənginiz cavablandırılmadı"</string>
     <string name="call_progress_info_no_user_responding">"Yığdığınız nömrə müvəqqəti olaraq xidmət xaricindədir"</string>
     <string name="call_progress_info_nonuser_call_rejected">"Yığdığınız nömrə hal-hazırda xidmət xaricindədir"</string>
-    <string name="call_progress_info_remote_available">Zənginiz barədə digər şəxsə məlumat veriləcək. Zəhmət olmasa gözləyin…</string>
+    <string name="call_progress_info_remote_available">Zənginiz barədə digər şəxsə məlumat veriləcək. Lütfən gözləyin…</string>
     <string name="call_progress_info_subscriber_absent">"Yığdığınız nömrəyə zəng çatmır"</string>
     <string name="call_progress_info_unallocated_number">"Yığdığınız nömrə mövcud deyil"</string>
-    <string name="call_progress_info_user_busy">Digər şəxs indi məşğuldur. Zəhmət olmasa daha sonra zəng edin.</string>
+    <string name="call_progress_info_user_busy">Digər şəxs indi məşğuldur. Lütfən daha sonra zəng edin.</string>
     <string name="call_progress_info_user_call_rejected">Nömrəniz hal-hazırda xidmət xaricindədir</string>
     <string name="call_record_wait_label">Gözləyir</string>
     <string name="call_recording_deny_permission_msg">"Səsyazma icazəsini ləğv etdiniz, səs yazıla bilmir."</string>
@@ -69,7 +69,7 @@
     <string name="call_recording_error_privacy">"Qonaq rejimində səs yazıla bilmir"</string>
     <string name="call_recording_error_sd_access">"SD karta müraciət edilə bilmir"</string>
     <string name="call_recording_error_sd_unmounted">Səsyazma dayandırıldı: SD kart çıxarıldı.</string>
-    <string name="call_recording_error_start_failed">Səsyazma, başqa bir tətbiq tərəfindən istifadə edilir.</string>
+    <string name="call_recording_error_start_failed">Səsyazan başqa bir tətbiq tərəfindən istifadə edilir.</string>
     <string name="call_recording_error_unknown">Bilinməyən bir xəta baş verdi.</string>
     <string name="call_recording_notification_message">Dinləmək üçün toxunun.</string>
     <string name="call_recording_notification_message_low_storage">SD kart dolub.</string>
@@ -107,6 +107,7 @@
     <string name="close">Bağla</string>
     <string name="close_camera_failed">"Kamera söndürülə bilmədi…"</string>
     <string name="close_camera_requesting">Kamera söndürülür…</string>
+    <string name="cloud_video_conference">Bulud video konfransı</string>
     <string name="conference_call_description" formatted="false">%s,%s və s. cəmi %s</string>
     <string name="conference_call_recorder_title">Konfrans zəngi</string>
     <string name="conference_call_single_description" formatted="false">%s və s. ümumi %s</string>
@@ -114,10 +115,10 @@
     <string name="conference_callers_exceeded">"Daha çox şəxs əlavə edilə bilmir"</string>
     <string name="contacts_icon_label">Kontaktlar</string>
     <string name="crbt_second_hold_prompt">%s gözləmədə…</string>
-    <string name="crbt_second_hold_prompt_conference">Konfrans zəngi gözləmədə…</string>
-    <string name="crbt_second_hold_prompt_no_name">Əvvəlki zəng gözləmədə…</string>
+    <string name="crbt_second_hold_prompt_conference">Konfrans zəngi gözləmədədir…</string>
+    <string name="crbt_second_hold_prompt_no_name">Əvvəlki zəng gözləmədədir…</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Cavabla</string>
     <string name="description_image_button_dialpad">Nömrə paneli</string>
@@ -146,9 +147,9 @@
     <string name="dsda_not_incall_sim_mo_fail_desc">"İndi zənglər üçün SIM %1$d istifadə edilə bilmir. Hazırkı şəbəkə mühiti ikili SIM funksionallığını dəstəkləmir."</string>
     <string name="dsda_swap_call_prompt">"Davam etsəniz səsli zəngə keçəcəksiniz."</string>
     <string name="early_morning">Səhər</string>
-    <string name="emergency_call_dialog_number_for_display">Fövqəladə nömrə</string>
+    <string name="emergency_call_dialog_number_for_display">Fövqəladə hal nömrəsi</string>
     <string name="enter_ai_assistant">İstifadə et</string>
-    <string name="enter_ai_assistant_tip">"İndi danışmaq üçün əlverişli deyilsə, AI mətni nitqə çevirə bilər. Bu zəng üçün AI istifadə edilsin?"</string>
+    <string name="enter_ai_assistant_tip">"İndi danışmaq üçün sizin üçün əlverişli deyilsə, AI mətni nitqə çevirə bilər. Bu zəng üçün AI istifadə edilsin?"</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="evening">Günortadan sonra</string>
@@ -164,7 +165,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="high_temperature_toast">Yüksək hərarətdən qorunma zamanı funksiya müvəqqəti olaraq əlçatmazdır</string>
+    <string name="high_temperature_toast">"Cihazınız aşırı isinib. Bu özəllik indi istifadə edilə bilmir."</string>
     <string name="inCallLabel">Telefon</string>
     <string name="incall_bubble_hangup_click_hint">Zəngə geri qayıtmaq üçün toxunun</string>
     <string name="incall_call_type_label_sip">İnternet zəngi</string>
@@ -183,12 +184,12 @@
     <string name="incoming_circle_text_reject_p">Yuxarı sürüşdür</string>
     <string name="incoming_circle_text_video_answer">Görüntülü cavablamaq üçün buraxın</string>
     <string name="incoming_circle_text_video_answer_p">Görüntülü cavablamaq üçün yuxarı sürüşdürün</string>
-    <string name="incoming_show_permission_msg">"Anbar icazəsi olmadan gələn zənglər üçün profil videoları oynadıla bilmir"</string>
+    <string name="incoming_show_permission_msg">"Anbar icazəsi olmadan gələn zənglər üçün profil videoları oxudula bilmir"</string>
     <string name="manageConferenceLabel">Konfrans zəngini idarə et</string>
     <string name="manager_conference_done">Hazırdır</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -261,14 +262,14 @@
     <string name="noon">Günorta</string>
     <string name="notification_action_accept">Qəbul et</string>
     <string name="notification_action_answer_video">Görüntü</string>
-    <string name="notification_action_answer_voice">Səs</string>
+    <string name="notification_action_answer_voice">Səsli</string>
     <string name="notification_action_dismiss">Ləğv et</string>
     <string name="notification_action_earpiece">Qulaqlıq</string>
     <string name="notification_action_end_call">Sonlandır</string>
     <string name="notification_action_speaker">Dinamik</string>
     <string name="notification_dialing">Yığılır</string>
     <string name="notification_incoming_call">Gələn zəng</string>
-    <string name="notification_on_hold">Gözləmədə</string>
+    <string name="notification_on_hold">Gözləmədədir</string>
     <string name="notification_ongoing_call">Davam edən zəng</string>
     <string name="notification_requesting_video_call">Gələn görüntülü zəng istəyi</string>
     <string name="ok">Oldu</string>
@@ -276,6 +277,7 @@
     <string name="onscreen_add_call_text">Zəng əlavə et</string>
     <string name="onscreen_audio_mode_handset">Qulaqlıq</string>
     <string name="onscreen_audio_mode_headset">Qulaqlıq</string>
+    <string name="onscreen_audio_mode_mirror">Planşet</string>
     <string name="onscreen_audio_mode_speaker">Dinamik</string>
     <string name="onscreen_call_record">Səsyazma</string>
     <string name="onscreen_change_to_video">Görüntülü zəng</string>
@@ -309,16 +311,6 @@
     <string name="relay_network_error_msg">"Şəbəkə xətasına görə bu cihazda zənglər alına bilmir. Bunun əvəzinə telefonunuza qayıdın."</string>
     <string name="remind_unlock_message">Cihazınız indi kilidlidir. Cihazınızın kilidini açdığınızdan sonra \"%s\" əlçatan olacaq. Kilid indi açılsın?</string>
     <string name="respond_via_sms_custom_message">Xüsusi SMS</string>
-    <string name="saf_permission_content">"Sistem icazələri güncəlləndi. Zəngləri yazmaq üçün əvvəlcə icazə verin.
-
-İcazə necə verilir?
-\"%1$s\" toxunun, daha sonra \"%2$s\" elementini seçin."</string>
-    <string name="saf_permission_grant_permission_immediately">Növbəti</string>
-    <string name="saf_permission_later">İndi yox</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Səsyazmaları saxlamaq üçün əvvəlcə cihazın kilidini açın. İndi açılsın?</string>
-    <string name="saf_permission_refused">"Əskik icazələrə görə zənglər yazıla bilmir"</string>
-    <string name="saf_permission_title">İcazə tələb olunur</string>
-    <string name="saf_permission_use_this_folder">Bu qovluğu istifadə et</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
@@ -342,7 +334,7 @@
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="supp_service_notification_call_waiting">Zəng etdiyiniz nömrə məşğuldur. Zəhmət olmasa gözləyin…</string>
+    <string name="supp_service_notification_call_waiting">Yığdığınız nömrə məşğuldur. Lütfən gözləyin…</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -385,7 +377,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
@@ -395,11 +387,11 @@
     <string name="unlock_phone">Cihaz kilidini aç</string>
     <string name="upgrade_vt_prompt">Görüntülü zəngə keçilsin?</string>
     <string name="user_locked_prompt">Kontaktlara müraciət etmək üçün cihaz kilidini açın.</string>
-    <string name="video_call_downgrade_insufficient_bandwidth">Yetərsiz bant genişliyi, səsli zəngə keçid</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">Bant genişliyi yetərsizdir, səsli zəngə endirin</string>
     <string name="video_conference_caller_info_name">"%1$s tərəfindən görüntülü konfrans zəngi"</string>
-    <string name="video_crbt_title">Profil videosu oynadılır…</string>
-    <string name="voice_control_deny_permission_msg">"Səs yoxlanışı indi istifadə edilə bilmir. Əvvəlcə bu tətbiqin səs yazmasına icazə verin."</string>
-    <string name="voicemail">Səsli mesaj</string>
+    <string name="video_crbt_title">Profil videosu oxudulur…</string>
+    <string name="voice_control_deny_permission_msg">"Səs kontrolları indi istifadə edilə bilmir. Əvvəlcə bu tətbiqin səs yazmasına icazə verin."</string>
+    <string name="voicemail">Səsli poçt</string>
     <string name="volume_boost_text">Səs uğurla artırıldı</string>
     <string name="wait_prompt_str">"Aşağıdakı səslər göndərilsin?"</string>
     <string name="waiting_close_airplane_mode">Bir saniyə…</string>

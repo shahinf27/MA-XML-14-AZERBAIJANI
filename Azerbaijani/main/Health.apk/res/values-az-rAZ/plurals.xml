@@ -201,8 +201,8 @@
         <item quantity="one">Hədəf: %1$d saat</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"Hazırkı tənzimləmələr sizə gündəlik %1$d saatlıq yuxuya zəmanət verməyəcək. Bundan daha çoxuna ehtiyacınız var."</item>
-        <item quantity="one">"Hazırkı tənzimləmələr sizə gündəlik %1$d saatlıq yuxuya zəmanət verməyəcək. Bundan daha çoxuna ehtiyacınız var."</item>
+        <item quantity="other">"Hazırkı ayarlar sizə gündəlik %1$d saatlıq yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</item>
+        <item quantity="one">"Hazırkı ayarlar sizə gündəlik %1$d saatlıq yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</item>
     </plurals>
     <plurals name="sport_tts_goal_consume">
         <item quantity="other">Hədəfinizə çatana qədər yandırmaq üçün daha %s kalori qalıb</item>

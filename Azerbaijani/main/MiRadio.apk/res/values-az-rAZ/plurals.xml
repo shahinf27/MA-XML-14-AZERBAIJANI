@@ -41,16 +41,16 @@
         <item quantity="one">"%d mahnı buluda nüsxələnmədi. İndi dayandırılsın?"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d mahnı oynatma siyahısına əlavə edildi</item>
-        <item quantity="one">%d mahnı oynatma siyahısına əlavə edildi</item>
+        <item quantity="other">%d mahnı pleylistə əlavə edildi</item>
+        <item quantity="one">%d mahnı pleylistə əlavə edildi</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d mahnı</item>
         <item quantity="one">%d mahnı</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d mahnı oynatma siyahısından silindi</item>
-        <item quantity="one">%d mahnı oynatma siyahısından silindi</item>
+        <item quantity="other">%d mahnı pleylistdən silindi</item>
+        <item quantity="one">%d mahnı pleylistdən silindi</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d oxşar mahnı</item>
@@ -213,8 +213,8 @@
         <item quantity="one">%d mahnı göndəriləcək</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
-        <item quantity="one">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
+        <item quantity="other">%d mahnı ötürüldü. Dinləmək üçün ayarlarda onlayn xidmətləri işə salın.</item>
+        <item quantity="one">%d mahnı ötürüldü. Dinləmək üçün ayarlarda onlayn xidmətləri işə salın.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Mahnılar sevimlilərə əlavə edildi.</item>

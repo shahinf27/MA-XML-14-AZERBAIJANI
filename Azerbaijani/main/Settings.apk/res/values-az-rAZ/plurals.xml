@@ -73,12 +73,12 @@
         <item quantity="one">%d dəstəklənən keçid</item>
     </plurals>
     <plurals name="app_launch_verified_links_message">
-        <item quantity="other">Bu keçid təsdiqləndi və avtomatik olaraq bu tətbiqdə açılır.</item>
-        <item quantity="one">Bu keçid təsdiqləndi və avtomatik olaraq bu tətbiqdə açılır.</item>
+        <item quantity="other">Bu keçid doğrulandı və avtomatik olaraq bu tətbiqdə açılır.</item>
+        <item quantity="one">Bu keçid doğrulandı və avtomatik olaraq bu tətbiqdə açılır.</item>
     </plurals>
     <plurals name="app_launch_verified_links_title">
-        <item quantity="other">%d təsdiqlənmiş keçid</item>
-        <item quantity="one">%d təsdiqlənmiş keçid</item>
+        <item quantity="other">%d doğrulanmış keçid</item>
+        <item quantity="one">%d doğrulanmış keçid</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">Tətbiq %d keçidi idarə etmək istəyir</item>
@@ -129,12 +129,12 @@
         <item quantity="one">%1$d tətbiqi məhdudlaşdır</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d tətbiq şəbəkə ilə bağlantı qura bilir</item>
-        <item quantity="one">%d tətbiq şəbəkə ilə bağlantı qura bilir</item>
+        <item quantity="other">%d tətbiq şəbəkəyə bağlana bilir</item>
+        <item quantity="one">%d tətbiq şəbəkəyə bağlana bilir</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d tətbiq şəbəkə ilə bağlantı qura bilmir"</item>
-        <item quantity="one">"%d tətbiq şəbəkə ilə bağlantı qura bilmir"</item>
+        <item quantity="other">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
+        <item quantity="one">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
     </plurals>
     <plurals name="billing_cycle_days_left">
         <item quantity="other">%d gün qaldı</item>
@@ -513,8 +513,8 @@
         <item quantity="one">1 təklif</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
-        <item quantity="other">Qulaqlıqlarınızdan biri qulağınızdan və ya enerji yığma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
-        <item quantity="one">Qulaqlıqlarınızdan biri qulağınızdan və ya enerji yığma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+        <item quantity="other">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+        <item quantity="one">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
     </plurals>
     <plurals name="unused_apps_summary">
         <item quantity="other">%d istifadə olunmayan tətbiq</item>
@@ -613,8 +613,8 @@
         <item quantity="one">%d paylaşılan şəbəkə</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d cihazla bağlantı quruldu</item>
-        <item quantity="one">%1$d cihazla bağlantı quruldu</item>
+        <item quantity="other">%1$d cihaz bağlantılıdır</item>
+        <item quantity="one">%1$d cihaz bağlantılıdır</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">SIM PIN kodu yanlışdır, %d cəhdiniz qalıb.</item>

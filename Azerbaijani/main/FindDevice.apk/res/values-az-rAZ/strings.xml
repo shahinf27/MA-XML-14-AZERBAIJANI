@@ -40,21 +40,21 @@
     <string name="copy">Kopyala</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Bu cihaz internetə bağlı olmadıqda onu tapmaq üçün telefon nömrəsinə müraciət etmək üçün"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Bu cihaz internetə bağlı olmadıqda onu tapmaq üçün"</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazı tapmaq və itirilmiş rejimə keçmək üçün</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazı tapmaq və itmiş rejimə keçmək üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödənişinə görə
 kilidlənib.
 Ətraflı məlumat üçün satış nümayəndəsi ilə əlaqə saxlayın."</string>
-    <string name="default_lock_msg_words">Bu cihaz, mövcud bir Mi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə, cihazı təsdiqləmək üçün parolu daxil etməlisiniz.</string>
-    <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Zəhmət olmasa mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
+    <string name="default_lock_msg_words">Bu cihaz, mövcud bir Mi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə, cihazı doğrulamaq üçün parolu daxil etməyiniz lazımdır.</string>
+    <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Lütfən mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
     <string name="device_locked">Bu cihaz kilidlidir</string>
     <string name="device_lost">Bu cihaz itib</string>
     <string name="disable_find_device_error">"\"Cihazı tap\" söndürülə bilmədi. %1$s"</string>
     <string name="disable_find_device_success">\"Cihazı tap\" bağlıdır</string>
-    <string name="doing_extra_login_steps">Daxil olma təsdiqlənir…</string>
+    <string name="doing_extra_login_steps">Daxil olma doğrulanır…</string>
     <string name="early_morning">Səhər</string>
-    <string name="emergency_call">Fövqəladə vəziyyət zəngi</string>
+    <string name="emergency_call">Fövqəladə hal zəngi</string>
     <string name="enable_find_device_error">"\"Cihazı tap\" açıla bilmədi. %1$s"</string>
     <string name="enable_find_device_success">\"Cihazı tap\" açıqdır</string>
     <string name="eras_ad">E.S.</string>
@@ -68,7 +68,7 @@ kilidlənib.
     <string name="find_device_capture_notification_title">\"Cihazı tap\" şəkil çəkmək üzrədir</string>
     <string name="find_device_crash">\"Cihazı tap\" gözlənilmədən bağlandı.</string>
     <string name="find_device_error_access_denied">Müraciət rədd edildi.</string>
-    <string name="find_device_error_account_sys_timeout">"Mi Hesabı ilə bağlantı qurula bilmədi. "</string>
+    <string name="find_device_error_account_sys_timeout">"Mi Hesabına bağlana bilmədi. "</string>
     <string name="find_device_error_account_unknown_error">Mi Hesabı xətası (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Şəbəkə xətası.</string>
@@ -77,9 +77,9 @@ kilidlənib.
     <string name="find_device_error_unknown">Bilinməyən xəta (%s).</string>
     <string name="find_device_noise_title">\"Cihazı tap\" xəbərdarlığı</string>
     <string name="find_device_notice">Cihazınız itibsə, cihazı tapmaq, uzaqdan kilidləmək və ya məlumatlarını silmək üçün &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; ünvanına gedə bilərsiniz.</string>
-    <string name="find_device_notice_sms_alert_with_common_charge_hint">"SIM vəziyyətini güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;ödənişli mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
-    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"SIM vəziyyətini güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;daxili ödənişli mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
-    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"SIM vəziyyətini güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;beynəlxalq mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"SIM statusunu güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;ödənişli mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"SIM statusunu güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;daxili ödənişli mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"SIM statusunu güncəlləmək və bütün xidmətlərin normal işlədiyinə əmin olmaq üçün SIM kartları dəyişəndə bir &lt;font color=#0097FF&gt;&lt;b&gt;beynəlxalq mətn mesajı&lt;/b&gt;&lt;/font&gt; göndəriləcək. Bu mesaja görə operator sizdən ödəniş alacaq."</string>
     <string name="find_device_stop_noise">Susdurmaq üçün \"Oldu\"ya toxunun</string>
     <string name="find_device_storage_corrupted">\"Cihaz tap\" anbar sahəsi zədələndi. Cihazınız indi güvəndə deyil.</string>
     <string name="find_device_success_title">\"Cihazı tap\" açıqdır</string>
@@ -96,11 +96,11 @@ kilidlənib.
     <string name="friday_shortest">Cüm</string>
     <string name="i_know">Oldu</string>
     <string name="lock_msg_phone">Əlaqə məlumatları: %s</string>
-    <string name="login_extra_steps">Daxil olma təsdiqləməsi</string>
+    <string name="login_extra_steps">Daxil olma doğrulaması</string>
     <string name="login_failed">"Daxil ola bilmədi. %s."</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -168,22 +168,22 @@ kilidlənib.
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
-    <string name="open_wifi_settings">Wi-Fi tənzimləmələrini aç</string>
+    <string name="not_set">Ayarlanmadı</string>
+    <string name="open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="passport_checking_vcode">Parol yoxlanılır…</string>
-    <string name="passport_error_empty_vcode">Təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_error_empty_vcode">Doğrulama kodunu daxil edin</string>
     <string name="passport_notification_need_unlock_again">Yenidən kilidi açmağa çalışın</string>
     <string name="passport_notification_processing">Emal olunur…</string>
     <string name="passport_trust_device">Bu cihaza güvən</string>
-    <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
-    <string name="passport_verify">Təsdiqlə</string>
+    <string name="passport_vcode_prompt_long">Doğrulama kodunu daxil edin</string>
+    <string name="passport_verify">Doğrula</string>
     <string name="password">Parol daxil edin</string>
     <string name="phone_locked">Bu cihaz, Mi Hesabı (%s) ilə əlaqələndirilib. Cihazı aktivləşdirmək üçün parolu daxil edin.</string>
-    <string name="phone_locked_account_email">, əlaqəli e-poçt ünvanı: %s</string>
-    <string name="phone_locked_account_phone">, əlaqəli telefon nömrəsi: %s</string>
+    <string name="phone_locked_account_email">, əlaqələndirilmiş e-poçt: %s</string>
+    <string name="phone_locked_account_phone">, əlaqələndirilmiş telefon nömrəsi: %s</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="return_to_call">Zəngə geri qayıt</string>
+    <string name="return_to_call">Zəngə qayıt</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -245,7 +245,7 @@ kilidlənib.
     <string name="thursday_shortest">C.a.</string>
     <string name="time_correction_failure">"Vaxt düzəldilə bilmir. %s"</string>
     <string name="time_correction_success">Vaxt düzəldildi</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
@@ -261,7 +261,7 @@ kilidlənib.
     <string name="unlock_error_passport_sdk_timeout">"Mi Hesabı SDK cavab vermir"</string>
     <string name="unlock_error_rpc">RPC xətası</string>
     <string name="unlock_error_server">Server xətası</string>
-    <string name="unlock_error_ssl_hand_shake">"Serverə bağlana bilmədi. Tarix və saatı əllə tənzimləməyə çalışın."</string>
+    <string name="unlock_error_ssl_hand_shake">"Serverə bağlana bilmədi. Tarix və saatı əllə ayarlamağa çalışın."</string>
     <string name="unlock_error_unknown">"Daxil ola bilmir"</string>
     <string name="unlock_error_user_name">Yararsız istifadəçi adı</string>
     <string name="unlock_error_wrong_vcode">Daxil etdiyiniz kod yanlışdır</string>
@@ -279,8 +279,8 @@ i.mi.com/ss ünvanına gedin və cihazın kilidini açmaq üçün müraciətiniz
     <string name="unlocking">Aktivləşdirilir…</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="verifing_account">Parol təsdiqlənir…</string>
-    <string name="verify_password_failed">"Mi Hesabı Kimliyi təsdiqlənə bilmədi. %s."</string>
+    <string name="verifing_account">Parol doğrulanır…</string>
+    <string name="verify_password_failed">"Mi Hesabı Kimliyi doğrulana bilmədi. %s."</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

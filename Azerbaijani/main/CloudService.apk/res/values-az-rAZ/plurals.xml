@@ -69,12 +69,12 @@
         <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d qeyd</item>
-        <item quantity="one">%d qeyd</item>
+        <item quantity="other">%d not</item>
+        <item quantity="one">%d not</item>
     </plurals>
     <plurals name="dirty_note_count_v2">
-        <item quantity="other">%d qeyd</item>
-        <item quantity="one">%d qeyd</item>
+        <item quantity="other">%d not</item>
+        <item quantity="one">%d not</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d Tətbiq kassasına giriş</item>
@@ -165,8 +165,8 @@
         <item quantity="one">%d element seçildi</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
-        <item quantity="one">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
+        <item quantity="other">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi."</item>
+        <item quantity="one">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>

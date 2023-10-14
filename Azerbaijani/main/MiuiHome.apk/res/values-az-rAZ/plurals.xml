@@ -37,20 +37,12 @@
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
     <plurals name="announce_for_drag">
-        <item quantity="other">%1$d element sürüşdürülür</item>
-        <item quantity="one">%1$d element sürüşdürülür</item>
+        <item quantity="other">%1$d element sürüklənir</item>
+        <item quantity="one">%1$d element sürüklənir</item>
     </plurals>
     <plurals name="announce_for_unread">
         <item quantity="one">%1$s mənbəyindən %2$s oxunmamış</item>
         <item quantity="other">%1$s mənbəyindən %2$s oxunmamış</item>
-    </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">%1$d divar kağızı silinsin?</item>
-        <item quantity="one">%1$d divar kağızı silinsin?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">%1$d element seçildi</item>
-        <item quantity="one">%1$d element seçildi</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -89,8 +81,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">%1$d tətbiq Əsas ekrandan silinsin?</item>
-        <item quantity="one">%1$d tətbiq Əsas ekrandan silinsin?</item>
+        <item quantity="other">%1$d element Əsas ekrandan silinsin?</item>
+        <item quantity="one">%1$d element Əsas ekrandan silinsin?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Səhifə %1$d, %2$d tətbiq.</item>

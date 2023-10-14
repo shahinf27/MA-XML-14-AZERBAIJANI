@@ -5,16 +5,16 @@
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d kontakt silinsin?</item>
@@ -59,14 +59,6 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%1$d dəfə çaldı</item>
         <item quantity="one">%1$d dəfə çaldı</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d telefon nömrəsi</item>
-        <item quantity="one">%d telefon nömrəsi</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d telefon nömrəsi silinsin?</item>
-        <item quantity="one">%d telefon nömrəsi silinsin?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$d kontakt və ya foto sinxronlaşdırılmadı"</item>
@@ -124,13 +116,13 @@
         <item quantity="other">%1$d nömrə</item>
         <item quantity="one">%1$d nömrə</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"SMS %d nəfərdən çox alıcıya sahib ola bilməz."</item>
+        <item quantity="one">"SMS %d nəfərdən çox alıcıya sahib ola bilməz."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d element</item>
-        <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d kontakt</item>
@@ -215,10 +207,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d tapıldı</item>
         <item quantity="one">%d tapıldı</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s nəticə</item>
-        <item quantity="one">%s nəticə</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Ən çox %1$d ədəd seçə bilərsiniz, hamısı seçilə bilmir"</item>

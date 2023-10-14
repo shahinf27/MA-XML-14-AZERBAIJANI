@@ -36,6 +36,14 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s sa</item>
+        <item quantity="one">%s sa</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s dəq</item>
+        <item quantity="one">%s dəq</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>

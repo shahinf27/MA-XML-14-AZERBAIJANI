@@ -63,6 +63,10 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -123,18 +127,18 @@
         <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Hesab köməki;Kömək mərkəzi</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
-        <item>2 addımlı təsdiqləmə</item>
-        <item>Xiaomi Hesabınız üçün 2 addımlı təsdiqləməni tənzimlə</item>
-        <item>Daxil ol;Giriş et;2 addımlı;təsdiqləmə;Xiaomi;Hesab;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>2 addımlı doğrulama</item>
+        <item>Xiaomi Hesabınız üçün 2 addımlı doğrulamanı ayarlayın</item>
+        <item>Daxil ol;Giriş et;2 addımlı;doğrulama;Xiaomi;Hesab;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Hesab təhlükəsizliyi</item>
-        <item>Bərpa telefonu və e-poçtu, şifrə idarəetmə</item>
-        <item>Hesab təhlükəsizliyi;Daxil olma;Bərpa telefonu;Bərpa e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma telefonu və e-poçtu, parol idarəetməsi</item>
+        <item>Hesab güvənliyi;Daxil olma;Geri qaytarma telefonu;Geri qaytarma e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Cihazlar</item>
-        <item>Xiaomi Hesabınız ilə əlaqəli cihazları idarə edin</item>
+        <item>Xiaomi Hesabınızla əlaqələndirilmiş cihazları idarə edin</item>
         <item>Cihazları idarə et;Cihazlarım;Cihazlar;Cihaz siyahısı;Mi Hesabı;Hesabı;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
@@ -143,14 +147,14 @@
         <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Gizlilik Siyasəti</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
-        <item>Bərpa e-poçtu</item>
-        <item>Bərpa e-poçtu əlavə et</item>
-        <item>Bərpa e-poçtu;E-poçt;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma e-poçtu</item>
+        <item>Geri qaytarma e-poçtu əlavə et</item>
+        <item>Geri qaytarma e-poçtu;E-poçt;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
-        <item>Bərpa telefonu</item>
-        <item>Bərpa telefonu əlavə et</item>
-        <item>Bərpa telefonu;Telefon əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma telefonu</item>
+        <item>Geri qaytarma telefonu əlavə et</item>
+        <item>Geri qaytarma telefonu;Telefon əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Reklamlar</item>

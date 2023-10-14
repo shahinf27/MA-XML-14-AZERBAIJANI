@@ -54,12 +54,12 @@
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth və Wi-Fi ilə fayl köçürmək üçün</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Faylları göndərmək və almaq üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
     <string name="device_list_all">Bütün cihazlar</string>
     <string name="device_list_more">Daha çox</string>
     <string name="device_name">Cihaz adı</string>
-    <string name="device_offline">Digər cihaz xətdən kənardadır. Başdan başlat.</string>
+    <string name="device_offline">Digər cihaz oflayndır. Başdan başlat.</string>
     <string name="device_status_failed">"Göndərilə bilmədi"</string>
     <string name="device_status_sending">Göndərilir…</string>
     <string name="device_status_success">Uğurla göndərildi</string>
@@ -85,7 +85,7 @@
     <string name="error_p2p_create_group_failure_china">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_p2p_recv_connect_timeout">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_p2p_recv_connect_timeout_china">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
-    <string name="error_permission_denied">Bu özəlliyi istifadə edə bilmək üçün, Tənzimləmələrdə Mi Share üçün tələb olunan bütün icazələri verin.</string>
+    <string name="error_permission_denied">Bu özəlliyi istifadə edə bilmək üçün, Ayarlarda Mi Share üçün tələb olunan bütün icazələri verin.</string>
     <string name="error_receive_file_cannot_read">"Fayl alına bilmədi"</string>
     <string name="error_receive_file_changed">"Alına bilmir. Element dəyişdirilib."</string>
     <string name="error_receive_file_file_opened">"Bu element alına bilmədi. Deyəsən, indi istifadə edilir."</string>
@@ -104,8 +104,8 @@
     <string name="error_send_file_service_disabled">Gedən köçürmə ləğv edildi</string>
     <string name="error_send_transfer_error">"Elementlər göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="error_send_transfer_pc_error">Transfer vaxtı bitdi. Kompüterinizdəki fayl paylaşma tətbiqini güncəlləyib yenidən sınayın.</string>
-    <string name="error_slave_wifi_in_use">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Tənzimləmələrdə ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
-    <string name="error_slave_wifi_in_use_china">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Tənzimləmələrdə ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
+    <string name="error_slave_wifi_in_use">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Ayarlarda ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
+    <string name="error_slave_wifi_in_use_china">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Ayarlarda ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
     <string name="error_timeout">Seansın vaxt bitdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="error_user_refuse">"Göndərilə bilmir. Köçürmə rədd edildi."</string>
     <string name="error_wifi_display_in_use">"Yayım zamanı digər cihazlara fayl göndərilə bilmir"</string>
@@ -135,7 +135,7 @@
     <string name="global_pad">Planşetim</string>
     <string name="global_pc">Noutbukum</string>
     <string name="global_phone">Telefonum</string>
-    <string name="go_to_settings">Tənzimləmələr</string>
+    <string name="go_to_settings">Ayarlar</string>
     <string name="guide_summary_1">Digər şəxs Bildiriş panelindəki açara toxuna bilər</string>
     <string name="guide_summary_2">"Elementlər göndərmək istədiyiniz cihazı seçin və nişana toxunun"</string>
     <string name="guide_title_1">Hər iki cihazda Mi Share-i açın</string>
@@ -162,7 +162,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="mishare_state_protection_summary_china">Bluetooth və Wi-Fi yenidən açılanda Mi Share-i yenidən avtomatik olaraq işə sal</string>
     <string name="mishare_transefer_channel_desc">Mi Share tərəfindən göndərilən və alınan elementlər barədə bildirişlər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -232,7 +232,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="no_longer_prompt">Əngəllə</string>
     <string name="no_longer_receive">"Bu cihaz əngəllənsin? Bu cihazdan fayl ala bilməyəcəksiniz."</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_name">Köçürmə bildirişləri</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
@@ -283,6 +283,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="start_scan">SKANI BAŞLAT</string>
     <string name="stop_advertise">REKLAMI DAYANDIR</string>
     <string name="stop_scan">SKANI DAYANDIR</string>
+    <string name="sub_title_mishare_switch">Bu özəllik %d dəqiqə sonra avtomatik söndürüləcək</string>
     <string name="success_receive_much_file_from_pc">%1$s cihazından %2$d ədəddən çox fayl alınır. Baxmaq üçün toxunun.</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
@@ -336,20 +337,24 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="tile_state_active">Açıq</string>
     <string name="tile_state_inactive">Bağlı</string>
     <string name="tile_state_unavailable">Əlçatmazdır</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_p2p_support_use5g">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>
     <string name="tips_p2p_support_use5g_china">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Bildir</string>
+    <string name="toast_auto_close_in_minutes">Mi Share %d dəqiqə sonra sönəcək</string>
+    <string name="toast_transfering">Elementlər köçürülür. Daha sonra yenidən sınayın.</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="transfer_intercept_to_remote">"Göndərilə bilmədi: %1$s"</string>
-    <string name="transfer_to_pc_summary">"Mi Noutbuklarda quraşdırılmış AIoT proqram təminatının ən son versiyası Mi Share ilə uyğundur. Dəstəklənən noutbuk modellərinin siyahısını MIUI saytında yoxlaya bilərsiniz. Noutbukunuz siyahıdadırsa, ancaq AIoT quraşdırılmayıbsa, noutbukunuzun BIOS və şəbəkə adapter sürücüsünü güncəlləyin və \"AIoT\"u endirin."</string>
-    <string name="transfer_to_pc_summary_new"><Data>\"Mi Notbuklarda quraşdırılmış ən son \"MIUI+\" versiyası Mi Share ilə uyğun gəlir. MIUI+ veb saytında dəstəklənən noutbuk modellərinin siyahısını yoxlaya bilərsiniz (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Noutbukunuz siyahıdadırsa, ancaq MIUI+ quraşdırılmayıbsa, noutbukunuzun BIOS və şəbəkə adapteri sürücüsünü güncəlləyin və \"MIUI+\"u endirin.\"</Data></string>
+    <string name="transfer_to_pc_summary">"Mi Noutbuklarda quraşdırılmış AIoT proqram təminatının ən son versiyası Mi Share ilə uyğundur. Dəstəklənən noutbuk modellərinin siyahısını MIUI saytında yoxlaya bilərsiniz. Notbukunuz siyahıdadırsa, ancaq AIoT quraşdırılmayıbsa, noutbukunuzun BIOS və şəbəkə adapter sürücüsünü güncəlləyin və \"AIoT\"u endirin."</string>
+    <string name="transfer_to_pc_summary_new"><Data>\"Mi Notbuklarda quraşdırılmış ən son \"MIUI+\" versiyası Mi Share ilə uyğun gəlir. MIUI+ veb saytında dəstəklənən notbuk modellərinin siyahısını yoxlaya bilərsiniz (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Notbukunuz siyahıdadırsa, ancaq MIUI+ quraşdırılmayıbsa, notbukunuzun BIOS və şəbəkə adapteri sürücüsünü güncəlləyin və \"MIUI+\"u endirin.\"</Data></string>
     <string name="transfer_to_pc_title">Kompüterlərə fayl göndər</string>
     <string name="transfer_to_phone_summary">"Bildiriş panelindəki açarı istifadə edərək Mi Share-i açın. Bundan sonra, foto və ya fayl paylaşmağa başlayanda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
+    <string name="transfer_to_phone_summary_new">Elementləri asanlıqla göndərə və ala bilmək üçün İdarəetmə Mərkəzində Mi Share-i işə salın. İşə saldıqdan sonra, avtomatik olaraq sönməzdən əvvəl %d dəqiqə ərzində yaxınlıqdakı cihazlarla element paylaşa bilərsiniz.</string>
     <string name="transfer_to_phone_title">Faylları telefona göndər</string>
     <string name="transfer_to_summary">"Bildiriş panelindəki açarı istifadə edərək Mi Share-i açın. Bundan sonra, foto və ya fayl paylaşmağa başlayanda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
+    <string name="transfer_to_summary_new">Elementləri asanlıqla göndərə və ala bilmək üçün İdarəetmə Mərkəzində Mi Share-i işə salın. İşə saldıqdan sonra, avtomatik olaraq sönməzdən əvvəl %d dəqiqə ərzində yaxınlıqdakı cihazlarla element paylaşa bilərsiniz.</string>
     <string name="transfer_to_title">Faylları mobil cihazlara göndərin</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>

@@ -41,7 +41,7 @@
     <string name="app_name">Hesablayıcı</string>
     <string name="app_notification_info">Hesablayıcı arxaplanda işləyir</string>
     <string name="base_rate">Əsas faiz dərəcəsi</string>
-    <string name="bmi_error_text">"Bu BKG düzgün görünmür. Daxil etdiyiniz boy və çəkinin düzgün olduğuna əmin olun."</string>
+    <string name="bmi_error_text">Yararlı parametrləri daxil edin</string>
     <string name="bmi_label_information">Məlumat</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Artıq çəki</string>
@@ -49,7 +49,7 @@
     <string name="bmi_normal">Normal</string>
     <string name="bmi_over_weight">Artıq çəki</string>
     <string name="bmi_underweight">Zəif</string>
-    <string name="btn_float_window_alpha">Şəffaflığı nizamla</string>
+    <string name="btn_float_window_alpha">Şəffaflığı ayarla</string>
     <string name="btn_float_window_back_to_app">Hesablayıcını böyüt</string>
     <string name="btn_float_window_close">Kiçildilmiş Hesablayıcını bağlayın</string>
     <string name="btn_float_window_resize">Kiçildilmiş hesablayıcını ölçüləndir</string>
@@ -85,7 +85,7 @@
     <string name="copy">Kopyala</string>
     <string name="cos">cos</string>
     <string name="cosDesc">kosinus</string>
-    <string name="currency_dialog_privacy_content"><Data>Pul vahidi çeviricinin ən son mübadilə məzənnələrini alması üçün internetə bağlanması lazımdır. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.</Data></string>
+    <string name="currency_dialog_privacy_content"><Data>Pul vahidi çeviricinin ən son mübadilə məzənnələrini alması üçün internetə bağlanması lazımdır. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="currency_update_connect_to_get_data">Mübadilə məzənnələri, Webull tərəfindən təmin edilir. Ən son məlumatları almaq üçün şəbəkəyə bağlanın.</string>
     <string name="currency_update_support">Mübadilə məzənnələri, Webull tərəfindən təmin edilir.</string>
     <string name="currency_update_time_format">Mübadilə məzənnələri, Webull (%s) tərəfindən təmin edilir</string>
@@ -99,7 +99,7 @@
     <string name="description_content">Hesablayıcı, təməl özəlliklərdən əlavə, çox funksiyalı çevirici, ipoteka və vergi hesablayıcısı kimi də işləyə bilir. Tətbiqi silməzdən əvvəl, bu özəlliklər olmadan edə biləcəyinizə əmin olun.</string>
     <string name="description_title">Hesablayıcı haqqında</string>
     <string name="devided_by_zero_reminder_message">"Sıfıra bölə bilmir"</string>
-    <string name="dialog_privacy_content"><Data>Hesablayıcının təməl özəlliklərdən əlavə, tətbiqimizdə riyazi bir hesablayıcı və çoxməqsədli çevirici də mövcuddur. Bəzi özəlliklərin normal işləməsi üçün internetə bağlanması lazımdır. Hesablayıcını istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.</Data></string>
+    <string name="dialog_privacy_content"><Data>Hesablayıcının təməl özəlliklərdən əlavə, tətbiqimizdə riyazi bir hesablayıcı və çoxməqsədli çevirici də mövcuddur. Bəzi özəlliklərin normal işləməsi üçün internetə bağlanması lazımdır. Hesablayıcını istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="dialog_privacy_disagree_msg">Keçidi bağlamaqla Hesablayıcının Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Hazırda yığılmış və saxlanılan şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcəkdir. Hesablayıcının sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığınızı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
     <string name="dialog_privacy_revoke_btn_ok">Geri götür</string>
     <string name="dialog_privacy_revoke_title">Razılığın geri götürülməsi</string>
@@ -157,8 +157,8 @@
     <string name="global_search_key_volume_convertion">Həcm vahidi çevirmə;Həcm çevirmə;Həcm çevirici</string>
     <string name="global_search_key_weight_convertion">Çəki vahidi çevirmə;Çəki çevirmə;Çəki çevirici;Kilo;Kq;Kiloqram;Funt;Funt;lbs</string>
     <string name="global_search_key_word_figure">Maliyyə xarakterləri</string>
-    <string name="golbal_search_calculator_setting">Hesablayıcı;Hesablayıcı tənzimləmələri;Tənzimləmələr</string>
-    <string name="golbal_search_path_calculator_setting">Sistem tətbiqləri/Hesablayıcı/Tənzimləmələr</string>
+    <string name="golbal_search_calculator_setting">Hesablayıcı;Hesablayıcı ayarları;Ayarlar</string>
+    <string name="golbal_search_path_calculator_setting">Sistem tətbiqləri/Hesablayıcı/Ayarlar</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Hündürlük</string>
     <string name="help_content_desc">Kömək</string>
@@ -173,6 +173,7 @@
     <string name="install_scanner_to_continued_use">Skaner silindi. Yenidən quraşdırılsın?</string>
     <string name="interest_rate_hint">Faiz dərəcəsini daxil edin</string>
     <string name="investment_invalid_duration">İnvestisiya müddəti sıfırdan böyük olmalıdır</string>
+    <string name="investment_loan_result">Detallar</string>
     <string name="investment_type_once">Bir dəfə</string>
     <string name="investment_type_recurring">Təkrarlanan</string>
     <string name="item_page_title_investment">İnvestisiya hesablayıcı</string>
@@ -246,7 +247,7 @@
     <string name="leftParenDesc">sol mötərizə</string>
     <string name="lg">lg</string>
     <string name="lgDesc">loqarifma</string>
-    <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ln">ln</string>
     <string name="lnDesc">natural loqarifma</string>
     <string name="loading">Bir saniyə…</string>
@@ -254,7 +255,7 @@
     <string name="loading_fail_refresh">Təzələ</string>
     <string name="loading_message">Tətbiq yüklənir…</string>
     <string name="loading_slogan">Tətbiqləri quraşdırmadan istifadə edin</string>
-    <string name="loading_tips">Tənzimləmələr uğurla endirildi. Tətbiq etmək üçün Hesablayıcı tətbiqini yenidən başladın.</string>
+    <string name="loading_tips">Ayarlar uğurla endirildi. Tətbiq etmək üçün Hesablayıcı tətbiqini yenidən başladın.</string>
     <string name="loan_basic_point">Əsas nöqtə</string>
     <string name="loan_edittext_hint_commercial">Miqdarı daxil edin</string>
     <string name="loan_edittext_hint_commercial_combined">Kommersiya (×10K)</string>
@@ -285,7 +286,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="midnight">Gecə</string>
     <string name="minusDesc">çıxma</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -376,11 +377,11 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="network_confirm_content">Pul vahidi çevirici, vergi və ipoteka hesablama özəlliklərinin normal işləməsi üçün internetə bağlanması və yerləşmə xidmətlərinə müraciət etməsi lazımdır.</string>
     <string name="network_confirm_title">İcazələr tələb edilir</string>
     <string name="network_purpose">Hesablayıcıya xoş gəldiniz! Hesablayıcı sizə pul vahidini çevirmək, ipoteka ödənişlərini hesablamaq və daha çox imkanlar verir.</string>
-    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəldiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız verilənləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyub qəbul edin. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizi qəbul etməsəniz, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəlmisiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="night">Axşam</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_supported_due_to_language">Bu xüsusiyyət yalnız Çin dili üçün mövcuddur</string>
     <string name="ok">Oldu</string>
     <string name="percentDesc">faiz</string>
@@ -388,8 +389,8 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="plusDesc">toplama</string>
     <string name="powerDesc">güc</string>
     <string name="preference_about_calculator">Hesablayıcı haqqında</string>
-    <string name="preference_alert_follow_qq_group">Əks əlaqə vermək üçün QQ-yə kopyalayıb yapışdırın.</string>
-    <string name="preference_alert_follow_wechat">Əks əlaqə vermək üçün WeChat-a kopyalayıb yapışdırın.</string>
+    <string name="preference_alert_follow_qq_group">Əks-əlaqə vermək üçün QQ-yə kopyalayıb yapışdırın</string>
+    <string name="preference_alert_follow_wechat">İzləmək üçün kopyala və WeChat-a yapışdırın</string>
     <string name="preference_alert_follow_wechat_button">Kopyala</string>
     <string name="preference_check_update_summary_current_version">Hazırkı versiya: %s</string>
     <string name="preference_check_update_summary_new_version">Güncəlləmə mövcuddur: %s</string>
@@ -405,13 +406,13 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_other">Digər</string>
     <string name="preference_privacy_title">Gizlilik Siyasəti</string>
     <string name="preference_rating_title">Tətbiqimizi qiymətləndirin</string>
-    <string name="preference_settings">Tənzimləmələr</string>
+    <string name="preference_settings">Ayarlar</string>
     <string name="preference_use_degress_summary">Triqonometrik funksiyalarda bucaqları radianla ifadə et</string>
     <string name="preference_use_degress_title">Bucaqları istifadə et</string>
     <string name="preference_use_voice">Səs çıxışı</string>
-    <string name="preference_use_voice_summary">Hesablamalar əsnasında nitq çıxışını istifadə etmək üçün işə salın</string>
+    <string name="preference_use_voice_summary">Hesablamalar zamanı nitq çıxışını istifadə etmək üçün işə salın</string>
     <string name="preference_use_voice_title">Nitq çıxışı</string>
-    <string name="preference_user_feedback_title">Əks əlaqə</string>
+    <string name="preference_user_feedback_title">Əks-əlaqə</string>
     <string name="privacy_dialog_title">Gizlilik</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_revoke_error">"Geri götürülə bilmədi. Yenidən sınayın."</string>
@@ -429,7 +430,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="search_menu_title">Axtar</string>
     <string name="secondFunctionDesc">İkinci funksiyaya keç</string>
     <string name="send">Göndər</string>
-    <string name="settingsDesc">tənzimləmələr</string>
+    <string name="settingsDesc">ayarlar</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
     <string name="sqrtDesc">kvadrat kök</string>
@@ -469,7 +470,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_detail">Vergi detalları</string>
     <string name="tax_detail_amount">Vergi miqdarı</string>
     <string name="tax_detail_rate">Vergi dərəcəsi</string>
-    <string name="tax_detail_take_off">Tutulma</string>
+    <string name="tax_detail_take_off">Çıxarma</string>
     <string name="tax_detail_tax_payed">Ödənilən miqdar</string>
     <string name="tax_endowment">Pensiya fondu</string>
     <string name="tax_fixed_salary_hint">Vergidən əvvəlki gəlirinizi daxil edin</string>
@@ -496,16 +497,15 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_result_real_get">Vergidən sonra</string>
     <string name="tax_social_insurance">Sosial sığorta</string>
     <string name="tax_thershold_foreign">%s (Əcnəbi millətlər)</string>
-    <string name="tax_thershold_native">%s (Çin)</string>
     <string name="tax_thershold_native_new">%s (yeni)</string>
     <string name="tax_thershold_native_new_description">Vergilər 1 Oktyabr, 2018-ci il tarixindən yeni vergi qanununa əsasən hesablanacaq</string>
-    <string name="tax_threshold">Vergisiz ərəfədə</string>
+    <string name="tax_threshold">Vergisiz hədd</string>
     <string name="tax_total_insurance_provident_fund">Sığorta &amp; ev krediti</string>
     <string name="tax_unemployment">İşsizlik</string>
     <string name="tax_update_time_format">Məlumatlar HeXun (%s) tərəfindən təmin edilir</string>
     <string name="tenure_year_month">%1$s və %2$s</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="tv_recurrence_monthly">Aylıq</string>
     <string name="tv_recurrence_quaterly">Rüblük</string>
@@ -653,7 +653,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Qulaç</string>
     <string name="unit_data_display_length_ft">Ayaq</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Farlonq</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Düym</string>
@@ -859,19 +859,19 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_float_window_move">Kiçildilmiş Hesablayıcını daşıyın</string>
-    <string name="voiceDesc">Səs idarəetmə</string>
+    <string name="voiceDesc">Səs kontrolları</string>
     <string name="voice_guide_text">Nitq çıxışını buradan işə sala bilərsiniz</string>
     <string name="warn_locale_unsupport_for_voice">"Bu dil üçün səs çıxışı hələ dəstəklənmir."</string>
     <string name="wednesday_shortest">Çər</string>
     <string name="weight_prompt">Çəki</string>
     <string name="wf_word_figure">Maliyyə xarakterləri</string>
-    <string name="withdraw_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="word_figure_big_unit_fen">Dəqiqə</string>
     <string name="word_figure_big_unit_jiao">Buynuz</string>
     <string name="word_figure_big_unit_wan">"On min "</string>
     <string name="word_figure_big_unit_yi">"Yüz milyon "</string>
     <string name="word_figure_big_unit_zhao">"Trilyon "</string>
-    <string name="word_figure_guide_text">Tələblər arasında çevirmək üçün mətnə basıb saxlayın.</string>
+    <string name="word_figure_guide_text">Böyük/kiçik hərf arasında keçid etmək üçün mətni basılı tutun.</string>
     <string name="word_figure_number_0">Sıfır</string>
     <string name="word_figure_number_1">Bir</string>
     <string name="word_figure_number_2">İki</string>
@@ -891,7 +891,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="xiaomi_calculator_delete_title">Hesablayıcı silinsin?</string>
     <string name="xiaomi_calculator_remove_icon_description">"Hesablayıcı, bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra bir neçə çeviricini və əlavə funksiyaları istifadə edə bilməyəcəksiniz."</string>
     <string name="xiaomi_calculator_remove_icon_title">\"Hesablayıcı\" Əsas ekrandan silinsin?</string>
-    <string name="xiaomi_connect_download_manager_fail">"Endirilənlərə bağlana bilmədi. Tənzimləmələr &gt; Quraşdırılmış tətbiqlər bölməsində tətbiqə lazımi icazələrin verilib-verilmədiyini yoxlayın."</string>
+    <string name="xiaomi_connect_download_manager_fail">"Endirilənlərə bağlana bilmədi. Ayarlar &gt; Quraşdırılmış tətbiqlər bölməsində tətbiqə lazımi icazələrin verilib-verilmədiyini yoxlayın."</string>
     <string name="xiaomi_external_storage_unavailable">"Anbar mövcud deyil. SD kartınızı yoxlayın."</string>
     <string name="xiaomi_update_dialog_message">"%1$s versiyasını təqdim edirik
 Həcmi: %2$s"</string>

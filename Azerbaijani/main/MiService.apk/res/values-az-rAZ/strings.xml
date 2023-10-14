@@ -34,7 +34,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -55,7 +55,7 @@
     <string name="i_get_it">Anladım</string>
     <string name="icon_add_description">Əsas ekrana bir qısayol əlavə et</string>
     <string name="icon_remove_confirm">Sil</string>
-    <string name="icon_remove_description_content">"\"Xidmətlər və əks-əlaqə\", bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra onu hələ də Tənzimləmələr vasitəsilə istifadə edə biləcəksiniz."</string>
+    <string name="icon_remove_description_content">"\"Xidmətlər və əks-əlaqə\", bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra onu hələ də Ayarlar vasitəsilə istifadə edə biləcəksiniz."</string>
     <string name="icon_remove_description_title">\"Xidmətlər və əks-əlaqə\", Əsas kerandan silinsin?</string>
     <string name="mi_service_app_name">Xidmətlər və əks-əlaqə</string>
     <string name="mi_service_back">Geri</string>
@@ -100,8 +100,8 @@
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Yüklə</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Deyəsən, ödənişli bir şəbəkəyə bağlandınız. Jurnalları yükləmək üçün əlavə ödənişlər yarada bilər."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="miui_feedback_edit_need_phone_state_permission">Problemləri tapmağa kömək etməsi üçün tətbiqə IMEI nömrənizi oxumaq üzrə cihaz məlumatlarınıza müraciət etmə icazəsi verin. Tənzimləmələri açmaq üçün \"Oldu\"ya toxunun.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Əks-əlaqənizə şəkil və video əlavə edə bilmək üçün tətbiqin cihaz anbarına müraciət etməsinə icazə verin. Tənzimləmələri açmaq üçün \"Oldu\"ya toxunun.</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Problemləri tapmağa kömək etməsi üçün tətbiqə IMEI nömrənizi oxumaq üzrə cihaz məlumatlarınıza müraciət etmə icazəsi verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Əks-əlaqənizə şəkil və video əlavə edə bilmək üçün tətbiqin cihaz anbarına müraciət etməsinə icazə verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
     <string name="miui_feedback_edit_permission_denied_title">Məhdudlaşdırılan icazələr: %1$s</string>
     <string name="miui_feedback_edit_phone_state_permission_name">Cihaz məlumatlarına müraciət</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Hər zaman</string>
@@ -125,8 +125,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Cihaz anbarına müraciət et</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Razı deyiləm"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Razıyam</string>
-    <string name="miui_feedback_edit_submit_dialog_content"><Data>\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; qəbul etməlisiniz. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.\"</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Qəbul et\"in seçilməsi ilə &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub qəbul etmiş olursunuz.\"</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimiz&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızla&lt;/a&gt; razılaşmalısınız. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.\"</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.\"</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Hesabat göndər</string>
     <string name="miui_feedback_edit_submit_directly">Göndər</string>
@@ -163,7 +163,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_main_bottom_bar_guide">"Başlanğıc bələdçisi"</string>
     <string name="miui_main_bottom_bar_mine">Xidmətlərim</string>
     <string name="miui_main_continue">Növbəti</string>
-    <string name="miui_main_control_center_desc">Və ya Tənzimləmələr &gt; Bildirişlər &amp; \"İdarəetmə mərkəzi\"ndə köhnə versiyaya keçin</string>
+    <string name="miui_main_control_center_desc">Və ya Ayarlar &gt; Bildirişlər &amp; \"İdarəetmə mərkəzi\"ndə köhnə versiyaya keçin</string>
     <string name="miui_main_control_center_open">Yeni İdarəetmə mərkəzi</string>
     <string name="miui_main_control_center_title">Bildiriş paneli ilə İdarəetmə mərkəzi arasında keçid etmək üçün sürüşdürün</string>
     <string name="miui_main_icon_callback">Əsas ekran qısayolu</string>
@@ -178,7 +178,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_main_notes_tab_desc1">Düşüncələrinizi yaxalayın</string>
     <string name="miui_main_notes_tab_desc2">Zehin xəritələri yaradın</string>
     <string name="miui_main_notes_tab_desc3">Yaradıcı olun</string>
-    <string name="miui_main_notes_title">Qeydlər, yeni fikirlər üçün mükəmməldir</string>
+    <string name="miui_main_notes_title">Notlar, yeni fikirlər üçün mükəmməldir</string>
     <string name="miui_main_pre_page">Geri</string>
     <string name="miui_main_privacy_tab_desc1">Kopyalama lövhənizi qoruyun</string>
     <string name="miui_main_privacy_tab_desc2">"Dəqiq yerləşməni paylaşmayın"</string>
@@ -190,7 +190,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_main_ring_australia">Avstraliya</string>
     <string name="miui_main_ring_defalut">Hazırkı bildiriş səsini istifadə et</string>
     <string name="miui_main_ring_mute_tips">"Səssiz rejimdə demolar oynadıla bilmir"</string>
-    <string name="miui_main_ring_sub_title">Demoları oynatmaq və bildiriş səsini seçmək üçün toxunun</string>
+    <string name="miui_main_ring_sub_title">Demoları oxutmaq və bildiriş səsini seçmək üçün toxunun</string>
     <string name="miui_main_ring_title">Təbiətdən ilham alan bildiriş səsləri</string>
     <string name="miui_main_shortcut_label_submit_feedback">Əks-əlaqə ver</string>
     <string name="miui_main_update_back_to_home">Əsas ekran hazırlanır…</string>
@@ -203,16 +203,17 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_main_update_success_title_12">Yalnız sizin</string>
     <string name="miui_main_update_success_title_12_5">MIUI 12.5-ə xoş gəldiniz</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -271,9 +272,9 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="permission_agree">Razıyam</string>
-    <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
+    <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
     <string name="permission_complete">Hazırdır</string>
     <string name="permission_contacts_info">Hesab məlumatına müraciət</string>
     <string name="permission_contacts_introduce">Xiaomi Hesabı istifadə edərək daxil olmaq üçün</string>
@@ -287,7 +288,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="permission_location_introduce">Yaxınlıqdakı xidmət nöqtələrini göstərmək üçün</string>
     <string name="permission_main_purpose">MIUI özəllik demolarını göstərmək, əks-əlaqə vermək və satın sonrası xidmətlərə müraciət etmək.</string>
     <string name="permission_privacy">Gizlilik Siyasəti (məcburi)</string>
-    <string name="permission_region_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz.</Data></string>
+    <string name="permission_region_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız.</Data></string>
     <string name="permission_select_all">Hamısını seç</string>
     <string name="permission_storage">Anbar</string>
     <string name="permission_storage_introduce">Cihazınızda elementləri saxlamaq üçün</string>
@@ -295,18 +296,18 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_policy_update_hint">"%1$s Gizlilik Siyasəti güncəlləndi:
 %2$s
-Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</string>
+Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."</string>
     <string name="privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
-    <string name="public_authorize_now">Tənzimləmələr</string>
+    <string name="public_authorize_now">Ayarlar</string>
     <string name="public_loading_text">Bir saniyə…</string>
     <string name="public_net_error_retry">Yenidən sına</string>
-    <string name="public_net_error_sub_title">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="public_net_error_sub_title">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="public_net_error_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="public_open_feedback_service">Başlat</string>
     <string name="public_please_authorize">Davam etmək üçün icazələr tələb edilir</string>
-    <string name="public_welcome_use_feedback_service">\"Xidmətlər və əks-əlaqə\"yə xoş gəldiniz! Bu tətbiqi əks-əlaqə vermək, tez-tez soruşulan suallara baxmaq, məhsulların geri qaytarılması və mübadiləsi üçün müraciət etmək və daha çoxu üçün istifadə edə bilərsiniz.</string>
+    <string name="public_welcome_use_feedback_service">\"Xidmətlər və əks-əlaqə\"yə xoş gəldiniz! Bu tətbiqi əks-əlaqə vermək, tez-tez verilən suallara baxmaq, məhsulların geri qaytarılması və mübadiləsi üçün müraciət etmək və daha çoxu üçün istifadə edə bilərsiniz.</string>
     <string name="rationale_ask">Bu tətbiq, tələb olunan icazələr olmadan düzgün işləməyə bilər.</string>
-    <string name="rationale_ask_again">Bu tətbiq, tələb olunan icazələr olmadan düzgün işləməyə bilər. Tətbiq icazələrini dəyişdirmək üçün tətbiq tənzimləmələri ekranını açın.</string>
+    <string name="rationale_ask_again">Bu tətbiq, tələb olunan icazələr olmadan düzgün işləməyə bilər. Tətbiq icazələrini dəyişdirmək üçün tətbiq ayarları ekranını açın.</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -353,7 +354,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_settings_dialog">Tələb olunan icazələr</string>
@@ -363,7 +364,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="user_must_known">Diqqət</string>
-    <string name="user_must_known_content">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
+    <string name="user_must_known_content">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə indi razılaşırsınız?"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="wednesday">Çərşənbə</string>
@@ -371,7 +372,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="wednesday_shortest">Çər</string>
     <string name="withdraw_consent_failed">"Razılıq geri götürülə bilmədi"</string>
     <string name="withdraw_consent_failed_hint">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="withdrawing">Razılıq geri götürülür…</string>
     <string name="yesterday">Dünən</string>
 </resources>

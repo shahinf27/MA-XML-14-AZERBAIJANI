@@ -59,8 +59,11 @@
     <string name="ad_download_resume">Davam et</string>
     <string name="ad_downloading_tip">Bu element endirilir. Bildiriş panelində irəliləyişə baxa bilərsiniz.</string>
     <string name="ad_experience_now">Aç</string>
+    <string name="ad_in_downloading">Endirilir</string>
+    <string name="ad_in_installing">Quraşdırılır</string>
     <string name="add">Əlavə et</string>
-    <string name="add_resource_detail_fail">"Mənbə əlavə edilə bilmədi"</string>
+    <string name="add_home_icon_success">Uğurla əlavə edildi</string>
+    <string name="add_resource_detail_fail">"Resurs əlavə edilə bilmir"</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="all_resources">Hamısı</string>
     <string name="allow">İcazə verildi</string>
@@ -99,19 +102,20 @@
     <string name="apply_not_support_aod">"\"Həmişə açıq ekran\", bu cihazda dəstəklənmir"</string>
     <string name="apply_not_support_in_second_space">"Bu elementi İkinci sahədə tətbiq edilə bilmir"</string>
     <string name="apply_not_support_maml_aod">"\"Həmişə açıq ekran\", bu cihazdakı temalarla birləşdirilə bilmir"</string>
+    <string name="apply_not_support_video_wallpaper_warning">"4K, 8K və Dolby videolar video divar kağızı kimi ayarlana bilməz."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Bu divar kağızı, daxili və xarici Kilid və Əsas ekrana tətbiq olunacaq.</string>
     <string name="apply_succeed">Uğurla tətbiq edildi</string>
-    <string name="apply_success_not_enable_aod">Əvvəlcə Tənzimləmələrdə \"Həmişə açıq ekran\"ı işə salın</string>
+    <string name="apply_success_not_enable_aod">Əvvəlcə Ayarlarda \"Həmişə açıq ekran\"ı işə salın</string>
     <string name="apply_success_not_support_aod">"\"Həmişə açıq ekran\", bu cihazdakı temalarla birləşdirilə bilmir. Bu temanın qalan komponentləri uğurla tətbiq edildi."</string>
     <string name="apply_theme_with_ringtones">Tema zəng səsini istifadə et</string>
-    <string name="apply_wallpaper_after_three_theme">"Hazırda üçüncü tərəf tema istifadə edirsiniz. Kilid ekranınızın divar kağızını dəyişdirsəniz, bu, Kilid ekranı saat stilinin ilkin vəziyyətinə qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?"</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Hazırda Super divar kağızı istifadə edirsiniz. Yeni bir divar kağızı seçsəniz, həm Əsas ekran, həm də Kilid ekranınıza tətbiq olunacaq və \"Həmişə Ekranda\", əvvəlki tənzimləməsinə qaytarılacaq. İndi tətbiq edilsin?"</string>
+    <string name="apply_wallpaper_after_three_theme">"Hazırda üçüncü tərəf tema istifadə edirsiniz. Kilid ekranınızın divar kağızını dəyişdirsəniz, bu, Kilid ekranı saat stilinin ilkin halına qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Hazırda Super divar kağızı istifadə edirsiniz. Yeni bir divar kağızı seçsəniz, həm Əsas ekran, həm də Kilid ekranınıza tətbiq olunacaq və \"Həmişə ekranda\" əvvəlki ayarlarına bərpa ediləcək. İndi tətbiq edilsin?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Hazırda Super divar kağızı istifadə edirsiniz. Yeni bir divar kağızı seçsəniz, həm Əsas ekran, həm də Kilid ekranınıza tətbiq olunacaq. İndi tətbiq edilsin?"</string>
-    <string name="apply_warning_get_device_dialog_message">Endirilmiş məzmunu istifadə edə bilmək üçün əvvəlcə bu özəlliyin cihaz kimliyinə müraciətinə icazə verin. Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz.</string>
-    <string name="apply_warning_tip_get_device_status">Əvvəlcə Profil &gt; \"Tənzimləmələr\"dən bu tətbiqin cihaz kimliyinə müraciətinə icazə verin.</string>
+    <string name="apply_warning_get_device_dialog_message">Endirilmiş məzmunu istifadə edə bilmək üçün əvvəlcə bu özəlliyin cihaz kimliyinə müraciətinə icazə verin. Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz.</string>
+    <string name="apply_warning_tip_get_device_status">Əvvəlcə Profil &gt; \"Ayarlar\"da bu tətbiqin cihaz kimliyinə müraciətinə icazə verin.</string>
     <string name="audio_duration_minutes_format">%1$d dəqiqə</string>
     <string name="audio_duration_seconds_format">%1$d saniyə</string>
-    <string name="audition_ringtone">Oynat</string>
+    <string name="audition_ringtone">Oxut</string>
     <string name="author_attention">İzlə</string>
     <string name="author_attention_success">Uğurla izlənildi</string>
     <string name="author_dialog_message">Bu hesabın izlənilməsi indi dayandırılsın?</string>
@@ -123,7 +127,7 @@
     <string name="backup_theme_fail_trial_rights_message">"Sınaq elementləri nüsxələnə bilmir"</string>
     <string name="backup_theme_name">Tema nüsxəsi</string>
     <string name="backup_theme_progress_message">Nüsxələnir…</string>
-    <string name="backup_theme_success_message">Hazırkı tema tənzimləmələriniz nüsxələndi.</string>
+    <string name="backup_theme_success_message">Hazırkı tema ayarlarınız nüsxələndi.</string>
     <string name="basic_mode">Xətdən kənar rejimi</string>
     <string name="basic_mode_desc">"Temalar, internetə bağlanmayacaq və yalnız yerli məzmunu istifadə edəcək. Şəxsi məlumatlarınız yığılmayacaq."</string>
     <string name="boot_audio_dialog_cancel">İmtina</string>
@@ -135,7 +139,7 @@
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="browse_mode">Onlayn rejim</string>
     <string name="browse_mode_desc">"Temalar, internetə bağlanacaq və həm yerli, həm də onlayn məzmunu istifadə edəcək. Şəxsi məlumatlarınız yığılmayacaq."</string>
-    <string name="browser_local_resource">Yerli mənbələr</string>
+    <string name="browser_local_resource">Yerli resurslar</string>
     <string name="can_not_apply">Tətbiq edilə bilmir</string>
     <string name="can_not_apply_error">"Bu video formatı dəstəklənmir"</string>
     <string name="can_not_apply_pc_video">"PC rejimi, canlı divar kağızlarını dəstəkləmir"</string>
@@ -143,7 +147,7 @@
     <string name="cancel_download">Endirmə ləğv edildi</string>
     <string name="card_data_request_error">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="card_loading">Bir saniyə…</string>
-    <string name="card_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="card_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="card_retry">Yenidən sına</string>
     <string name="change_host_hint">Hostu dəyişdir</string>
     <string name="change_wallpaper">Divar kağızı</string>
@@ -162,14 +166,13 @@
     <string name="common_downloading">Endirilir…</string>
     <string name="common_format_date_no_year">dd-MM</string>
     <string name="common_skip">Ötür</string>
-    <string name="community_community_message_trigger_summary">Mi Hesab kimliyinizi istifadə edərək cavablar, bəyənmələr və Mi Cəmiyyətindəki status güncəlləmələri ilə bağlı bildirişlər alın</string>
+    <string name="community_community_message_trigger_summary">Xiaomi Hesab kimliyinizi istifadə edərək cavablar, bəyənmələr və Mi Cəmiyyətindəki status güncəlləmələri ilə bağlı bildirişlər alın</string>
     <string name="community_community_message_trigger_title">Fəaliyyəti bildir</string>
     <string name="community_cta_dialog_cancel">Xeyr, təşəkkür</string>
-    <string name="community_cta_dialog_des">Üçüncü tərəf temalar, artıq Mi Cəmiyyət vicetini dəstəkləyir. \"Temalar\"ın burada baxa bilməsi üçün hesabla əlaqələndirilmiş Mi Hesabı kimliyinizə və Mi Cəmiyyətindəki statuslarınıza müraciət etməsinə icazə verin.</string>
+    <string name="community_cta_dialog_des">Üçüncü tərəf temalar, artıq Xiaomi Cəmiyyət vicetini dəstəkləyir. \"Temalar\"ın burada baxa bilməsi üçün hesabla əlaqələndirilmiş Xiaomi Hesabı kimliyinizə və Xiaomi Cəmiyyətindəki statuslarınıza müraciət etməsinə icazə verin.</string>
     <string name="community_cta_dialog_ok">İcazə ver</string>
     <string name="community_cta_dialog_title">Tələb olunan icazələr</string>
-    <string name="community_entrance_summary">Mi Cəmiyyətində tema ilə əlaqəli məzmunu tapın. Bu özəllik seçilmiş temalar tərəfindən dəstəklənir.</string>
-    <string name="community_entrance_title">Mi Cəmiyyəti saat viceti</string>
+    <string name="community_entrance_title">Xiaomi Cəmiyyəti saat viceti</string>
     <string name="community_message_trigger_disabled">Bağlı</string>
     <string name="community_message_trigger_triggered">Açıq</string>
     <string name="component_backup_preference_title">Temanı nüsxələ</string>
@@ -192,11 +195,11 @@
     <string name="current_using_lockscreen_wallpaper_text">Kilid ekranı</string>
     <string name="current_version">Hazırkı versiya: %1$s</string>
     <string name="current_version_incompatible">Uyğun deyil</string>
-    <string name="custom_storage_permission_desc">Fərdiləşdirmə tərcihlərini dəyişdirə və elementləri endirə bilmək üçün əvvəlcə bu özəlliyin anbara müraciətinə icazə verin. Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz.</string>
-    <string name="custom_storage_permission_desc_above_eleven">Fərdiləşdirmə tərcihlərini dəyişdirə bilmək üçün əvvəlcə bu özəlliyin anbara müraciətinə icazə verin. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="custom_storage_permission_desc">Fərdiləşdirmə tərcihlərini dəyişdirə və elementləri endirə bilmək üçün əvvəlcə bu özəlliyin anbara müraciətinə icazə verin. Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Fərdiləşdirmə tərcihlərini dəyişdirə bilmək üçün əvvəlcə bu özəlliyin anbara müraciətinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="custom_widget">Tövsiyə edilən vicetlər</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="de_apply_icons">Tətbiq nişanları</string>
     <string name="de_apply_icons_and_wallpaper">Tətbiq nişanları və divar kağızı</string>
     <string name="de_author_follow">İzlə</string>
@@ -262,7 +265,7 @@
     <string name="detail_reward_duplicate_order_error">Həddindən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="detail_reward_exceed_limit">Mükafatlar 200 CNY-ə qədər ola bilər</string>
     <string name="detail_reward_know_it">Anladım</string>
-    <string name="detail_reward_limited_to_200">Mükafatlar 200 Mi Sikkəyə qədər ola bilər</string>
+    <string name="detail_reward_limited_to_200">Mükafatlar 200 Mi Coin-ə qədər ola bilər</string>
     <string name="detail_reward_loading_failed">"Məlumat yüklənilə bilmədi. Yenidən sınayın."</string>
     <string name="detail_reward_no_one">Hələ ki, mükafat yoxdur. Birinci mükafatı siz verin!</string>
     <string name="detail_reward_reached_upper_limit">"Bu gün mükafat yoxdur. Sabah yenə gəlin!"</string>
@@ -276,7 +279,7 @@
     <string name="dev_options_summary">Veb resurslar</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">Hazırkı tema, Kilid ekranı divar kağızının dəyişdirilməsiini dəstəkləməyə bilər.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Kilid ekranı divar kağızı</string>
-    <string name="dialog_content_get_device_status">Bu tətbiq, digər cihazlarınızda satın alınmış elementləri təsdiqləyə bilmək üçün cihazın kimliyinə müraciət etməlidir. Bu özəlliyi söndürdükdən sonra satın alınmış bəzi elementləri istifadə etmək mümkün olmaya bilər. Yenə də söndürülsün?</string>
+    <string name="dialog_content_get_device_status">Bu tətbiq, digər cihazlarınızda satın alınmış elementlərin kimliyini doğrulaya bilmək üçün cihazın kimliyinə müraciət etməlidir. Bu özəlliyi söndürdükdən sonra satın alınmış bəzi elementləri istifadə etmək mümkün olmaya bilər. Yenə də söndürülsün?</string>
     <string name="dialog_negative_button_text">İndi yox</string>
     <string name="dialog_positive_button_text">İcazə ver</string>
     <string name="dialog_show_never">"Təkrar göstərmə."</string>
@@ -302,7 +305,7 @@
     <string name="evening">Günortadan sonra</string>
     <string name="exchange_alert">Tədbirlərimiz zamanı kodları əldə edə və burada istifadə edə bilərsiniz</string>
     <string name="exchange_code_dialog_title">Diqqət</string>
-    <string name="exchange_code_not_match_account_dialog_content">Bu kod artıq başqa bir Mi Hesabı tərəfindən istifadə edilib. Həmin Mi Hesabına daxil olub yenidən sınayın.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Bu kod artıq başqa bir Xiaomi Hesabı tərəfindən istifadə edilib. Həmin Xiaomi Hesabına daxil olub yenidən sınayın.</string>
     <string name="exit_extreme_mode_dialog_agree">Razıyam</string>
     <string name="exit_extreme_mode_dialog_cancel">İmtina</string>
     <string name="exit_extreme_mode_dialog_title">Ekstremal rejimi söndür</string>
@@ -313,10 +316,10 @@
     <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
     <string name="exo_controls_hide">Pleyer kontrollarını gizlət</string>
     <string name="exo_controls_next_description">Növbəti</string>
-    <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
-    <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
-    <string name="exo_controls_play_description">Oynat</string>
+    <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
     <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Əvvəlki</string>
@@ -324,8 +327,8 @@
     <string name="exo_controls_repeat_off_description">Heç birini təkrarlama</string>
     <string name="exo_controls_repeat_one_description">Birini təkrarla</string>
     <string name="exo_controls_rewind_description">Geri çək</string>
-    <string name="exo_controls_seek_bar_description">Oynatma irəliləyişi</string>
-    <string name="exo_controls_settings_description">Tənzimləmələr</string>
+    <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
     <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
     <string name="exo_controls_shuffle_off_description">Qarışdırma bağlıdır</string>
     <string name="exo_controls_shuffle_on_description">Qarışdırma açıqdır</string>
@@ -363,6 +366,7 @@
     <string name="favorite_list">Sevimlilər</string>
     <string name="favorite_list_format">Sevimli %1$s</string>
     <string name="find_more_font">Daha çoxunu tap</string>
+    <string name="find_more_free_theme">Daha çox</string>
     <string name="find_more_theme">Daha çoxunu tap</string>
     <string name="find_more_wallpapers">Daha çoxunu tap</string>
     <string name="first_page_recommend">Tövsiyə edilən</string>
@@ -452,15 +456,15 @@
     <string name="icon_pad_setting_local_icon">Yerli nişanlar</string>
     <string name="icon_pad_setting_title">Nişanlar</string>
     <string name="in_the_end">Göstəriləcək element yoxdur</string>
-    <string name="incall_show_apply">Profil videosu olaraq tənzimlə</string>
-    <string name="incall_show_apply_fail">"Tənzimlənə bilmədi"</string>
+    <string name="incall_show_apply">Profil videosu olaraq ayarla</string>
+    <string name="incall_show_apply_fail">"Ayarlana bilmədi"</string>
     <string name="incall_show_apply_success">Uğurla tətbiq edildi</string>
     <string name="incall_show_apply_success_without_ringtone">"Uğurla tətbiq edildi. Bu videonun səsi yoxdur. Orijinal zəng səsi istifadə ediləcək.
-Bu özəlliyi söndürmək üçün, Tənzimləmələr &gt; Səs və titrəmə &gt; \"Profil videosu\"na gedin."</string>
+Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profil videosu\"na gedin."</string>
     <string name="incall_show_find_more">Daha çoxunu tap</string>
     <string name="incall_show_not_set">Profil videosu yoxdur</string>
     <string name="incall_show_remove">Profil videosunu sil</string>
-    <string name="incall_show_remove_dialog_message">"Gedən zənglər üçün artıq bir profil videosu tənzimləmisiniz. Video indi silinsin?"</string>
+    <string name="incall_show_remove_dialog_message">"Gedən zənglər üçün artıq bir profil videosu ayarlamısınız. Video indi silinsin?"</string>
     <string name="incall_show_remove_success">Profil videosu uğurla silindi</string>
     <string name="incall_show_title">Profil videoları</string>
     <string name="incompatible_dialog_cancel">"Tətbiq etmə"</string>
@@ -471,7 +475,7 @@ Bu özəlliyi söndürmək üçün, Tənzimləmələr &gt; Səs və titrəmə &g
     <string name="install_failed">"Quraşdırıla bilmədi"</string>
     <string name="install_gallery_content">"Hələ \"Qalereya\"nı quraşdırmamısınız. İndi endirilsin?"</string>
     <string name="install_gallery_title">\"Qalereya\"nı quraşdır</string>
-    <string name="is_setting_wallpaper_message">Divar kağızı tənzimlənir…</string>
+    <string name="is_setting_wallpaper_message">Divar kağızı ayarlanır…</string>
     <string name="item_resource_audio_optional_alarm_ring">Zəngli saatlar</string>
     <string name="item_resource_audio_optional_color_ring">Zəng səsi tonu</string>
     <string name="item_resource_audio_optional_notification_ring">Bildirişlər</string>
@@ -489,10 +493,10 @@ Bu özəlliyi söndürmək üçün, Tənzimləmələr &gt; Səs və titrəmə &g
     <string name="large_icon_detail_warning_dialog_btn_keep">Super nişanlar</string>
     <string name="large_icon_detail_warning_dialog_btn_not_keep">İlkin nişanlar</string>
     <string name="large_icon_detail_warning_dialog_msg">"Bəzi tətbiqlər Super nişan istifadə edir. Super nişanları istifadə etməyə davam edilsin, yoxsa temanızın ilkin nişanlarına qayıdılsın?"</string>
-    <string name="large_icon_detail_warning_dialog_title">Super nişan tənzimləmələri</string>
+    <string name="large_icon_detail_warning_dialog_title">Super nişan ayarları</string>
     <string name="large_icon_no_more">Burada hələ heç nə yoxdur</string>
     <string name="large_icon_no_network">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="large_icon_not_support">"%s üçün nişanlar tənzimlənə bilmir"</string>
+    <string name="large_icon_not_support">"%s üçün nişanlar ayarlana bilmir"</string>
     <string name="large_icon_not_support_current_type">"%s bu nişan üçün dəstəklənmir"</string>
     <string name="large_icon_official">İlkin</string>
     <string name="large_icon_picker_haven">Mövcud nişanlar</string>
@@ -508,7 +512,7 @@ Bu özəlliyi söndürmək üçün, Tənzimləmələr &gt; Səs və titrəmə &g
     <string name="load_from_local_photos">Qalereya</string>
     <string name="loading">Bir saniyə…</string>
     <string name="loading_picture">Təsvir yüklənir…</string>
-    <string name="loading_resource_detail_fail">"Mənbə yüklənə bilmədi"</string>
+    <string name="loading_resource_detail_fail">"Resurs yüklənə bilmir"</string>
     <string name="loading_resource_detail_info">Bir saniyə…</string>
     <string name="local_mode">Xətdən kənar rejimi</string>
     <string name="local_mode_close">Xətdən kənar rejimi söndürülsün?</string>
@@ -519,7 +523,7 @@ Söndürmək üçün toxunun."</string>
     <string name="local_mode_open">Xətdən kənar rejimi</string>
     <string name="local_photos">Yerli fotolar</string>
     <string name="local_resouce_creator_name">Tərtibatçı: %1$s</string>
-    <string name="lock_screen_apply">Kilid ekranı olaraq tənzimlə</string>
+    <string name="lock_screen_apply">Kilid ekranı olaraq ayarla</string>
     <string name="lockscreen_apply_failured">"Kilid ekranı divar kağızı tətbiq edilə bilmir"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Əsas ekran divar kağızı tətbiq edildi. Kilid ekranı divar kağızı tətbiq edilə bilmir."</string>
     <string name="lockscreen_apply_success">Kilid ekranı divar kağızı tətbiq edildi</string>
@@ -533,7 +537,7 @@ Söndürmək üçün toxunun."</string>
     <string name="lockscreen_wallpaper">Kilid ekranı</string>
     <string name="lockstyle_personal_settings">Özəlləşdir</string>
     <string name="login_theme">\"Temalar\"a daxil olun</string>
-    <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı saxlayın</string>
+    <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı tutun</string>
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">"Saat %1$s"</string>
@@ -572,17 +576,17 @@ EEE"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Mi hesabını aktivləşdir</string>
+    <string name="miuishare_account_activate_confirmation">Xiaomi hesabını aktivləşdir</string>
     <string name="miuishare_account_activate_ok">Aktivləşdir</string>
     <string name="miuishare_account_login_cancel">İmtina</string>
-    <string name="miuishare_account_login_confirmation">Mi Hesabınızda daxil olun</string>
+    <string name="miuishare_account_login_confirmation">Xiaomi Hesabına daxil olun</string>
     <string name="miuishare_account_login_ok">Daxil ol</string>
-    <string name="miuishare_account_need_activate">Weibo-da paylaşma, Mi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Mi Hesabınızı aktivləşdirin.</string>
-    <string name="miuishare_account_need_login">Weibo-da paylaşma, Mi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Mi Hesabınıza daxil olun.</string>
+    <string name="miuishare_account_need_activate">Weibo-da paylaşma, Xiaomi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Xiaomi Hesabınızı aktivləşdirin.</string>
+    <string name="miuishare_account_need_login">Weibo-da paylaşma, Xiaomi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="miuishare_app_name">MIUI Paylaşım</string>
     <string name="miuishare_mini_program_title">Tapdığım divar kağızına nəzər yetir!</string>
     <string name="miuishare_no_network">"Şəbəkəyə bağlana bilmədi."</string>
-    <string name="miuishare_please_retry">"Məlumat alına bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="miuishare_please_retry">"Məlumat alına bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="miuishare_publish">Göndər</string>
     <string name="miuishare_share_done">Uğurla paylaşıldı</string>
     <string name="miuishare_share_editor_title">Paylaş</string>
@@ -592,16 +596,17 @@ mm"</string>
     <string name="miuishare_title_more">Daha çox</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -715,20 +720,20 @@ mm"</string>
     <string name="need_to_open_application_permission_desc">Hansı tətbiqlərin şəffaf divar kağızları ilə uyğunlaşdığını öyrənə bilmək üçün \"Temalar\"ın cihazınızda quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin.</string>
     <string name="need_to_open_permission">Tələb olunan icazələr</string>
     <string name="need_to_open_storage_permission_desc">\"Temalar\"dakı elementləri istifadə edə və endirə bilmək üçün, əvvəlcə tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="network_exception">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="network_exception">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="new_resource_price_unit"> Mi</string>
     <string name="night">Axşam</string>
     <string name="no_cta_agreed">"GetApps-da CTA icazələri yoxdur"</string>
     <string name="no_data">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_install_permission">"Bu elementi quraşdırmaq üçün icazəniz yoxdur"</string>
     <string name="no_more_notice">"Təkrar göstərmə"</string>
-    <string name="no_net_work_connection">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="no_net_work_connection">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="no_network_desc">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="no_network_please_retry">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="no_network_please_retry">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="no_wallpaper">Burada hələ heç bir element yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="not_allow">İcazə verilmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_incall_show">"Bu divar kağızı profil videoları ilə işləmir"</string>
     <string name="online_no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="online_precust_abstract">Mücərrəd</string>
@@ -739,7 +744,7 @@ mm"</string>
     <string name="online_precust_museum">Britaniya Muzeyi</string>
     <string name="online_precust_plant">Bitki</string>
     <string name="online_precust_scenery">Mənzərə</string>
-    <string name="online_search_hint">Onlayn mənbələrdə axtarın</string>
+    <string name="online_search_hint">Onlayn resursları axtar</string>
     <string name="order_list">Sifariş tarixçəsi</string>
     <string name="ota_recovery_theme_dialog_message">Daha əvvəl istifadə edilən temanın bəzi elementləri MIUI-ın yeni versiyası ilə uyğunlaşmaya bilər. Uyğunsuz elementlər ilkin seçimlərlə əvəzlənəcək.</string>
     <string name="ota_recovery_theme_dialog_title">Orijinal tema bərpa edilir</string>
@@ -749,7 +754,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Çıxış etdikdən sonra aşağıdakı əməliyyatları icra edə bilməyəcəksiniz.
 Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün və istifadə edin."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">\"Divar kağızı və fərdiləşdirmə\"dən çıxılsın?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və razılaşıram: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="pad_fold_log_in_wallpaper">\"Divar kağızı və fərdiləşdirmə\"yə daxil olun</string>
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
@@ -759,7 +764,7 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="personalize_alarm_ringtone_title">Zəngli saatlar</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Zəng səsləri</string>
-    <string name="personalize_charge_style_title">Enerji yığır</string>
+    <string name="personalize_charge_style_title">Dolur</string>
     <string name="personalize_default_font">İlkin şrift</string>
     <string name="personalize_fingerprint_style_title">Barmaq izi</string>
     <string name="personalize_icon_title">Nişanlar</string>
@@ -779,7 +784,7 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
 2. Rəy və bəyənmə əlavə etmə, digər şəxsləri izləmə və onlarla qarşılıqlı əlaqədə olma."</string>
     <string name="phone_exit_theme_warning_title">\"Temalar\"dan çıxılsın?</string>
     <string name="phone_log_in_theme">\"Temalar\"a daxil olun</string>
-    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və razılaşıram: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="playing_ringtone">Oynadılır</string>
     <string name="pm">GS</string>
     <string name="pref_lockscreen_magazine_summary">Divar kağızını müxtəlif kateqoriyalardan olan şəkillərin slayd şouları ilə əvəz edin</string>
@@ -816,93 +821,93 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="privacy_pad_fold_entry">Gizlilik</string>
     <string name="privacy_pad_fold_logoff_service_content">\"Divar kağızı və fərdiləşdirmə\" xidmətlərini ləğv et</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Bu cihaza endirilmiş bütün divar kağızları, şriftlər və zəng səsləri.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Bu cihazda yaradılmış bütün icazə tərcihləri, ayarlar və keşlənmiş elementlər.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Davam etməzdən əvvəl xidmətləri ləğv etmək hüququnuzun olduğuna əmin olun.
 2. \"Divar kağızı və fərdiləşdirmə\" xidmətlərinin ləğv edilməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Xidmətlərin ləğv edilməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, xidmətləri ləğv etdikdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar xidmətləri ləğv etdikdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
 Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün divar kağızları, şriftlər və zəng səsləri.
-Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
+Bu cihazda yaradılmış bütün icazə tərcihləri, ayarlar və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Xidmətin ləğv edilməsi, xidmətlərin ləğv edilməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">\"Divar kağızı və Fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Divar kağızı və fərdiləşdirmə xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Divar kağızı və fərdiləşdirmə xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"\"Divar kağızı və fərdiləşdirmə\" xidmətlərini ləğv etmək üzrəsiniz."</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Bu cihaza endirilmiş bütün divar kağızları, şriftlər və zəng səsləri.</string>
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün icazə tərcihləri, ayarlar və keşlənmiş elementlər.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Davam etsəniz, \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Divar kağızı və fərdiləşdirmə, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Divar kağızı və fərdiləşdirmə\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="privacy_pad_fold_update_content">\"Divar kağızı və fərdiləşdirmə\" Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_pad_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməmisiniz. Ancaq \"Divar kağızı və fərdiləşdirmə\"nin təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
-Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
+    <string name="privacy_pad_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Divar kağızı və fərdiləşdirmə\"nin təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
+Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq ayarlandıqda), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_permission_management_description">İcazə detalları</string>
     <string name="privacy_permission_related_content">İcazələr</string>
-    <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını qəbul etmədiyiniz müddətcə \"Divar kağızı və fərdiləşdirmə\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
-    <string name="privacy_phone_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməmisiniz. Ancaq \"Temalar\"ın təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
-Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
+    <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə \"Divar kağızı və fərdiləşdirmə\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə razılaşırsınız?"</string>
+    <string name="privacy_phone_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Temalar\"ın təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
+Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq ayarlandıqda), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_phone_logoff_service_content">\"Temalar\"ın xidmətlərini ləğv et</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Bu cihaza endirilmiş bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, ayarlar və keşlənmiş elementlər.</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Davam etməzdən əvvəl xidmətləri ləğv etmək hüququnuzun olduğuna əmin olun.
 2. \"Temalar\" xidmətlərinin ləğv edilməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Xidmətlərin ləğv edilməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, xidmətləri ləğv etdikdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar xidmətləri ləğv etdikdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
 Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.
-Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
+Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, ayarlar və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Xidmətin ləğv edilməsi, xidmətlərin ləğv edilməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Temalar xidmətlərinin ləğv edilməsi barədə bəyanat</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Temalar xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Temalar xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Temalar xidmətlərini ləğv etmək üzrəsiniz."</string>
     <string name="privacy_phone_read_and_write_storage">Anbara müraciət</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Anbar müraciəti</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Temalar xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Temalar xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Bu cihaza endirilmiş bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, ayarlar və keşlənmiş elementlər.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmək hüququnuzun olduğuna əmin olun.
 2. \"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Razılığın geri götürülməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, razılığı geri götürdükdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar razılıq geri götürüldükən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
-Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
+Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.
-Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
+Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, ayarlar və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. \"Temalar\"ın Gizlilik Siyasətinə verdiyiniz razılığı geri götürdükdən sonra, şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. 
 5. Razılığın geri götürülməsi, razılığın geri götürülməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat</string>
-    <string name="privacy_phone_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Davam etsəniz, \"Temalar\"ın Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Temalar, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Temalar\"ın xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="privacy_phone_update_content">Temalar Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_read_statement">Əvvəlcə şərtlər və qaydaları qəbul edin</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyub qəbul edin."</string>
+    <string name="privacy_read_statement">Əvvəlcə şərtlər və qaydalarla razılaşın</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyun və razılaşın."</string>
     <string name="privacy_reading_the_application_list">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
     <string name="privacy_remind_user_mode_agree">Razıyam</string>
-    <string name="privacy_remind_user_mode_content"><Data>Bu özəlliyi istifadə etmək üçün Gizlilik Siyasətimiz qəbul edin. \"Temalar\"ı istifadə edərkən bizə təqdim etdiyiniz şəxsi məlumatları necə yığdığımızı, istifadə etdiyimizi, açıqladığımızı, emal etdiyimizi və saxladığımızı öyrənmək üçün &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun.</Data></string>
+    <string name="privacy_remind_user_mode_content"><Data>Bu özəlliyi istifadə etmək üçün Gizlilik Siyasətimizlə razılaşın. \"Temalar\"ı istifadə edərkən bizə təqdim etdiyiniz şəxsi məlumatları necə yığdığımızı, istifadə etdiyimizi, açıqladığımızı, emal etdiyimizi və saxladığımızı öyrənmək üçün &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun.</Data></string>
     <string name="privacy_remind_user_mode_title">Diqqət</string>
     <string name="privacy_revoke_agree_content">Razılığın geri götürülməsi</string>
-    <string name="privacy_revoke_agree_content_1">1. Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.</string>
-    <string name="privacy_revoke_agree_content_2">2. Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.</string>
+    <string name="privacy_revoke_agree_content_1">1. Xiaomi Hesabını istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.</string>
+    <string name="privacy_revoke_agree_content_2">2. Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.</string>
     <string name="privacy_revoke_agree_content_5">5. Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək.</string>
     <string name="privacy_revoke_agree_data_warning">Aşağıdakı məlumatlar razılıq geri götürüldükdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):</string>
     <string name="privacy_revoke_succeed">Razılıq uğurla geri götürüldü</string>
     <string name="privacy_revoking_warning">Razılıq geri götürülür…</string>
     <string name="privacy_select_mode">Rejim seçin</string>
-    <string name="privacy_select_mode_desc">"Gizlilik Siyasətimizi qəbul etmədiyiniz üçün aşağıdakı rejimlərədn birini seçin:"</string>
+    <string name="privacy_select_mode_desc">"Gizlilik Siyasətimizlə razılaşmadığınız üçün aşağıdakı rejimlərdən birini seçin:"</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="privacy_update_prompt_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmə hüququnuzun olduğuna əmin olun.
 2. \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Razılığın geri götürülməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, razılığı geri götürdükdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar razılıq geri götürüldükdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
-Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
+Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün divar kağızları, şriftlər və zəng səsləri.
-Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
+Bu cihazda yaradılmış bütün icazə tərcihləri, ayarlar və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürdükdən sonra, şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. 
 5. Razılığın geri götürülməsi, razılığın geri götürülməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil."</string>
@@ -910,13 +915,13 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="provision_loading_tips">Bir saniyə…</string>
     <string name="provision_second_title">Bir neçə ilkin temalardan birini seçin</string>
     <string name="provision_title">Tema seçin</string>
-    <string name="prvicay_permission_not_allow_desc">"Bu tətbiqin, bu cihazda yaradılan bütün verilənləri silməsi üçün anbara müraciət etməsi lazımdır. Bu icazə olmadan, bəzi verilənlər silinməyəcək. Yenə də xidmətlər ləğv edilsin?
-Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
+    <string name="prvicay_permission_not_allow_desc">"Bu tətbiqin, bu cihazda yaradılan bütün dataları silməsi üçün anbara müraciət etməsi lazımdır. Bu icazə olmadan, bəzi datalar silinməyə bilər. Yenə də xidmətlər ləğv edilsin?
+Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="pull_down_view_error_message">Ups! İnternet bağlantısı tapılmadı. Bağlantınızı yoxlayıb yenidən sınayın.</string>
     <string name="pull_down_view_refresh">Təzələ</string>
     <string name="pull_down_view_title">"Yeniliklər"</string>
     <string name="purchased">Sifarişlər</string>
-    <string name="read_and_agree_account_privacy"><Data>\"Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və qəbul edirəm.\"</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>\"Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və razılaşıram.\"</Data></string>
     <string name="recently_used">Təzəlikcə istifadə edilən</string>
     <string name="recommend_trigger">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="recommend_trigger_summary">Tərcihlərinizə görə tövsiyələr almaq üçün işə salın</string>
@@ -935,11 +940,11 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_account_abnormal_state">Hesab xətası. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="resource_account_fail_to_add">"Hesab əlavə edilə bilmir"</string>
     <string name="resource_account_login">Daxil ol</string>
-    <string name="resource_account_login_before_action">İndi Mi Hesabınıza daxil olun</string>
+    <string name="resource_account_login_before_action">Xiaomi Hesabınıza indi daxil olun</string>
     <string name="resource_account_login_title">Daxil ol</string>
     <string name="resource_account_switch">Dəyişdir</string>
     <string name="resource_alarm_default">Zəngli saat</string>
-    <string name="resource_app_name">Mənbələrə bax</string>
+    <string name="resource_app_name">Resurslara bax</string>
     <string name="resource_apply">Tətbiq et</string>
     <string name="resource_apply_trial">Tətbiq et</string>
     <string name="resource_back">Geri</string>
@@ -989,13 +994,13 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_comment_upload_success">Rəyiniz qısa bir incələmədən sonra görüntülənəcək.</string>
     <string name="resource_comment_wonderful_comments">Məşhur rəylər</string>
     <string name="resource_continue">Növbəti</string>
-    <string name="resource_current_using_title">Mövcud mənbələr</string>
+    <string name="resource_current_using_title">Mövcud resurslar</string>
     <string name="resource_data_empty">Burada element yoxdur.</string>
     <string name="resource_default">İlkin zəng səsi</string>
-    <string name="resource_default_name">Mənbə</string>
+    <string name="resource_default_name">Resurs</string>
     <string name="resource_delete">Sil</string>
-    <string name="resource_delete_all">Seçilmiş %1$d mənbə silinsin?</string>
-    <string name="resource_delete_confirm">Bu mənbələr silinsin?</string>
+    <string name="resource_delete_all">Seçilmiş %1$d resurs silinsin?</string>
+    <string name="resource_delete_confirm">Bu resurslar silinsin?</string>
     <string name="resource_delete_font_title">Şriftləri sil</string>
     <string name="resource_delete_icon_title">Nişanları sil</string>
     <string name="resource_delete_ring_title">Zəng səslərini sil</string>
@@ -1016,7 +1021,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_download">Endir</string>
     <string name="resource_download_notification_title_one">%1$s uğurla endirildi</string>
     <string name="resource_download_trial">Sına</string>
-    <string name="resource_downloaded_title">Endirilmiş mənbələr</string>
+    <string name="resource_downloaded_title">Endirilmiş resurslar</string>
     <string name="resource_downloading">Endirilir</string>
     <string name="resource_exchange">İstifadə et</string>
     <string name="resource_exchange_confirm">Oldu</string>
@@ -1026,7 +1031,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_exchange_has_expired">Daxil etdiyiniz kodun müddəti bitib.</string>
     <string name="resource_exchange_has_used">Daxil etdiyiniz kod artıq istifadə edilib.</string>
     <string name="resource_exchange_hint">Kodu daxil edin</string>
-    <string name="resource_exchange_purchase_unkown_error">Ups! Bilinməyən bir xəta baş verdi. Ödənişinizin vəziyyətinə baxmaq üçün http://market.xiaomi.com ünvanında giriş edin.</string>
+    <string name="resource_exchange_purchase_unkown_error">Ups! Bilinməyən bir xəta baş verdi. Ödənişinizin statusuna baxmaq üçün http://market.xiaomi.com ünvanında giriş edin.</string>
     <string name="resource_exchange_share_code_content">"\"MIUI Temalar\"da \"%1$s\" teması üçün bir hədiyyə kodu (%2$s) aldınız. İndi istifadə etmək üçün %3$s seçiminə toxunun."</string>
     <string name="resource_exchange_share_code_dlg_content">\"%1$s\" üçün hədiyyə kodu: %2$s. Başqa MIUI istifadəçisinə göndərsəniz, bu temanı endirmək üçün onu istifadə edə bilər.</string>
     <string name="resource_exchange_share_code_dlg_title">Göndərilir</string>
@@ -1035,11 +1040,11 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_exchange_universal_finish">\"Temalar\"dan element endirmək üçün bu kodu istifadə edin.</string>
     <string name="resource_exchange_universal_goon">Bu kod, mağazadakı istənilən temanı endirmək üçün istifadə edilə bilər.</string>
     <string name="resource_exchange_wrong_format_by_local">Daxil etdiyiniz kod formatı yanlışdır.</string>
-    <string name="resource_exchange_wrong_format_by_server">"Kod təsdiqlənmədi. Kodu düzgün daxil etdiyinizə əmin olun."</string>
+    <string name="resource_exchange_wrong_format_by_server">"Kod doğrulanmadı. Kodu düzgün daxil etdiyinizə əmin olun."</string>
     <string name="resource_expand_full_text">Genişləndir</string>
     <string name="resource_failed_to_load_list">"Tema yüklənə bilmir."</string>
     <string name="resource_free_download">Ödənişsiz endir</string>
-    <string name="resource_get_auth_checking">Təsdiqlənir…</string>
+    <string name="resource_get_auth_checking">Doğrulanır…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Bu hesabda artıq 10 cihaza səlahiyyət verilib</string>
     <string name="resource_get_auth_exceed_max_limit_tips_pad">\"Fərdiləşdirmə\"ni bir hesabla 10-a qədər cihazda istifadə edə bilərsiniz.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Həddindən çox cihaza səlahiyyət verildi</string>
@@ -1060,6 +1065,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_list_title">Son seçilənlər</string>
     <string name="resource_local_picker">Yerli zəng səsi seçin</string>
     <string name="resource_menu_refresh">Təzələ</string>
+    <string name="resource_mi_ai_picker">Mi AI zəng səsini seçin</string>
     <string name="resource_mute">Yoxdur</string>
     <string name="resource_my">Xətdən kənar</string>
     <string name="resource_network_diagnostics"><u>Şəbəkəni test et</u></string>
@@ -1081,7 +1087,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_purchase_common_error">Xəta baş verdi, yenidən sınayın</string>
     <string name="resource_purchase_continue_to_pay">Ödəməyə davam et %s</string>
     <string name="resource_purchase_getting_order">Sifariş məlumatı alınır…</string>
-    <string name="resource_purchase_verifying_payment">Ödəniş məlumatları təsdiqlənir…</string>
+    <string name="resource_purchase_verifying_payment">Ödəniş məlumatları doğrulanır…</string>
     <string name="resource_purchase_vip_pay_failed">"VIP ödənişi edilə bilmədi"</string>
     <string name="resource_purchase_waiting_payment">Ödəniş məlumatları gözlənilir…</string>
     <string name="resource_ranking">Məşhur</string>
@@ -1093,7 +1099,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_ringtone_default">Zəng səsləri</string>
     <string name="resource_ringtone_playing_error">Xəta</string>
     <string name="resource_ringtone_volume_mute">Zəng səsi susduruldu</string>
-    <string name="resource_save_to_note">Qeydlərdə saxla</string>
+    <string name="resource_save_to_note">\"Notlar\"da saxla</string>
     <string name="resource_search_color_hint_blue">Göy</string>
     <string name="resource_search_color_hint_green">Yaşıl</string>
     <string name="resource_search_color_hint_orange">Narıncı</string>
@@ -1101,6 +1107,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_search_color_hint_red">Qırmızı</string>
     <string name="resource_search_color_hint_yellow">Sarı</string>
     <string name="resource_search_history">Axtarış tarixçəsi</string>
+    <string name="resource_search_hot_tag">Məşhur</string>
     <string name="resource_search_list_empty">"Heç nə tapılmadı."</string>
     <string name="resource_see_more">Hamısını göstər</string>
     <string name="resource_select">Seç</string>
@@ -1118,7 +1125,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_share_text">"Xoşlayacağını düşündüyüm bir tema: %1$s! Link: %2$s"</string>
     <string name="resource_share_title">Paylaş</string>
     <string name="resource_status_error">"Bir xəta baş verdi. Bu divar kağızına indi baxıla bilmir."</string>
-    <string name="resource_system_title">Sistem mənbələri</string>
+    <string name="resource_system_title">Sistem resursları</string>
     <string name="resource_tab_to_view">Baxmaq üçün toxunun.</string>
     <string name="resource_tip_select_none">Heç biri seçilmədi</string>
     <string name="resource_title">Detallar</string>
@@ -1139,8 +1146,8 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_trial_end_time_format">hh:mma d MMM</string>
     <string name="resource_trial_end_title">Sınaq müddəti bitdi</string>
     <string name="resource_trial_fail_cancel">Oldu</string>
-    <string name="resource_trial_fail_go_settings">Tənzimləmələr</string>
-    <string name="resource_trial_fail_message">Sistem saatınızın düzgün vaxta tənzimləndiyinə əmin olun.</string>
+    <string name="resource_trial_fail_go_settings">Ayarlar</string>
+    <string name="resource_trial_fail_message">Sistem saatınızın düzgün vaxta ayarlandığına əmin olun.</string>
     <string name="resource_trial_fail_title">"Sınaq seansı qurula bilmədi"</string>
     <string name="resource_trial_hours">(sınaq: %1$d sa)</string>
     <string name="resource_trial_hours_minutes">(sınaq: %1$d sa %2$d dəq)</string>
@@ -1152,10 +1159,10 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_waiting_pause">Fasilə ver</string>
     <string name="resource_wallpaper_download">Divar kağızı endir</string>
     <string name="restore_home_icon_text">Əsas ekran qısayolu əlavə et</string>
-    <string name="restore_icon_later">Əsas ekran qısayolunu Tənzimləmələrdə yenidən əlavə edə bilərsiniz</string>
+    <string name="restore_icon_later">Əsas ekran qısayolunu Ayarlarda yenidən əlavə edə bilərsiniz</string>
     <string name="ringtone_confirm_dialog_message">"Bu zəng səsinin müddəti nisbətən uzundur. Yenə də istifadə edilsin?"</string>
     <string name="ringtone_confirm_dialog_title">Diqqət</string>
-    <string name="ringtone_set_success">Uğurla tənzimləndi</string>
+    <string name="ringtone_set_success">Uğurla ayarlandı</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1180,16 +1187,17 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="selected_resource_file_invalid">"Seçilmiş resurs faylı istifadə edilə bilmir"</string>
     <string name="send">Göndər</string>
     <string name="server_internal_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="set_as_colorring">Özəl zəng səsi olaraq tənzimlə</string>
-    <string name="set_calling">Tənzimlə</string>
+    <string name="server_message">Müştəri xidmətləri qaynar xətti: 400–100–5678</string>
+    <string name="set_as_colorring">Özəl zəng səsi olaraq ayarla</string>
+    <string name="set_calling">Ayarla</string>
     <string name="set_color_ring_back_tone">Özəl zəng səsi təyin edin</string>
     <string name="set_home_wallpaper_failed">"%s. Əsas ekran divar kağızı tətbiq edilə bilmir."</string>
     <string name="set_wallpaper_group_success">\"%1$s\" divar kağızı uğurla tətbiq edildi</string>
     <string name="setting_font_online">Onlayn şriftlər</string>
-    <string name="settings">Tənzimləmələr</string>
+    <string name="settings">Ayarlar</string>
     <string name="settings_search_keyword_font_free">Ödənişsiz şriftlər</string>
     <string name="settings_search_keyword_font_home">Əsas ekran şriftləri</string>
-    <string name="settings_search_keyword_font_input">Giriş metodu şriftləri</string>
+    <string name="settings_search_keyword_font_input">Giriş üsulu şriftləri</string>
     <string name="settings_search_keyword_font_keyboard">Klaviatura şriftləri</string>
     <string name="settings_search_keyword_font_manager">Şriftləri idarə et</string>
     <string name="settings_search_keyword_font_online">Onlayn şriftlər</string>
@@ -1207,7 +1215,6 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="share_save_to_photo">Qalereya</string>
     <string name="share_theme_content_text">"Möhtəşəm \"%1$s\" temasını buradan endirə bilərsiniz:
 %2$s. Kimdən "</string>
-    <string name="share_vipaccount">Mi Cəmiyyəti</string>
     <string name="share_wallpaper_content_text">"Möhtəşəm \"%1$s\" divar kağızını buradan endirə bilərsiniz:
 %2$s. Kimdən "</string>
     <string name="shortcut_add">Əlavə et</string>
@@ -1250,13 +1257,13 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Yüksəklik</string>
     <string name="supersave_mode_toast_message">"Bu özəllik, Ultra batareya qənaəti istifadə edərkən əlçatmazdır. Bunu istifadə edə bilmək üçün Ultra batareya qənaətini söndürün."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Bu divar kağızı artıq başqa bir Mi Hesabı ilə əlaqələndirilib. Həmin Mi Hesabınıza daxil olub yenidən sınayın.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Bu divar kağızı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib. Həmin Xiaomi Hesabınıza daxil olub yenidən sınayın.</string>
     <string name="support_theme_store_des">Yaxşı temalar, hər zaman istedadlı dizaynerlər tərəfindən hazırlanır. Tətbiqimiz, onların işlərini dəstəkləməyə imkan verən az miqdarda reklam ehtiva edir.</string>
     <string name="support_theme_store_supported">Dəstəyiniz üçün təşəkkürlər!</string>
     <string name="support_theme_store_title">Dizaynerlərimizi dəstəkləyin</string>
     <string name="swipe_find_more">Daha çoxuna baxmaq üçün yuxarı sürüşdür</string>
-    <string name="system_aod_dialog_message">Əvvəlcə Tənzimləmələrdə \"Həmişə açıq ekran\"ı işə salın.</string>
-    <string name="system_aod_dialog_positive_button">Tənzimləmələr</string>
+    <string name="system_aod_dialog_message">Əvvəlcə Ayarlarda \"Həmişə açıq ekran\"ı işə salın.</string>
+    <string name="system_aod_dialog_positive_button">Ayarlar</string>
     <string name="system_aod_dialog_title">\"Həmişə açıq ekran\" bağlıdır</string>
     <string name="system_cta_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="system_cta_all_purpose">\"Temalar\"a xoş gəldiniz! Temalarınızı, divar kağızlarınızı, zəng səslərinizi və şriftləri idarə etmək üçün bu tətbiqi istifadə edə bilərsiniz.</string>
@@ -1270,7 +1277,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="system_cta_runtime_perm_desc_storage">Fərdiləşdirmə məqsədilə cihazınızda saxlanılan elementləri istifadə etmək və satın alınmış elementləri saxlamaq üçün</string>
     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Fərdiləşdirmə tərcihlərinin dəyişdirilməsi üçün</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Fərdiləşdirmə məqsədilə cihazınızda saxlanılan elementləri istifadə etmək və satın alınmış elementləri saxlamaq üçün</string>
-    <string name="system_precust">Əvvəlcədən quraşdırılmış</string>
+    <string name="system_precust">Ön-quraşdırılmış</string>
     <string name="tag_ad">Reklam</string>
     <string name="task_already_exist">Bu tapşırıq artıq mövcuddur</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
@@ -1335,7 +1342,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_component_title_others">Digər</string>
     <string name="theme_component_title_photo_frame">Şəkil çərçivəsi</string>
     <string name="theme_component_title_ringtone">Zəng səsi</string>
-    <string name="theme_component_title_statusbar">Vəziyyət sətri</string>
+    <string name="theme_component_title_statusbar">Status çubuğu</string>
     <string name="theme_component_title_wallpaper">Divar kağızı</string>
     <string name="theme_component_video_wallpaper">Dinamik divar kağızları</string>
     <string name="theme_current_using_has_update">Tema güncəlləməsi mövcuddur</string>
@@ -1357,22 +1364,22 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_immediately_apply_tip">Tema güncəlləməsi indi tətbiq edilsin?</string>
     <string name="theme_import_from_sdcard">Daxilə köçür</string>
     <string name="theme_is_external_priority_storage">SD kartda saxla</string>
-    <string name="theme_is_external_priority_storage_summary">Bu tənzimləmənin tətbiq edilməsi üçün Temalar tətbiqi dərhal yenidən başladılacaq.</string>
+    <string name="theme_is_external_priority_storage_summary">Bu ayarın tətbiq edilməsi üçün Temalar tətbiqi dərhal yenidən başladılacaq.</string>
     <string name="theme_log_out">Çıxış et</string>
     <string name="theme_multiple_button_title_customize">Özəlləşdir</string>
-    <string name="theme_need_login_dialog_content">Davam etmək üçün Mi Hesabınıza daxil olun.</string>
+    <string name="theme_need_login_dialog_content">Davam etmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="theme_no">Xeyr</string>
     <string name="theme_not_include_module_desc">"Bu temada aşağıdakı elementlər yoxdur: %s"</string>
     <string name="theme_on_the_phone_alert">"Zəng əsnasında oynadıla bilmir"</string>
     <string name="theme_preview">Temaya önbaxış</string>
     <string name="theme_select_others">Nəzər yetir</string>
-    <string name="theme_setting">Tənzimləmələr</string>
+    <string name="theme_setting">Ayarlar</string>
     <string name="theme_setting_all">Bütün temalar</string>
     <string name="theme_settings_title">Temalar</string>
     <string name="theme_share_app_name">Mi Temalar</string>
     <string name="theme_staggered_item_text">Mi Krediti alın</string>
     <string name="theme_user_agreement_allow">Razıyam</string>
-    <string name="theme_user_agreement_content1">"Bu məhsulu istifadə edərək bunları qəbul edirsiniz "</string>
+    <string name="theme_user_agreement_content1">"Bu məhsulu istifadə edərək razılaşırsınız "</string>
     <string name="theme_user_agreement_content2">İstifadəçi Razılaşması</string>
     <string name="theme_user_agreement_content3">" və "</string>
     <string name="theme_user_agreement_content4">Gizlilik Siyasəti</string>
@@ -1380,7 +1387,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_user_agreement_exit">Razı deyiləm</string>
     <string name="theme_user_agreement_remind_again">İstifadə Şərtlərini göstər</string>
     <string name="theme_user_agreement_remind_never">"Təkrar göstərmə"</string>
-    <string name="theme_user_agreement_remind_summary">\"Temalar\"ı hər açanda İstifadə Şərtləri bildirişini göstər. Bu tənzimləmə, cihazınızı yenidən başlatdıqdan sonra qüvvəyə minəcək.</string>
+    <string name="theme_user_agreement_remind_summary">\"Temalar\"ı hər açanda İstifadə Şərtləri bildirişini göstər. Bu ayar, cihazınızı yenidən başlatdıqdan sonra qüvvəyə minəcək.</string>
     <string name="theme_user_agreement_title">İstifadə Şərtləri</string>
     <string name="theme_version_need_update_prompt_dialog_content">Davam etmək üçün \"Temalar\"ı %s və ya daha sonrakı bir versiyaya güncəlləyin</string>
     <string name="theme_wallpaper">Divar kağızı kateqoriyaları</string>
@@ -1389,7 +1396,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="tips_theme_gate_transfer_fail">"Bu səhifə açıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -1404,7 +1411,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="title_system_audio_notification_resource">Sistem bildirişləri</string>
     <string name="title_system_audio_resource">Sistem zəng səsləri</string>
     <string name="title_system_wallpaper_resource">Sistem divar kağızları</string>
-    <string name="to_activate_the_account">Mi Hesabınızı indi aktivləşdirin</string>
+    <string name="to_activate_the_account">Xiaomi Hesabınızı indi aktivləşdirin</string>
     <string name="toast_both_all_apply_failured">"Əsas və ya Kilid ekranına tətbiq edilə bilmədi"</string>
     <string name="toast_both_all_apply_success">Əsas və Kilid ekranlarına uğurla tətbiq edildi</string>
     <string name="toast_home_apply_failured">"Əsas ekrana tətbiq edilə bilmədi"</string>
@@ -1430,7 +1437,7 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="transparent_wallpaper_enable_success">Uğurla işə salındı</string>
     <string name="transparent_wallpaper_filter_pref_summary">"Şəffaf divar kağızları məhdud tətbiqlərdə görüntülənməyəcək"</string>
     <string name="transparent_wallpaper_filter_pref_title">Şəffaf divar kağızları ilə işləyəcək tətbiqləri seçin</string>
-    <string name="transparent_wallpaper_filter_set_successfully">Uğurla tənzimləndi</string>
+    <string name="transparent_wallpaper_filter_set_successfully">Uğurla ayarlandı</string>
     <string name="transparent_wallpaper_filter_setting">Fərdi tətbiqlər</string>
     <string name="transparent_wallpaper_guide">\"Temalar\"a get</string>
     <string name="transparent_wallpaper_guide_tip">İndi \"Temalar\"da şəffaf bir divar kağızı seçə bilərsiniz.</string>
@@ -1455,13 +1462,13 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="uid_change_dialog_title">Cihazı yenidən başlat</string>
     <string name="unable_connect_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="uninstall_theme">\"Temalar\" Əsas ekrandan silinsin?</string>
-    <string name="uninstall_theme_description">"Temalar sistem tətbiqidir. Divar kağızları və çoxlu fərdiləşdirmə seçimləri təqdim edir. Əsas ekran qısayolunu sildikdən sonra \"Temelar\"ı Tənzimləmələr vasitəsilə istifadə edə biləcəksiniz."</string>
+    <string name="uninstall_theme_description">"Temalar, bir sistem tətbiqidir. Divar kağızları və çoxlu fərdiləşdirmə seçimləri təqdim edir. Əsas ekran qısayolunu sildikdən sonra \"Temalar\"ı Ayarlar vasitəsilə istifadə edə biləcəksiniz."</string>
     <string name="up_to_the_end">"İndilik bu qədər. Daha sonra yenə gəlin."</string>
     <string name="update">Güncəllə</string>
     <string name="update_btn">İNDİ GÜNCƏLLƏ</string>
     <string name="update_check">Güncəlləmələri yoxla</string>
     <string name="update_checking">Güncəlləmələr yoxlanılır…</string>
-    <string name="update_community_tip">Bu özəlliyi istifadə edə bilmək üçün \"Mi Cəmiyyət\"i güncəlləyin</string>
+    <string name="update_community_tip">Bu özəlliyi istifadə edə bilmək üçün \"Xiaomi Cəmiyyət\"ini güncəlləyin</string>
     <string name="update_downloading">Güncəlləmələr endirilir…</string>
     <string name="update_fail">"Məlumat alına bilmədi. Yenidən sınayın."</string>
     <string name="update_flag">Güncəllə</string>
@@ -1499,7 +1506,7 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_apply_large">Daxili ekran</string>
     <string name="wallpaper_apply_outer">Xarici ekrana tətbiq et</string>
     <string name="wallpaper_apply_outer_and_inner">Daxili və xarici ekranlara tətbiq et</string>
-    <string name="wallpaper_apply_pcmode">PC rejimi divar kağızını tənzimlə</string>
+    <string name="wallpaper_apply_pcmode">PC rejimi divar kağızını ayarla</string>
     <string name="wallpaper_apply_small">Xarici ekran</string>
     <string name="wallpaper_crop">Kəs</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Qaranlıq rejimə önbaxış</string>
@@ -1519,10 +1526,10 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_loop_interval_15min">Hər 15 dəqiqədə bir</string>
     <string name="wallpaper_loop_interval_1d">Hər gün</string>
     <string name="wallpaper_loop_interval_1h">Hər saat</string>
-    <string name="wallpaper_loop_interval_desc">Slayd şounuz üçün vaxt aralığı tənzimləyin</string>
+    <string name="wallpaper_loop_interval_desc">Slayd şounuz üçün vaxt aralığı ayarlayın</string>
     <string name="wallpaper_loop_interval_title">Divar kağızını dəyişdir</string>
     <string name="wallpaper_loop_manage">İdarə et</string>
-    <string name="wallpaper_loop_more_options">Əlavə tənzimləmələr</string>
+    <string name="wallpaper_loop_more_options">Əlavə ayarlar</string>
     <string name="wallpaper_loop_my_desk_wallpaper">Əsas ekranı idarə et</string>
     <string name="wallpaper_loop_my_lock_wallpaper">Kilid ekranını idarə et</string>
     <string name="wallpaper_loop_order_desc">Slaydların görünəcəyi sıranı seçin</string>
@@ -1542,13 +1549,13 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_set_as_both_large">İkisinə də tətbiq et</string>
     <string name="wallpaper_set_as_both_small">İkisinə də tətbiq et</string>
     <string name="wallpaper_set_as_desktop">Əsas ekrana tətbiq et</string>
-    <string name="wallpaper_set_as_desktop_large">Daxili Əsas ekran olaraq tənzimlə</string>
-    <string name="wallpaper_set_as_desktop_small">Xarici Əsas ekran olaraq tənzimlə</string>
-    <string name="wallpaper_set_as_float_wallpaper">Şəffaf divar kağızı olaraq tənzimlə</string>
-    <string name="wallpaper_set_as_incall_show">Profil videosu olaraq tənzimlə</string>
+    <string name="wallpaper_set_as_desktop_large">Daxili Əsas ekran olaraq ayarla</string>
+    <string name="wallpaper_set_as_desktop_small">Xarici Əsas ekran olaraq ayarla</string>
+    <string name="wallpaper_set_as_float_wallpaper">Şəffaf divar kağızı olaraq ayarla</string>
+    <string name="wallpaper_set_as_incall_show">Profil videosu olaraq ayarla</string>
     <string name="wallpaper_set_as_lockscreen">Kilid ekranına tətbiq et</string>
-    <string name="wallpaper_set_as_lockscreen_large">Daxili Kilid ekranı olaraq tənzimlə</string>
-    <string name="wallpaper_set_as_lockscreen_small">Xarici Kilid ekranı olaraq tənzimlə</string>
+    <string name="wallpaper_set_as_lockscreen_large">Daxili Kilid ekranı olaraq ayarla</string>
+    <string name="wallpaper_set_as_lockscreen_small">Xarici Kilid ekranı olaraq ayarla</string>
     <string name="wallpaper_setting_all">Bütün divar kağızları</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Daha çox onlayn divar kağızları</string>
@@ -1562,13 +1569,17 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_setting_super_wallpaper_banner_title">Super divar kağızları</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Daha çox</string>
     <string name="wallpaper_setting_title">Divar kağızı</string>
-    <string name="wallpaper_settings">Divar kağızı tənzimləmələri</string>
+    <string name="wallpaper_settings">Divar kağızı ayarları</string>
     <string name="wallpaper_settings_loading_text">Bir saniyə…</string>
     <string name="wallpaper_settings_no_history">Tarixçə yoxdur</string>
     <string name="wallpaper_settings_pad_more_page_title">Daha çox divar kağızı</string>
     <string name="wallpaper_settings_page_title">Divar kağızı</string>
     <string name="wallpaper_share_alert">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="wallpaper_static">Statik</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Ayarlar</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Tətbiq et</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Deyəsən, MIUI optimallaşdırmasını işə salmamısınız. Bu olmadan, bu tema tətbiq edildikdə düzgün işləməyəcək. Yenə də tətbiq edə bilərsiniz, ya da Ayarlarda MIUI optimallaşdırmasını işə sala bilərsiniz."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Diqqət</string>
     <string name="warning_subscribe_wallpaper_group_content">"Əsas ekran slayd şousunu işə saldınız. %1$s, Əsas ekranınıza tətbiq ediləcək."</string>
     <string name="wechat_not_found">Əvvəlcə \"WeChat\"ı quraşdırın</string>
     <string name="wednesday">Çərşənbə</string>

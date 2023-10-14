@@ -37,20 +37,20 @@
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Qutudakı düyməyə %1$d saniyə ərzində basılı saxlayın</item>
-        <item quantity="one">Qutudakı düyməyə %1$d saniyə ərzində basılı saxlayın</item>
+        <item quantity="other">Qutudakı düyməni %1$d saniyə basılı tutun</item>
+        <item quantity="one">Qutudakı düyməni %1$d saniyə basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Qulaqlıqdakı toxunuşa həssas istənilən bölgəyə %1$d saniyə basıb saxlayın</item>
-        <item quantity="one">Qulaqlıqdakı toxunuşa həssas istənilən bölgəyə %1$d saniyə basıb saxlayın</item>
+        <item quantity="other">Qulaqlıqdakı toxunuşa həssas istənilən bölgəni %1$d saniyə basılı tutun</item>
+        <item quantity="one">Qulaqlıqdakı toxunuşa həssas istənilən bölgəni %1$d saniyə basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Sıfırlamaq üçün %1$d san basıb saxlayın</item>
-        <item quantity="one">Sıfırlamaq üçün %1$d san basıb saxlayın</item>
+        <item quantity="other">Sıfırlamaq üçün %1$d san basılı tutun</item>
+        <item quantity="one">Sıfırlamaq üçün %1$d san basılı tutun</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Cihaz sönülü ikən düyməyə %1$s saniyə basıb saxlayın</item>
-        <item quantity="one">Cihaz sönülü ikən düyməyə %1$s saniyə basıb saxlayın</item>
+        <item quantity="other">Cihaz sönülü ikən düyməni %1$s saniyə basılı tutun</item>
+        <item quantity="one">Cihaz sönülü ikən düyməni %1$s saniyə basılı tutun</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

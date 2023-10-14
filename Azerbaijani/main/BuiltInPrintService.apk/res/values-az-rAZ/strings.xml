@@ -9,7 +9,7 @@
     <string name="connect_hint_text">"Bu bağlantını printerinizin ön panelində təsdiqləməyiniz lazım ola bilər"</string>
     <string name="connecting_to">%1$s ilə bağlantı qurulur</string>
     <string name="connections">Bağlantılar</string>
-    <string name="connects_via_network">Hazırkı şəbəkə üzərindən %1$s ilə bağlantı qurur</string>
+    <string name="connects_via_network">%1$s üzərində mövcud şəbəkə vasitəsilə bağlantı qurur</string>
     <string name="connects_via_wifi_direct">Wi-Fi Direct ilə bağlantı qurur</string>
     <string name="disable_wifi_direct">Wi-Fi Direct-i sıradan çıxart</string>
     <string name="failed_connection">%1$s ilə bağlantı qurula bilmədi</string>

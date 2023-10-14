@@ -42,7 +42,7 @@
     <string name="abnormal">Anormal</string>
     <string name="accessibility_add_datasource">%1$s əlavə etmək üçün toxunun</string>
     <string name="accessibility_sync_closed_device">%1$s ilə sinxronlaşdırma bağlıdır</string>
-    <string name="accessibility_unbound_device">%1$s artıq hesabınızla əlaqəli deyil</string>
+    <string name="accessibility_unbound_device">%1$s artıq hesabınızla əlaqələndirilməyib</string>
     <string name="achieve_goals">Hədəfə çatıldı</string>
     <string name="achieve_stand_goals">Hədəfə çatıldı</string>
     <string name="acting">Güc</string>
@@ -50,7 +50,7 @@
     <string name="activity_title_basic_info">Təməl məlumatlar</string>
     <string name="activity_title_exercise">Fəaliyyət</string>
     <string name="activity_title_exercise_goal">Fəaliyyət hədəfi</string>
-    <string name="activity_title_settings">Tənzimləmələr</string>
+    <string name="activity_title_settings">Ayarlar</string>
     <string name="activity_title_sleep">Yuxu</string>
     <string name="activity_title_sleep_details">Yuxu detalları</string>
     <string name="activity_title_sleep_detection">Yuxu dövrünü təhlil et</string>
@@ -94,16 +94,16 @@ Məşqlərinizi və fəaliyyətinizi izləyə biləcəksiniz."</string>
 
 Sizə tövsiyələr vermək üçün sağlamlıq məlumatlarınızı üçüncü tərəf xidmət provayderi ilə paylaşacağıq. Paylaşacağımız elementlərə şəxsi məlumatlar (yaş, cins), sağlamlıq statistikaları (boy, çəki, məşq rejimi), davranış məlumatları (başlama və bitmə vaxtları, həmçinin məşqlərinizin müddəti) daxildir.
 
-Üçüncü tərəf xidmət provayderlərinin aldıqları məlumatlara əsasən sizi şəxsən tanımaqlarının qarşısını almaq üçün paylaşmazdan əvvəl bu elementləri anonimləşdirəcəyik.
+Üçüncü tərəf xidmət provayderlərinin aldıqları məlumatlara əsasən sizi şəxsən tanımaqlarını önləmək üçün paylaşmazdan əvvəl bu elementləri anonimləşdirəcəyik.
 
 Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm məşqlərinizi davam etdirə bilərsiniz."</string>
-    <string name="auth_dialog_link">Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin.</string>
+    <string name="auth_dialog_link">Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="auth_dialog_title">Tövsiyə edilən siniflər</string>
     <string name="auto_start_fail">"İcazə verilə bilmədi"</string>
     <string name="auto_start_success">İcazə uğurla verildi</string>
-    <string name="auto_start_tips">Xiaomi Health tənzimləmələrini açmaq və tələb olunan icazələri vermək üçün aşağıdakı \"Tənzimləmələr\" seçiminə toxunun.</string>
+    <string name="auto_start_tips">Xiaomi Health ayarlarını açmaq və tələb olunan icazələri vermək üçün aşağıdakı \"Ayarlar\"a toxunun.</string>
     <string name="avatar">Profil şəkli</string>
-    <string name="avatar_upload_failure">"Yüklənilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="avatar_upload_failure">"Yüklənilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="average_cycle_days">Ort. dövr</string>
     <string name="average_menstruation_days">Ort. period müddəti</string>
     <string name="avg_altitude">Ort. yüksəklik</string>
@@ -128,7 +128,7 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="awake_duration_normal_description">Bəzi gecə oyanışları yaşadınız.</string>
     <string name="back">Geri</string>
     <string name="back_stroke">Arxası üstə</string>
-    <string name="background_run_tips">Aşağıdakı \"Tənzimləmələr\"ə toxunun və Xiaomi Health-ın həmişə arxaplanda işləməsinə icazə verin.</string>
+    <string name="background_run_tips">Aşağıda \"Ayarlar\"a toxunun və \"Xiaomi Health\"in həmişə arxaplanda işləməsinə icazə verin.</string>
     <string name="backtrack">Geri</string>
     <string name="basic_info_label_age">Yaş</string>
     <string name="basic_info_label_birthday">Doğum günü</string>
@@ -141,7 +141,7 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="bedTime_normal_description">Vaxtında yatdınız. Belə davam edin!</string>
     <string name="bedtime">Yatmaq vaxtı</string>
     <string name="bedtime_description">"Yatmaq vaxtı, yatağınıza gedib telefonunuzu buraxdığınız vaxtdır. Bu, yatmaq vaxtı cədvəlinizə və cihaz istifadəsinə əsasən hesablanır."</string>
-    <string name="bg_control_dialog_go_set">Tənzimləmələr</string>
+    <string name="bg_control_dialog_go_set">Ayarlar</string>
     <string name="bg_control_dialog_msg">"Batareyaya qənaət, Xiaomi Health-ın arxaplandakı fəaliyyətini məhdudlaşdıracaq. Doğru statistikalar əldə etmək üçün Xiaomi Health-ın həmişə arxaplanda işləməsinə icazə verin."</string>
     <string name="bg_control_dialog_title">Arxaplan məhdudiyyətləri</string>
     <string name="birthday">Doğum günü</string>
@@ -184,8 +184,8 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="button_record_menstruation">Qeyd</string>
     <string name="buy">Al</string>
     <string name="calories">kalori</string>
-    <string name="camera_permission_desc">Profil şəklini tənzimləmək üçün</string>
-    <string name="camera_permission_subtitle">Nəbz sürətinin aşkarlanması və profil şəklinin tənzimləməsi üçün qan axını dəyişikliklərini əldə etmək üçün</string>
+    <string name="camera_permission_desc">Profil şəklini ayarlamaq üçün</string>
+    <string name="camera_permission_subtitle">Nəbz sürətinin aşkarlanması və profil şəklinin ayarlanması məqsədilə qan axını dəyişikliklərini əldə etmək üçün</string>
     <string name="camera_permission_title">Kamera istifadə et</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_edit">Dəyişiklikləri ləğv et</string>
@@ -221,8 +221,8 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="completed">"Tamamlandı "</string>
     <string name="completed_stand">Ayağa qalxdınız</string>
     <string name="confirm_opening">İşə sal</string>
-    <string name="contact_permission_desc">Fövqəladə vəziyyət kontaktlarını tənzimləmək üçün</string>
-    <string name="contact_permission_subtitle">Fövqəladə vəziyyət kontaktlarını tənzimləmək üçün</string>
+    <string name="contact_permission_desc">Fövqəladə hal kontaktlarını ayarlamaq üçün</string>
+    <string name="contact_permission_subtitle">Fövqəladə hal kontaktlarını ayarlamaq üçün</string>
     <string name="contact_permission_title">Kontaktlara müraciət</string>
     <string name="copy">Kopyala</string>
     <string name="copy_done">Uğurla kopyalandı</string>
@@ -278,7 +278,7 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Gün</string>
     <string name="deep_light_detection_open_prompt">Yuxu dövrünüz növbəti dəfə yatdığınız vaxt təhlil ediləcək</string>
@@ -291,7 +291,7 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="default_notification_channel_name">İndi oxunur</string>
     <string name="delete">Sil</string>
     <string name="delete_aid_file">Sil</string>
-    <string name="delete_aid_file_desc">Davam etsəniz, fövqəladə vəziyyət üçün tibbi kimliyiniz bu cihazdan birdəfəlik silinəcək.</string>
+    <string name="delete_aid_file_desc">Davam etsəniz, fövqəladə hal üçün tibbi kimliyiniz bu cihazdan birdəfəlik silinəcək.</string>
     <string name="delete_all_data">Bütün məlumatları sil</string>
     <string name="delete_all_data_sources">Bütün məlumat mənbələrini sil</string>
     <string name="delete_all_data_sources_description">Əlavə edilmiş bütün məlumat mənbələri silinsin?</string>
@@ -322,11 +322,11 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="device_description">"Bu cihaz %s Mi Hesabı ilə əlaqələndirilib. Sizə lazım olan cihazı tapa bilmirsinizsə, əvvəlcə Mi Fit və ya Xiaomi Wear-ə əlavə edin."</string>
     <string name="device_list_origin_description">"Bu cihazlar %1$s Mi Hesabı ilə əlaqələndirilib. Sizə lazım olan cihazı tapa bilmirsinizsə, müvafiq tətbiqlərə əlavə edildiyinə əmin olun."</string>
     <string name="device_off_sync_description">"Bu cihazda yaradılmış sağlamlıq məlumatları Xiaomi Health ilə sinxronlaşdırılmayacaq"</string>
-    <string name="device_unbound_from_account">Bu cihaz artıq hesabınızla əlaqəli deyil</string>
+    <string name="device_unbound_from_account">Bu cihaz artıq hesabınızla əlaqələndirilməyib</string>
     <string name="diagnosis_log_send_failed">Diaqnoz jurnalı göndərilmədi.</string>
     <string name="diagnosis_log_sent_format">"Diaqnoz jurnalı göndərildi.
 Kimlik: %s
-Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
+Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_abandon">Ləğv et</string>
     <string name="dialog_abandon_sleep_edit">Dəyişikliklər ləğv edilsin?</string>
     <string name="dialog_account_perm_desc">Sistem hesabına müraciət etmək və daxil olmaq üçün</string>
@@ -339,17 +339,17 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="dialog_auto_start_title">Xiaomi Heath-ın avto-başladılmasına icazə ver</string>
     <string name="dialog_auto_start_title2">Xiaomi Heath-ın avto-başladılmasına icazə ver</string>
     <string name="dialog_body_weight_conflict">"Deyəsən, artıq seçilmiş vaxt ərzində çəki qeyd etmisiniz. Orijinal məlumatın üzərinə yazılsın?"</string>
-    <string name="dialog_body_weight_select">Çəkini tənzimlə</string>
+    <string name="dialog_body_weight_select">Çəkini ayarla</string>
     <string name="dialog_cancel">İmtina</string>
     <string name="dialog_cancel_edit_record">Dəyişikliklər indi ləğv edilsin?</string>
     <string name="dialog_confirm">Oldu</string>
     <string name="dialog_date_select">Tarixi seçin</string>
     <string name="dialog_delete">Sil</string>
     <string name="dialog_delete_record_confirm">Bu qeyd silinsin?</string>
-    <string name="dialog_exercise_purpose">Xiaomi Heath-ə xoş gəldiniz! \"Addım sayğacı\", sizə gün ərzində neçə addım atdığınızı görməyə, həmçinin fəaliyyət hədəflərinizi tənzimləməyə və idarə etməyə imkan verir. Bütün əlaqəli məlumatlar cihazınızın yerli anbarında saxlanılacaq. Bu da onu asanlıqla idarə etməyə imkan verir.</string>
+    <string name="dialog_exercise_purpose">Xiaomi Heath-ə xoş gəlmisiniz! \"Addım sayğacı\", sizə gün ərzində neçə addım atdığınızı görməyə, həmçinin fəaliyyət hədəflərinizi ayarlamağa və idarə etməyə imkan verir. Bütün əlaqəli məlumatlar cihazınızın yerli anbarında saxlanılacaq. Bu da onu asanlıqla idarə etməyə imkan verir.</string>
     <string name="dialog_exit">Çıx</string>
     <string name="dialog_exit_use">Çıx</string>
-    <string name="dialog_feedback_content">"Bu növ icazələrin verilməsini qəbul etmirsinizsə, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; lakin, təməl funksionallığı sizin üçün əlçatan olacaqdır. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="dialog_feedback_content">"Belə icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="dialog_feedback_purpose">Xiaomi Heath, əks əlaqəni göndərmək üçün anbara müraciət etməlidir.</string>
     <string name="dialog_feedback_purpose2">Əks əlaqəni göndərmək üçün</string>
     <string name="dialog_feedback_title">Əks əlaqə</string>
@@ -403,8 +403,8 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="edit_immediately">Məlumat daxil edin</string>
     <string name="edit_sleep_record_button">Düzəliş et</string>
     <string name="elliptical_machine">Elliptik</string>
-    <string name="emergency_contact">Fövqəladə vəziyyət kontaktı</string>
-    <string name="emergency_lock_show_subtitle">Ekranınız kilidli ikən \"Fövqəladə vəziyyət\" və \"Fövqəladə vəziyyət üçün tibbi kimlik\"ə toxunaraq fövqəladə vəziyyət üçün tibbi kimliyinizi tapın.</string>
+    <string name="emergency_contact">Fövqəladə hal kontaktı</string>
+    <string name="emergency_lock_show_subtitle">Ekranınız kilidli ikən \"Fövqəladə hal\" və \"Fövqəladə hal üçün tibbi kimlik\"ə toxunaraq fövqəladə hal üçün tibbi kimliyinizi tapın.</string>
     <string name="emergency_lock_show_title">Kilidli ikən göstər</string>
     <string name="enable">Aç</string>
     <string name="enable_go_now">Aç</string>
@@ -453,8 +453,8 @@ Daha çox &gt; \"Məlumat mənbələri\"ndə fərqli mənbəni seçə bilərsini
     <string name="exercise_notification_content">%1$d dəqiqə məşq (%2$d Kal)</string>
     <string name="exercise_notification_meet_title">"Bugünkü addımlar: %d. Hədəfə çatıldı!"</string>
     <string name="exercise_notification_no_meet_title">"Bugünkü addımlar: %d. Hədəfə çatmaq üçün davam edin!"</string>
-    <string name="exercise_question_answer_one">"1. Bəzi cihaz modelləri, az enerji istehlak edən sensorlarla təchiz olunmayıb. Xiaomi Health, aşağıdakı cihazlarda batareyaya qənaət etmək üçün fəaliyyət məlumatlarını izləmir: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; Məlumat mənbələri &gt; \"Məlumat mənbələrinin əlavə edilməsi\" bölməsindən əllə mənbə əlavə edə bilərsiniz."</string>
+    <string name="exercise_question_answer_one">"1. Bəzi cihaz modelləri, az enerji sərf edən sensorlarla təchiz olunmayıb. Xiaomi Health, aşağıdakı cihazlarda batareyaya qənaət etmək üçün fəaliyyət məlumatlarını izləmir: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; Data mənbələri &gt; \"Data mənbələrinin əlavə edilməsi\" bölməsindən əllə mənbə əlavə edə bilərsiniz."</string>
     <string name="exercise_question_answer_two">2. Bəzən hərəkət sensorları quraşdırılmaya bilər. Telefonu yenidən başladın və belə hallarda izləmənin normal işləyib-işləmədiyini yoxlayın.</string>
     <string name="exercise_question_title">"Statistikalarınızı niyə görə bilmirsiniz?"</string>
     <string name="exercise_recog_confirm_ridding">%1$s - %2$s arasında velosiped sürürdünüz?</string>
@@ -474,7 +474,7 @@ Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; M
     <string name="exercise_result_reminder_title">"Bugünkü addım sayı: %1$d. Hədəfə çatdınız!"</string>
     <string name="exercise_result_reminder_title_unaccomplished">"Bugünkü addım sayı: %1$d. Hələ hədəfə çata bilərsiniz!"</string>
     <string name="exercise_setting_label_reach_standard_remind">Fəaliyyət xəbərdarlığı</string>
-    <string name="exercise_setting_page_title">Fəaliyyət tənzimləmələri</string>
+    <string name="exercise_setting_page_title">Fəaliyyət ayarları</string>
     <string name="exercise_speed">Sürət</string>
     <string name="exercise_start">Başlat</string>
     <string name="exercise_strokes">Vuruş sayı</string>
@@ -488,25 +488,25 @@ Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; M
     <string name="expand_all">Hamısını göstər</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="external_storage_permission_subtitle">Profil şəklini tənzimləmək üçün</string>
+    <string name="external_storage_permission_subtitle">Profil şəklini ayarlamaq üçün</string>
     <string name="external_storage_permission_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
     <string name="fall_sleep_hard">Yuxuya getmə çətinliyi</string>
     <string name="falling_duration">Yuxuya getmə</string>
     <string name="falling_duration_hard_description">"Yuxuya getmə, yuxunuzun başlaması ilə tam yuxuya getmə arasındakı dövrdür. Yuxuya getməyiniz 30 dəqiqədən çox çəkirsə, bu yuxusuzluğun əlaməti ola bilər.
-Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenomenə səbəb olan amilləri azaldın. Daha az qəhvə için; yatmazdan əvvəl videolara baxaraq və ya oxumaqla sinir sisteminizi vizual və ya emosional olaraq həddən artıq stimullaşdırmayın; yataq otağınızı qaranlıq, sakit və rahat saxlayın. Bu tədbirlər heç bir rahatlıq gətirməsə, həkiminizlə məsləhətləşin."</string>
+Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenomenə səbəb olan amilləri azaldın. Daha az qəhvə için; yatmazdan əvvəl videolara baxaraq və ya oxumaqla sinir sisteminizi vizual və ya emosional olaraq aşırı stimullaşdırmayın; yataq otağınızı qaranlıq, sakit və rahat saxlayın. Bu tədbirlər heç bir rahatlıq gətirməsə, həkiminizlə məsləhətləşin."</string>
     <string name="falling_duration_normal_description">Yuxuya getmə, yuxunuzun başlaması ilə tam yuxuya getmə arasındakı dövrdür. Yuxuya getməyin nə qədər vaxt apardığını bilmək, yuxusuzluq və yuxu ilə əlaqəli digər halların müalicəsi üçün vacibdir.</string>
     <string name="fast">Sürətli</string>
     <string name="fat_rate">Yağ</string>
     <string name="fat_rate_descripe_content">Bədən yağının faizi, insan bədəninin ümumi çəkisindəki yağ nisbətini təmsil edir.</string>
     <string name="feedback_need_permission_msg">Xiaomi Health-ə, əks-əlaqə üzrə istifadə olunacaq jurnalları yarada bilmək üçün xarici anbara yazma icazəsi verin.</string>
-    <string name="feedback_permission_denied_msg">"Xiaomi Health, jurnalları xarici anbarda saxlaya bilmir. Tənzimləmələrdən Xiaomi Health-ə tələb olunan icazələri verin."</string>
+    <string name="feedback_permission_denied_msg">"Xiaomi Health, jurnalları xarici anbarda saxlaya bilmir. Ayarlarda Xiaomi Health-ə tələb olunan icazələri verin."</string>
     <string name="fewer">Bir az</string>
     <string name="find_new_verision">İndi %s versiyası mövcuddur</string>
     <string name="finish">Tamamla</string>
     <string name="finish_stand">Bəli</string>
     <string name="finish_stand2">Ayağa qalxma</string>
     <string name="finished_rate">%1$d%% tamamlandı</string>
-    <string name="first_aid_card">Fövqəladə vəziyyət üçün tibbi kimlik</string>
+    <string name="first_aid_card">Fövqəladə hal üçün tibbi kimlik</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -535,20 +535,20 @@ Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenome
     <string name="go_back_to_today">Bu günə qayıt</string>
     <string name="go_on">Davam et</string>
     <string name="go_open_sleep_detector">Başla</string>
-    <string name="go_setting">Tənzimləmələr</string>
-    <string name="go_to_close">Tənzimləmələr</string>
+    <string name="go_setting">Ayarlar</string>
+    <string name="go_to_close">Ayarlar</string>
     <string name="go_to_open">Aç</string>
     <string name="go_to_upgrade">Güncəllə</string>
     <string name="goal_daily_exercise">Fəaliyyət hədəfi</string>
     <string name="goal_sleep_time">Yuxu müddəti üçün hədəf</string>
     <string name="goal_title">Sağlam qalın</string>
-    <string name="goto_setting_auto_start">Tənzimləmələr</string>
+    <string name="goto_setting_auto_start">Ayarlar</string>
     <string name="gps">GPS</string>
     <string name="gps_no_signal_hint">"Hazırkı GPS siqnalı məşqinizi izləməyə və marşrutu qeyd etməyə icazə vermir. Düz, açıq bir sahəyə gedin."</string>
     <string name="gps_unauthorized">GPS icazəsi tələb olunur</string>
     <string name="gps_unopened">GPS bağlıdır</string>
     <string name="group">Dövr</string>
-    <string name="guide_data_cloud_sync_tip">Tənzimləmələr &gt; \"Bulud xidmətləri\"ndə sinxronlaşdırmanı bağlaya bilərsiniz.</string>
+    <string name="guide_data_cloud_sync_tip">Ayarlar &gt; \"Bulud xidmətləri\"ndə sinxr.nı söndürə bilərsiniz.</string>
     <string name="guide_exit">Xiaomi Health-dan çıx</string>
     <string name="guide_exit_description">"Hələ 14 yaşı tamam olmamış şəxslərə xidmət təqdim etmirik. Bu cihazı qanuni qəyyumunuzun icazəsi ilə istifadə etdiyinizə əmin olun. Tətbiqdən çıxmaq üçün aşağıdakı düyməyə toxunun."</string>
     <string name="guide_exit_title">14 yaşından sonra Xiaomi Health-i istifadə etməyə başlaya bilərsiniz</string>
@@ -567,7 +567,7 @@ Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenome
     <string name="health_data_sync">Sağlamlıq məlumatlarını sinxronlaşdır</string>
     <string name="health_score">Sağlamlıq xalı</string>
     <string name="health_score_tips">Sağlamlıq xalı, BMI (bədən kütlə indeksi), yuxu və fəaliyyət addımlarınız əsasında hesablanır. Hədəflərinizə nə qədər yaxın olsanız, sağlamlıq xalınız bir o qədər yüksək olar.</string>
-    <string name="health_setting">Sağlamlıq tənzimləmələri</string>
+    <string name="health_setting">Sağlamlıq ayarları</string>
     <string name="health_uninstall_dialog_content">"Xiaomi Health, sistem tətbiqidir. Bu tətbiqi addımları saymaq, yuxunu, periodları və çəkini izləmək, həmçinin statistikalarınızı buludda sinxronlaşdırmaq üçün istifadə edə bilərsiniz. Tətbiqi sildikdən sonra bunları edə bilməyəcəksiniz."</string>
     <string name="health_uninstall_dialog_title">Xiaomi Health silinsin?</string>
     <string name="hearing">Eşitmə</string>
@@ -602,7 +602,7 @@ Dairə qırmızı olana qədər gözləyin."</string>
     <string name="hr_detect_report_title">Test hesabatı</string>
     <string name="hr_detect_state_after_activity">Məşqdən sonra</string>
     <string name="hr_detect_state_after_activity_desc">Məşqdən dərhal sonra ölçün</string>
-    <string name="hr_detect_state_regular">Ümumi vəziyyət</string>
+    <string name="hr_detect_state_regular">Ümumi status</string>
     <string name="hr_detect_state_regular_desc">Gündəlik iş və təhsil vəziyyəti</string>
     <string name="hr_detect_state_reseting">Dincəlmə vəziyyəti</string>
     <string name="hr_detect_state_reseting_desc">Sadəcə oyanın və ya tam rahatlayın</string>
@@ -620,11 +620,11 @@ Dairə qırmızı olana qədər gözləyin."</string>
 Yenidən başlayın."</string>
     <string name="hr_fp_report_common_desc">Normal ürək döyüntüsü, dəqiqədə 60-100 döyünmə arasında dəyişir. 60 BPM-dən aşağı ürək döyüntüsü, bradikardiyanın əlamətidir. Böyüklərdə 100 BPM-dən yuxarı ürək döyüntüsü, taxikardiya olaraq qəbul edilir.</string>
     <string name="hr_heart_rate_unit">Ürək döyünmə sürəti (BPM)</string>
-    <string name="hr_in_detect">Zəhmət olmasa test zamanı barmaqlarınızı buraxmayın</string>
+    <string name="hr_in_detect">Lütfən test zamanı barmaqlarınızı buraxmayın</string>
     <string name="hr_input_heart_rate">Ürək döyüntüsünü qeyd edin</string>
     <string name="hr_measure_heart_rate">Ürək döyüntüsünün ölçülməsi</string>
     <string name="hr_open_permission_desc">MiHealth-in, ürək döyüntüsünü aşkarlamaq üzrə qan axını dəyişikliklərini əldə etmək üçün kamera icazəsinə ehtiyacı var. Razılaşırsınız?</string>
-    <string name="hr_open_permission_title">Zəhmət olmasa əlaqəli icazələri açın</string>
+    <string name="hr_open_permission_title">Lütfən əlaqəli icazələri açın</string>
     <string name="hr_phone_detect_records">Mobil telefon aşkarlama qeydi</string>
     <string name="hr_pre_detect">Fənəri və kameranı tək barmaqla tam örtün</string>
     <string name="hr_pre_detect_finger">Yoxlanılır…</string>
@@ -644,7 +644,7 @@ Yenidən başlayın."</string>
     <string name="hr_report_resting_slow_desc">Dincələrkən ürək döyüntünüz normaldan daha yavaşdır ki, bu da bradikardiyanın əlaməti ola bilər. Uzun müddətli yavaş ürək döyüntülü dövlər, işemiya və hipoksiyaya, həmçinin digər ürək-damar və serebrovaskulyar xəstəliklərə səbəb ola bilər. Dincələrkən ürək döyüntüsünün sürəti, pəhriziniz, fəaliyyətiniz, stress səviyyəniz, yuxu vərdişləriniz və ümumi fiziki vəziyyətinizlə sıx əlaqəlidir. Problemlərdən qaçmaq üçün sağlam həyat tərzi sürün və orqanizminizə diqqət yetirin. Döş qəfəsində sıxılma, başgicəllənmə, göz qaralması, huşunu itirmə, özündən getmə və ya ürəkkeçməsi ilə qarşılaşsanız, vaxtında həkiminizlə məsləhətləşin.</string>
     <string name="hr_see_report">Hesabata bax</string>
     <string name="hr_start_detect">Təcrübə etməyə başla</string>
-    <string name="hr_state">Vəziyyət</string>
+    <string name="hr_state">Status</string>
     <string name="hr_state_active">Aktiv</string>
     <string name="hr_state_fast">Sürətli</string>
     <string name="hr_state_normal">Normal</string>
@@ -665,7 +665,7 @@ Yenidən başlayın."</string>
     <string name="indoor_running">Qaçış zolağı</string>
     <string name="input_body_weight">Sağlamlıq məsləhətləri almaq üçün çəki məlumatını daxil edin</string>
     <string name="inquire_recover_data">Çəki məlumatları indi bərpa edilsin?</string>
-    <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq məlumatlarınız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
+    <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq datanız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
     <string name="instructions_provider">Miao Health tərəfindən təqdim edilmiş təlimatlar</string>
     <string name="insufficient">Yetərsiz</string>
     <string name="jump_freq">Tullanma tezliyi</string>
@@ -689,7 +689,7 @@ Yenidən başlayın."</string>
     <string name="label_late_sleep_time">Planlaşdırılandan daha gec</string>
     <string name="label_record_detail_page_record_date">Vaxt</string>
     <string name="label_record_detail_page_source">Mənbə</string>
-    <string name="label_set_exercise">Fəaliyyət hədəfi tənzimlə</string>
+    <string name="label_set_exercise">Fəaliyyət hədəfini ayarla</string>
     <string name="label_sleep">Yuxuya getdi</string>
     <string name="label_sleep2">Yuxuya getdi</string>
     <string name="label_sleep_duration">Yuxu müddəti</string>
@@ -723,21 +723,21 @@ Yenidən başlayın."</string>
     <string name="location_permission_dialog_title">Yerləşmə icazəsi tələb olunur</string>
     <string name="location_permission_subtitle">Açıq havadakı məşqləri izləmək və marşrutları qeyd etmək üçün</string>
     <string name="location_permission_title">Yerləşməyə müraciət</string>
-    <string name="location_service_dialog_content">Açıq havadakı məşqlərinizi izləyə bilmək üçün Tənzimləmələrdən yerləşmə xidmətlərini açın.</string>
+    <string name="location_service_dialog_content">Açıq hava məşqlərinizi izləyə bilmək üçün Ayarlarda yerləşmə xidmətlərini işə salın.</string>
     <string name="location_service_dialog_negative">İndi yox</string>
     <string name="location_service_dialog_positive">Aç</string>
     <string name="location_service_dialog_title">Yerləşmə xidmətləri bağlıdır</string>
     <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">GPS axtarılır…</string>
-    <string name="lock_not_support_description">Fövqəladə vəziyyət üçün tibbi kimliyinizi kilid ekranından əlçatan etmək üçün Daha çox &gt; Düzəliş et və \"Kilidli ikən göstər\"i açın.</string>
-    <string name="lock_show_dialog_content">"Fövqəladə vəziyyət üçün tibbi kimliyinizə telefonun kilidini açmadan müraciət etmək mümkündür.
+    <string name="lock_not_support_description">Fövqəladə hal üçün tibbi kimliyinizi kilid ekranından əlçatan etmək üçün Daha çox &gt; Düzəliş et və \"Kilidli ikən göstər\"i açın.</string>
+    <string name="lock_show_dialog_content">"Fövqəladə hal üçün tibbi kimliyinizə telefonun kilidini açmadan müraciət etmək mümkündür.
 Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</string>
     <string name="lock_show_dialog_title">Diqqət</string>
-    <string name="lock_show_solve_description">Fövqəladə vəziyyət üçün tibbi kimliyinizi kilid ekranında göstərmək üçün Health-a kilid ekranında göstərmə icazəsi verin.</string>
-    <string name="lock_show_solve_go">Tənzimləmələr</string>
-    <string name="lock_show_solve_path">Aşağıda \"Tənzimləmələr\"ə toxunun, \"Kilid ekranında göstər\"i seçin və \"Həmişə icazə ver\"i seçin.</string>
+    <string name="lock_show_solve_description">Fövqəladə hal üçün tibbi kimliyinizi kilid ekranında göstərmək üçün Health-a kilid ekranında göstərmə icazəsi verin.</string>
+    <string name="lock_show_solve_go">Ayarlar</string>
+    <string name="lock_show_solve_path">Aşağıda \"Ayarlar\"a toxunun, \"Kilid ekranında göstər\"i seçin və \"Həmişə icazə ver\"i seçin.</string>
     <string name="lock_show_solve_title">Kilid ekranınıza məlumat əlavə edin</string>
-    <string name="lock_support_description">Ekranınız kilidli ikən \"Fövqəladə vəziyyət\" və \"Fövqəladə vəziyyət üçün tibbi kimlik\"ə toxunaraq fövqəladə vəziyyət üçün tibbi kimliyinizə baxın.</string>
+    <string name="lock_support_description">Ekranınız kilidli ikən \"Fövqəladə hal\" və \"Fövqəladə hal üçün tibbi kimlik\"ə toxunaraq fövqəladə hal üçün tibbi kimliyinizə baxın.</string>
     <string name="lock_support_description2">"Kilid ekranında tibbi kimliyi tapa bilmirsiniz?"</string>
     <string name="login_and_open_sync">Daxil olun və sinxronlaşdırmanı açın</string>
     <string name="login_and_open_sync2">Daxil olun və sinxronlaşdırmanı açın</string>
@@ -777,22 +777,22 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="mcv2_overflow_left_button_desc">Əvvəlki düymə siyahısına qayıt</string>
     <string name="mcv2_overflow_right_button_desc">Daha çox düyməyə bax</string>
     <string name="mcv2_pause_button_desc">Fasilə ver</string>
-    <string name="mcv2_play_button_desc">Oynat</string>
+    <string name="mcv2_play_button_desc">Oxut</string>
     <string name="mcv2_playback_error_text">"Tələb olunan element oxudula bilmədi"</string>
     <string name="mcv2_previous_button_desc">Əvvəlki media</string>
-    <string name="mcv2_replay_button_desc">Yenidən oynat</string>
+    <string name="mcv2_replay_button_desc">Yenidən oxut</string>
     <string name="mcv2_rewind_button_desc">10 saniyə geri çək</string>
-    <string name="mcv2_seek_bar_desc">Oynatma irəliləyişi</string>
-    <string name="mcv2_settings_button_desc">Tənzimləmələr</string>
+    <string name="mcv2_seek_bar_desc">Oxutma irəliləyişi</string>
+    <string name="mcv2_settings_button_desc">Ayarlar</string>
     <string name="mcv2_video_quality_button_desc">Video keyfiyyət seçimi</string>
     <string name="measure_date">Ölçmə vaxtı</string>
     <string name="measure_time">Ölçmə vaxtı</string>
-    <string name="medical_file_desc1">Fövqəladə vəziyyət halında lazım olan tibbi məlumatlar</string>
-    <string name="medical_file_desc2">Fövqəladə vəziyyət hallarında təcili yardım əməkdaşlarına göstərə bilmək üçün sağlamlığınızla əlaqəli təməl məlumatları qeyd edin.</string>
+    <string name="medical_file_desc1">Fövqəladə hallarda lazım olan tibbi məlumatlar</string>
+    <string name="medical_file_desc2">Fövqəladə hallarda təcili yardım əməkdaşlarına göstərə bilmək üçün sağlamlığınızla əlaqəli təməl məlumatları qeyd edin.</string>
     <string name="medical_file_desc3">Xiaomi Health, gizliliyinizə hörmət edir və heç bir məlumatı yığmır, göndərmir və başqa bir yerdə saxlamır. Məlumatlar yalnız cihazın yerli yaddaşında saxlanılır.</string>
-    <string name="medical_first_aid_files">Fövqəladə vəziyyət üçün tibbi kimlik</string>
+    <string name="medical_first_aid_files">Fövqəladə hal üçün tibbi kimlik</string>
     <string name="medication_and_treatment">Dərmanlar və davam edən müalicə</string>
-    <string name="medication_and_treatment_hint">Fövqəladə vəziyyətlərdə qəbul etdiyiniz və ya ehtiyac duyacağınız dərmanları, həmçinin protezləri, diş breketlərini və əməliyyatları sadalayın.</string>
+    <string name="medication_and_treatment_hint">Fövqəladə hallarda qəbul etdiyiniz və ya ehtiyac duyacağınız dərmanları, həmçinin protezləri, diş breketlərini və əməliyyatları sadalayın.</string>
     <string name="medium_intensity">Orta</string>
     <string name="medley">Qarışıq</string>
     <string name="meet_days">Hədəfə çatıldı</string>
@@ -832,9 +832,9 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="menstruation_last_start_date">Son menstruasiya başladı</string>
     <string name="menstruation_record">Qeyd edilən periodlar</string>
     <string name="menstruation_record_not_found">Burda hələ heç bir qeyd yoxdur</string>
-    <string name="menstruation_setting">Menstruasiya tənzimləmələri</string>
+    <string name="menstruation_setting">Menstruasiya ayarları</string>
     <string name="menu">Menyu</string>
-    <string name="menu_title_settings">Tənzimləmələr</string>
+    <string name="menu_title_settings">Ayarlar</string>
     <string name="mesens_card_title_stop_today">Period bu gün bitir</string>
     <string name="mesens_card_title_today_begin">Period bu gün başlaya bilər</string>
     <string name="mesens_card_title_tomorrow_begin">Period sabah başlaya bilər</string>
@@ -855,7 +855,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="minimum">Minimum</string>
     <string name="minute">dəq</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -887,7 +887,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
     <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
     <string name="miuix_search_recommendation_item_del_des">Sil</string>
-    <string name="model_card_setting">Kart tənzimləmələri</string>
+    <string name="model_card_setting">Kart ayarları</string>
     <string name="moderately_abnormal">Mərhələ 2 hipertoniya</string>
     <string name="moderately_abnormal_tip">Hər gün qalxdıqdan sonra və yatmazdan əvvəl</string>
     <string name="modify">Düzəliş et</string>
@@ -950,9 +950,9 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="name_title_menstruation_today_end">Periodun bu gün bitməsi gözlənilir</string>
     <string name="need_auto_start_permission">Daha dəqiq statistikalar əldə etmək üçün, Xiaomi Health-in avto-başlamasına icazə verin.</string>
     <string name="need_unrestricted_permission">Daha dəqiq statistikalar əldə etmək üçün, Xiaomi Health-in daim arxaplanda işləməsinə icazə verin.</string>
-    <string name="network_connect_failure">"Şəbəkə ilə bağlantı qurula bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="network_connect_failure">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="network_name_china">Wi-Fi</string>
-    <string name="network_not_available">"Şəbəkə ilə bağlantı qurula bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="network_not_available">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="network_not_available2">"Şəbəkə ilə bağlantı qurula bilmədi"</string>
     <string name="next_step">Növbəti</string>
     <string name="night">Axşam</string>
@@ -970,11 +970,11 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="normal2">Normal</string>
     <string name="not_achieve_stand_goals">"Hədəfinizə çatmamısınız"</string>
     <string name="not_added">Əlavə edilmədi</string>
-    <string name="not_edit">Tənzimlənmədi</string>
+    <string name="not_edit">Ayarlanmadı</string>
     <string name="not_open_auto_sync">Sinxr bağlıdır</string>
     <string name="not_save">Dəyişiklikləri ləğv et</string>
     <string name="not_save_aid_file_desc">Bütün qeyd olunmayan dəyişikliklər itiriləcək.</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_standing">" Ayağa qalxmadınız"</string>
     <string name="not_support_step">"Cihazınız addımları saya bilmir"</string>
     <string name="not_up_to_standard">Aşağı standart</string>
@@ -1010,8 +1010,8 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="per_time_minutes1">" / dəq"</string>
     <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="period">Dövr</string>
-    <string name="permission_check_result">Uğurla tənzimləndi</string>
-    <string name="permission_check_result_failed">"Tənzimlənə bilmədi"</string>
+    <string name="permission_check_result">Uğurla ayarlandı</string>
+    <string name="permission_check_result_failed">"Ayarlana bilmədi"</string>
     <string name="permission_manage">İcazələri idarə et</string>
     <string name="permission_tip">Yuxunuzu daha dəqiq izləmək üçün Xiaomi Health-ə aşağıdakı icazələri verin</string>
     <string name="personal_course_recommend_subtitle">Şəxsi məlumatlarınıza, sağlamlıq statistikalarınıza və tərcihlərinizə görə sizə tövsiyə edilən siniflərə müraciət əldə edin</string>
@@ -1027,8 +1027,8 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="placement_tips_title">Telefonunuzu hara qoymalısınız?</string>
     <string name="placement_tips_warn">Tövsiyə edilmir</string>
     <string name="placement_tips_warn_1">Qaçış zolağı</string>
-    <string name="play">Oynat</string>
-    <string name="play_button_content_description">Oynat</string>
+    <string name="play">Oxut</string>
+    <string name="play_button_content_description">Oxut</string>
     <string name="please_choose">Seç</string>
     <string name="pm">GS</string>
     <string name="pool_swimming">Hovuzda üzmə</string>
@@ -1040,7 +1040,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="preference_feedback">Əks-əlaqə</string>
     <string name="preference_health_info_proposal_title">Dəqiq statistikalar və faydalı məsləhətlər alın</string>
     <string name="preference_health_score_tip">Sağlamlıq xalı</string>
-    <string name="preference_not_set">Tənzimlənmədi</string>
+    <string name="preference_not_set">Ayarlanmadı</string>
     <string name="preference_update_already_newest">Xiaomi Health güncəldir.</string>
     <string name="preference_update_current_version">Hazırkı versiya: %1$s</string>
     <string name="preference_update_default_title">Versiya</string>
@@ -1053,7 +1053,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="prompt_sleep_time_noon">Gündüz mürgüləməsi</string>
     <string name="protein_rate">Protein</string>
     <string name="protein_rate_descripe_content">Protein məzmunu, pəhrizinizin sağlamlığınıza necə təsir etdiyini əks etdirən insan bədəninin ümumi çəkisindəki protein nisbətini təmsil edir.</string>
-    <string name="pull_or_lay_oars">Sürüş və bərpa</string>
+    <string name="pull_or_lay_oars">Drive and recovery</string>
     <string name="question_data_source_unable_add">"Məlumat mənbəsi əlavə edilə bilmir"</string>
     <string name="question_data_synchronization_not_timely">"Məlumatlar ümumiyyətlə və ya vaxtında sinxronlaşdırıla bilmir"</string>
     <string name="question_device_not_found">"Cihazlarım tapıla bilmir"</string>
@@ -1108,7 +1108,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="rest_time_between_sets">Dincəlmə</string>
     <string name="resting_heart_rate">Dincələrkən ürək döyüntüsü</string>
     <string name="resting_heart_rate_desc">Dincələrkən böyüklər üçün normal ürək döyüntüsü dəqiqədə 55-80 arası dəyişir. Bu göstərici, yaş, cins və digər amillərdən asılı olaraq dəyişə bilər.</string>
-    <string name="retraction_time">Bərpa vaxtı</string>
+    <string name="retraction_time">Geri qaytarma vaxtı</string>
     <string name="retry">Yenidən sına</string>
     <string name="revert_to_default">İlkin halına qaytar</string>
     <string name="rope_skipping">İplə tullanma</string>
@@ -1142,19 +1142,19 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="send">Göndər</string>
     <string name="send_diagnosis_log">Diaqnoz jurnalını göndər</string>
     <string name="sending">Göndərilir…</string>
-    <string name="set_emergency_contact">Fövqəladə vəziyyət kontaktı</string>
-    <string name="setting">Tənzimləmələr</string>
+    <string name="set_emergency_contact">Fövqəladə hal kontaktı</string>
+    <string name="setting">Ayarlar</string>
     <string name="setting_avatar">Profil şəkli</string>
-    <string name="setting_birthday">Doğum tarixini tənzimlə</string>
-    <string name="setting_blood_type">Qan qrupunu tənzimlə</string>
-    <string name="setting_cycling_goals">Velosiped hədəflərini tənzimlə</string>
+    <string name="setting_birthday">Doğum tarixini ayarla</string>
+    <string name="setting_blood_type">Qan qrupunu ayarla</string>
+    <string name="setting_cycling_goals">Velosiped hədəflərini ayarla</string>
     <string name="setting_data_cloud_sync_tip">Bu cihazdakı elementləri nüsxələmək və digər cihazlardan sağlamlıq məlumatlarını sinxronlaşdırmaq üçün bu özəlliyi istifadə edin</string>
     <string name="setting_gender">Cinsi seç</string>
-    <string name="setting_running_goals">Qaçış hədəflərini tənzimlə</string>
+    <string name="setting_running_goals">Qaçış hədəflərini ayarla</string>
     <string name="setting_sedentary_off">BAĞLI</string>
     <string name="setting_sedentary_on">AÇIQ</string>
     <string name="setting_sedentary_title">Hərəkət etməyi xatırlat</string>
-    <string name="setting_walking_goals">Gəzmə hədəflərini tənzimlə</string>
+    <string name="setting_walking_goals">Gəzinti hədəflərini ayarla</string>
     <string name="severe_abnormal">Hipertansif krizlər</string>
     <string name="severe_abnormal_tip">Hər gün qalxdıqdan sonra, günorta yeməyindən sonra və yatmazdan əvvəl</string>
     <string name="share">Paylaş</string>
@@ -1221,16 +1221,16 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_deep_light_no_data">"Yuxu izlənə bilmədi. Mobil cihazınızı yastığın yanına qoymaq yuxu məlumatlarını daha dəqiq edəcək."</string>
     <string name="sleep_detection_enable">Yuxu dövrünü təhlil et</string>
     <string name="sleep_detection_feedback">Əks-əlaqə</string>
-    <string name="sleep_detection_guide_four_description">Yuxu izləmə, bir gecədə batareyanın yalnız 1%-ni istehlak edir</string>
-    <string name="sleep_detection_guide_four_high_power_description">Yatmazdan əvvəl cihazınızın yetərincə enerji yığdığına əmin olun. Zəif batareya yuxu izləməsini yarımçıq kəsə bilər.</string>
-    <string name="sleep_detection_guide_four_high_power_title">Cihazınızın daim enerjisi olsun</string>
+    <string name="sleep_detection_guide_four_description">Yuxu izləmə, bir gecədə batareyanın yalnız 1%-ni sərf edir</string>
+    <string name="sleep_detection_guide_four_high_power_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya yuxu izləməsini yarımçıq kəsə bilər.</string>
+    <string name="sleep_detection_guide_four_high_power_title">Cihazın batareyasını dolu saxlayın</string>
     <string name="sleep_detection_guide_four_title">Aşağı enerji sərfiyyatı</string>
     <string name="sleep_detection_guide_one_description">Bədən hərəkətlərini izləmək və yuxu dövrü statistikasını yaratmaq üçün yatdığınız zaman cihazınızı yanınıza qoyun.</string>
     <string name="sleep_detection_guide_one_title">Yuxunuzu izləyin</string>
     <string name="sleep_detection_guide_schedule_hint_one">"Yatmaq vaxtı rejiminiz olmasa, statistikalarınız dəqiq olmayacaq. "</string>
-    <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini tənzimləyin.</string>
-    <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtını \"Saat\"da tənzimləyin.</string>
-    <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi tənzimlənəndə, yuxunuz avtomatik izləniləcək. "</string>
+    <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini ayarla.</string>
+    <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
+    <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi ayarlananda, yuxunuz avtomatik izləniləcək. "</string>
     <string name="sleep_detection_guide_three_title">Statistikaları avtomatik yarat</string>
     <string name="sleep_detection_guide_two_description">"Dəqiq statistikalar əldə etmək üçün, cihazınızı yastığın yanına və ya altına qoyun və bədəninizdən ən çox 50 sm uzaqda olduğuna əmin olun."</string>
     <string name="sleep_detection_guide_two_title">Cihazı yastığınızın yanına qoyun</string>
@@ -1240,7 +1240,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_question_one_answer">"Cihazınız söndürüləndə, yenidən başladılanda və ya batareya az olduqda, sensorlar məlumatları yığa və təhlil edə bilmədiyi üçün yuxu izləmə yarımçıq kəsiləcək. Belə hallarda yuxu statistikası əskik görünəcək.
 Bu problem tez-tez baş verirsə, cihazınızda planlaşdırılmış söndürmə tapşırıqları və ya gecə ərzində sistem güncəlləmələrinin olub-olmadığını yoxlayın."</string>
     <string name="sleep_detection_question_one_answer_1">"Dərin və yüngül yuxu fazaları cihazınızın sensorları tərəfindən yığılan bədən hərəkəti məlumatlarına əsasən aşkar edilir. Statistikaları görə bilməməyinizin səbəbləri bunlardır:
-1. Xiaomi Health, məlumatları yığa bilmir. Bu, siz yatdığınız vaxt cihaz sönülü olduqda, batareyası zəif olduqda və ya tətbiqin arxaplanda işləməsinə icazə verilmədikdə baş verə bilir. Bunun baş verməsinin qarşısını almaq üçün, Xiaomi Health-in avto-başlamasına icazə verin, onu Batareyaya Qənaət rejimində istisnalara əlavə edin və arxaplanda kilidləyin.
+1. Xiaomi Health, məlumatları yığa bilmir. Bu, siz yatdığınız vaxt cihaz sönülü olduqda, batareyası zəif olduqda və ya tətbiqin arxaplanda işləməsinə icazə verilmədikdə baş verə bilir. Bunun baş verməsini önləmək üçün, Xiaomi Health-in avto-başlamasına icazə verin, onu Batareyaya Qənaət rejimində istisnalara əlavə edin və arxaplanda kilidləyin.
 2. Xiaomi Health, yığılmış məlumatları təhlil edə bilmir. Bu, siz yatdığınız vaxt cihazın bədəninizdən çox uzaqda olduğu halda baş verə bilir. Alternativ olaraq, bədən hərəkətiniz yuxu dövrünüzdəki dəyişikliklərlə bağlı fərziyyələr irəli sürmək üçün çox incə ola bilər. Xiaomi Health-in yuxunuzu daha yaxşı təhlil etməsi üçün alqoritmlərimizi daim təkmilləşdiririk."</string>
     <string name="sleep_detection_question_one_title">Statistikalarım niyə əskikdir?</string>
     <string name="sleep_detection_question_one_title_1">"Niyə yuxu dövrü statistikalarımı görə bilmirəm?"</string>
@@ -1268,8 +1268,8 @@ Bu problem tez-tez baş verirsə, cihazınızda planlaşdırılmış söndürmə
     <string name="sleep_health_model_hint">Miao Health tərəfindən təqdim edilən yuxu qiymətləndirmə tövsiyələri</string>
     <string name="sleep_keep_hard">Yuxuya getmə ilə bağlı problemlər</string>
     <string name="sleep_light">Yüngül yuxu</string>
-    <string name="sleep_management_content1">Yatmaq və qalxmaq üçün xatırladıcılar tənzimləyin</string>
-    <string name="sleep_management_exp_hours_minutes">"Hazırkı tənzimləmələriniz sizə gündəlik %1$s %2$s yuxuya zəmanət verməyəcək. Bundan daha çoxuna ehtiyacınız var."</string>
+    <string name="sleep_management_content1">Yatmaq və qalxmaq üçün xatırladıcılar ayarlayın</string>
+    <string name="sleep_management_exp_hours_minutes">"Hazırkı ayarlarınız sizə gündəlik %1$s %2$s yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</string>
     <string name="sleep_management_label">Yatmaq vaxtını idarə et</string>
     <string name="sleep_month">Ay</string>
     <string name="sleep_need_auto_start">Yuxu məlumatlarını daha dəqiq etmək üçün Xiaomi Health-ın avto-başlamasına icazə verin</string>
@@ -1282,7 +1282,7 @@ dövründən keçin"</string>
     <string name="sleep_no_generate_report">"Yuxu məlumatları
 tapıla bilmədi"</string>
     <string name="sleep_notice">Yuxu bildirişləri</string>
-    <string name="sleep_record_content">Xiaomi Health telefon istifadəniz, fəaliyyət statistikası, həmçinin tənzimlədiyiniz yatma və oyanma vaxtı əsasında yuxunuzu avtomatik yazacaq.</string>
+    <string name="sleep_record_content">Xiaomi Health telefon istifadəniz, fəaliyyət statistikası, həmçinin ayarladığınız yatma və oyanma vaxtına görə yuxunuzu avtomatik yazacaq.</string>
     <string name="sleep_record_go_open">Yuxu məlumatlarını yazmağa başlamaq üçün \"Yuxunu izlə\" açarını dəyişdirin</string>
     <string name="sleep_record_label">Yuxunu yaz</string>
     <string name="sleep_remind">Yuxu xatırladıcısı</string>
@@ -1292,17 +1292,17 @@ tapıla bilmədi"</string>
     <string name="sleep_schedule">Yatmaq vaxtı</string>
     <string name="sleep_service">Yuxu izləmə xidməti</string>
     <string name="sleep_service_background_running">Yuxu izləmə xidməti arxaplanda işləyir</string>
-    <string name="sleep_setting_title">Yuxu tənzimləmələri</string>
+    <string name="sleep_setting_title">Yuxu ayarları</string>
     <string name="sleep_snore_audio_auto">Xoruldamanı və danışmanı avtomatik yaz</string>
     <string name="sleep_snore_audio_auto_desc">Xiaomi Health, yatmaq vaxtı rejiminizə əsasən xoruldamanı və danışmanı avtomatik olaraq yaza bilər. Səsyazma, qalxdığınız vaxt dayandırılacaq.</string>
-    <string name="sleep_snore_audio_close_desc">Bu özəlliyi istənilən vaxt Tənzimləmələrdə bağlaya bilərsiniz.</string>
+    <string name="sleep_snore_audio_close_desc">Bu özəlliyi istənilən vaxt Ayarlarda söndürə bilərsiniz.</string>
     <string name="sleep_snore_audio_enable">Avto-aşkarlama açıqdır</string>
     <string name="sleep_snore_audio_enable_desc">Yuxuladığınız vaxt xoruldamanız və danışmanız avtomatik yazılacaq.</string>
     <string name="sleep_snore_audio_file_mamagement_desc">Ən son yazıların 100 MB-nı bu cihazda saxlamaq üçün açın və anbar sahəsinə qənaət etmək üçün köhnələri avtomatik silin.</string>
     <string name="sleep_snore_audio_file_mamagement_title">Səsyazmaları avtomatik təmizlə</string>
     <string name="sleep_snore_audio_file_saved">Səsyazmalar yerli yaddaşda saxlanıldı</string>
     <string name="sleep_snore_audio_file_saved_desc">Xoruldamanı və danışmanı aşkarlamaq üçün oflayn bir alqoritm istifadə olunur. Bütün səsyazmalar, şəxsi məlumatlarınız ifşa olunmadan bu cihazın yerli yaddaşında saxlanılacaq.</string>
-    <string name="sleep_snore_audio_hight_power_desc">"Unutmayın ki, bu özəlliyin istifadəsi xeyli miqdarda enerji sərf edir. Gözlənilməz kəsintilərin qarşısını almaq üçün yatarkən adapteri taxılı saxlamaq yaxşı fikirdir."</string>
+    <string name="sleep_snore_audio_hight_power_desc">"Unutmayın ki, bu özəlliyin istifadəsi xeyli miqdarda enerji sərf edir. Gözlənilməz kəsintilərin qarşısını almaq üçün yatarkən doldurma cihazını taxılı saxlamaq yaxşı fikirdir."</string>
     <string name="sleep_snore_detection">Xoruldama və danışmanı aşkarla</string>
     <string name="sleep_snore_detection_desc">Yuxunuz haqqında daha çox öyrənmək üçün xoruldama və danışmanı aşkarlayın</string>
     <string name="sleep_sober">Oyaq</string>
@@ -1330,15 +1330,15 @@ tapıla bilmədi"</string>
     <string name="snore_detection_abnormal_state">Seans dayandırıldı</string>
     <string name="snore_detection_abnormal_state_description">Mikrofon bağlıdır</string>
     <string name="snore_detection_close_prompt">Xoruldama və danışma aşkarlanması bağlıdır</string>
-    <string name="snore_detection_close_prompt_desc">"Bir müddətdir ki, xoruldama və danışma aşkarlanmadı. Batareyaya qənaət etmək üçün bu özəlliyi söndürdük. Tənzimləmələri yoxlamaq üçün toxunun."</string>
+    <string name="snore_detection_close_prompt_desc">"Bir müddətdir ki, xoruldama və danışma aşkarlanmadı. Batareyaya qənaət etmək üçün bu özəlliyi söndürdük. Ayarları yoxlamaq üçün toxunun."</string>
     <string name="snore_detection_close_title">Xoruldama və danışmanı aşkarlama söndürülsün?</string>
     <string name="snore_detection_enable">Xoruldama və danışmanı aşkarla</string>
     <string name="snore_detection_guide_one_description">Siz yatarkən səs yazılacaq. Maşın öyrənməsi, Xiaomi Health-ın xoruldamanı, danışmanı və yüksək səsi aşkarlamasına və yazılan səsləri cihazınızda saxlamasına icazə verir.</string>
     <string name="snore_detection_guide_one_title">Səsi mikrofon istifadə edərək yazın</string>
-    <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi tənzimləyin&gt;</string>
-    <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtında mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün, yatmaq vaxtınızı \"Saat\"da tənzimləyin.</string>
-    <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə enerji yığdığına əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
-    <string name="snore_detection_guide_three_title">Cihazınızın daim enerjisi olsun</string>
+    <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi ayarlayın&gt;</string>
+    <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtı zamanı mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
+    <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
+    <string name="snore_detection_guide_three_title">Cihazın batareyasını dolu saxlayın</string>
     <string name="snore_detection_guide_two_description">Mikrofon, yatmaq vaxtı rejiminizə əsasən açılıb bağlanılacaq.</string>
     <string name="snore_detection_guide_two_title">Səsləri avtomatik aşkarla</string>
     <string name="snore_detection_model_hint">Snail Sleep tərəfindən təqdim edilmiş xoruldama və danışma aşkarlama alqoritmləri</string>
@@ -1370,10 +1370,10 @@ tapıla bilmədi"</string>
     <string name="sport_btn_unlock">Kilidi aç</string>
     <string name="sport_counter_begin">İndi başlat</string>
     <string name="sport_data_use_subtitle">Məşq və fitnes irəliləyişinizi izləmək üçün, məşq marşrutları, yuxu məlumatları, ürək döyüntüsü sürəti və çəki kimi məlumatları yığıb emal edirik.</string>
-    <string name="sport_data_use_tip">"Məlumatlarınızı necə yığdığımızı və emal etdiyimizi daha yaxşı anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Sağlamlıq və Fəaliyyət Məlumatlarının İstifadə Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin. Yığmağımıza və emal etməyimizə razılıq verməsəniz, bu xidməti istifadə edə bilməyəcəksiniz."</string>
+    <string name="sport_data_use_tip">"Məlumatlarınızı necə yığdığımızı və emal etdiyimizi daha yaxşı anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Sağlamlıq və Fəaliyyət Məlumatlarının İstifadə Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın. Yığmağımıza və emal etməyimizə razılıq verməsəniz, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="sport_data_use_title">Məlumat icazələri</string>
     <string name="sport_home_begin">Başlat</string>
-    <string name="sport_home_set_goal">Hədəfi tənzimlə</string>
+    <string name="sport_home_set_goal">Hədəfi ayarla</string>
     <string name="sport_invalid_dialog_distance_content">Bu məşq zamanı qət etdiyiniz məsafə bir tarixçə qeydi yaratmaq üçün çox qısadır. Yenə də bu məşq bitirilsin?</string>
     <string name="sport_invalid_dialog_time_content">Bu məşq 5 saniyədən az davam etdi. Qeyd etmədən bitirilsin?</string>
     <string name="sport_invalid_dialog_title">Çox sürətli!</string>
@@ -1413,7 +1413,7 @@ tapıla bilmədi"</string>
     <string name="sporting_content_time">Məşq müddəti: %1$s %2$s</string>
     <string name="sporting_goal">Hədəf</string>
     <string name="sporting_hint_exit_map">Xəritəni bağla</string>
-    <string name="sporting_hint_long_press">Bitirmək üçün basıb saxla</string>
+    <string name="sporting_hint_long_press">Bitirmək üçün basılı tutun</string>
     <string name="sporting_hint_switch_to_map">Xəritəyə keç</string>
     <string name="sporting_key_calories">Kal</string>
     <string name="sporting_key_km">KM</string>
@@ -1440,7 +1440,7 @@ tapıla bilmədi"</string>
     <string name="stand_notice_title5">"Deyəsən, son bir saat ərzində heç ayağa qalxmamısınız"</string>
     <string name="stand_notice_title6">Son bir saatda ayağa qalxmısınız?</string>
     <string name="stand_remind_setting_desc">1 saatlıq hərəkətsizlikdən sonra ayağa qalxmaq üçün bir xatırlatma alın</string>
-    <string name="stand_setting">Tənzimləmələr</string>
+    <string name="stand_setting">Ayarlar</string>
     <string name="stand_stop_reminding">"Təkrar göstərmə"</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="standing_already">" Ayağa qalxdınız"</string>
@@ -1481,17 +1481,17 @@ tapıla bilmədi"</string>
     <string name="sync_immediately">Sinxr.</string>
     <string name="sync_is_not_closed">Sinxr. indi açıqdır</string>
     <string name="sync_is_off">Sinxr. bağlıdır</string>
-    <string name="sync_set_network">Şəbəkə tənzimləmələri</string>
-    <string name="sync_status">Sinxr. vəziyyəti</string>
+    <string name="sync_set_network">Şəbəkə ayarları</string>
+    <string name="sync_status">Sinxr. statusu</string>
     <string name="sync_status_failure_retry">"Sinxr. bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="sync_status_in_progress">Sixnr…</string>
     <string name="sync_status_network_failure">"Sinxr edilə bilmədi. Şəbəkəyə qoşulub yenidən sınayın."</string>
     <string name="sync_status_never_done">Sinxr edilməyib</string>
     <string name="sync_status_oauth_error">"Məlumat sinxr edilə bilmədi. Əvvəlcə icazələri verin."</string>
-    <string name="system_app_setting">Sistem tətbiq tənzimləmələri</string>
+    <string name="system_app_setting">Sistem tətbiqi ayarları</string>
     <string name="system_permission">İcazə detalları</string>
     <string name="systolic_pressure">Sistolik</string>
-    <string name="tb_audio_progress_bar">Səs oxutma sətri</string>
+    <string name="tb_audio_progress_bar">Səs oxutma çubuğu</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Ən yüksək sistolik təzyiq: %2$d millimetr civə. Ən aşağı diastolik təzyiq: %3$d millimetr civə.</string>
     <string name="tb_blood_pressure_item">%1$s. Sistolik təzyiq: %2$d millimetr civə. Diastolik təzyiq: %3$d millimetr civə.</string>
     <string name="tb_blood_pressure_wm_card">Ortalama sistolik təzyiq: %1$d millimetr civə. Ortalama diastolik təzyiq: %2$d millimetr civə. Ən yüksək sistolik təzyiq: %3$d millimetr civə. Ən yüksək diastolik təzyiq: %4$d millimetr civə. Ən aşağı sistolik təzyiq: %5$d millimetr civə. Ən aşağı diastolik təzyiq: %6$d millimetr civə.</string>
@@ -1527,7 +1527,7 @@ tapıla bilmədi"</string>
     <string name="tb_exercise_exercise_duration">Dəqiqələrlə orta və yüksək intensivlikli məşq müddəti: %1$d. %2$s. Detallara baxmaq üçün toxunun.</string>
     <string name="tb_exercise_exercise_no_data">Orta və yüksək intensivlikli məşq yoxdur</string>
     <string name="tb_exercise_goal_info">Gündəlik fəaliyyət hədəfi: %1$s. %2$s</string>
-    <string name="tb_exercise_home_banner">Gündəlik yoxlama</string>
+    <string name="tb_exercise_home_banner">Gündəlik giriş</string>
     <string name="tb_exercise_label_close">Sorğunu bağla</string>
     <string name="tb_exercise_list_add">Məşq statistikası əlavə et</string>
     <string name="tb_exercise_list_consume">Yandırılan kalori: %1$d. Bitmə vaxtı: %2$s. Detallara baxmaq üçün toxunun.</string>
@@ -1550,10 +1550,10 @@ tapıla bilmədi"</string>
     <string name="tb_go_next_a_day">Əvvəlki gün</string>
     <string name="tb_go_on_detection">Davam et</string>
     <string name="tb_has_snore_dream_talk">Danışma və xoruldama aşkarlandı</string>
-    <string name="tb_hearing_card">Eşitmə | Qulaqlıq pozlama: %1$s | Qeyd edildi: %2$s.</string>
-    <string name="tb_hearing_column">%1$s | Qulaqlıq pozlama: %2$s | Yüksək səslər: %3$s.</string>
-    <string name="tb_hearing_daily_card">%1$s | Qulaqlıq pozlama: %2$s | Yüksək səslər: %3$s.</string>
-    <string name="tb_hearing_wm_card">%1$s | Ortalama qulaqlıq pozlama: %2$s | Ortalama yüksək səs pozlama: %3$s.</string>
+    <string name="tb_hearing_card">Eşitmə | Qulaqlıq ekspozisiyası: %1$s | Qeyd edildi: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Qulaqlıq ekspozisiyası: %2$s | Yüksək səslər: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Qulaqlıq ekspozisiyası: %2$s | Yüksək səslər: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Ortalama qulaqlıq ekspozisiyası: %2$s | Ortalama yüksək səs ekspozisiyası: %3$s.</string>
     <string name="tb_heart_rate_max_min">Nəbz. Yuxarı: %1$d. Aşağı: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Qan təzyiqi. Yuxarı: %1$d. Aşağı: %2$d. Qeyd edildi: %3$s. Vəziyyət: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Qan təzyiqi. Məlumat yoxdur.</string>
@@ -1579,7 +1579,7 @@ tapıla bilmədi"</string>
     <string name="tb_mens_month_future_date">"%1$s. Gələcək tarixləri seçilə bilmir."</string>
     <string name="tb_mens_month_history">Günlərlə ortalama period müddəti: %1$d. Günlərlə ortalama dövr müddəti: %2$d.</string>
     <string name="tb_mens_month_marked">%1$s. Menstruasiya dövrü işarələndi.</string>
-    <string name="tb_mens_month_no_marks">"%1$s. Vəziyyət işarələnmədi."</string>
+    <string name="tb_mens_month_no_marks">"%1$s. Status işarələnmədi."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tarixi dəyişdirmək üçün toxunun.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Menstruasiya dövrünün %2$d günü. Seçildi.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Menstruasiya dövrünün %2$d günü. Tarixi seçmək üçün toxunun.</string>
@@ -1686,7 +1686,7 @@ tapıla bilmədi"</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time">Vaxt</string>
     <string name="time_format_hh_mm">HH:mm</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tips_default">Məlumat yoxdur</string>
@@ -1703,9 +1703,9 @@ tapıla bilmədi"</string>
     <string name="title_select_birthday_description">"Xidmətlərimizi yaşınıza görə uyğunlaşdıracağıq"</string>
     <string name="title_select_gender">Cinsi seçin</string>
     <string name="title_select_gender_description">"Xidmətlərimizi cinsinizə görə uyğunlaşdıracağıq"</string>
-    <string name="title_select_height">Boyu tənzimlə</string>
+    <string name="title_select_height">Boyu ayarla</string>
     <string name="title_select_height_description">Bu, statistikalarımızı daha dəqiq edəcək</string>
-    <string name="title_select_weight">Çəkini tənzimlə</string>
+    <string name="title_select_weight">Çəkini ayarla</string>
     <string name="title_select_weight_description">Bu, statistikalarımızı daha dəqiq edəcək</string>
     <string name="title_start_use">Başlat</string>
     <string name="title_start_use_menstruation_assistant">Menstruasiya dövrünüzü qeyd edin</string>
@@ -1746,7 +1746,7 @@ tapıla bilmədi"</string>
     <string name="unknown_birthday">Bilinmir</string>
     <string name="unknown_full_name">Bilinmir</string>
     <string name="unknown_gender">Bilinmir</string>
-    <string name="unknown_state">Bilinməyən vəziyyət</string>
+    <string name="unknown_state">Bilinməyən status</string>
     <string name="update_notify_dialog_ignore">Daha sonra</string>
     <string name="update_notify_dialog_msg">"Bir güncəlləmə mövcuddur: %1$s.
 Yeni nə var:
@@ -1782,7 +1782,7 @@ Yeni nə var:
     <string name="weight_keep_up">Əla! Sağlam çəkini qorumağa davam edin.</string>
     <string name="weight_notice">Çəki bildirişləri</string>
     <string name="weight_remind">Çəkini ölçmə xatırladıcıları</string>
-    <string name="weight_setting">Çəki tənzimləmələri</string>
+    <string name="weight_setting">Çəki ayarları</string>
     <string name="weight_trend_offset_date">"%1$s > %2$s: "</string>
     <string name="weight_unit_kg">kq</string>
     <string name="welcome_back">Yenidən xoş gəldiniz!</string>

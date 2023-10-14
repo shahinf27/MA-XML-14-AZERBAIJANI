@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Kişi</item>
-        <item>Qadın</item>
-    </string-array>
     <string-array name="feature_desc">
         <item>Xiaomi.eu tərəfindən beynəlxalq istifadəçilər üçün optimallaşdırılıb</item>
     </string-array>
@@ -20,5 +16,9 @@
         <item>Oktyabr</item>
         <item>Noyabr</item>
         <item>Dekabr</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
     </string-array>
 </resources>

@@ -41,7 +41,7 @@
     <string name="close">Bağla</string>
     <string name="copyright">Müəllif hüquqları</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -62,12 +62,12 @@
     <string name="instruction">Vacib güvənlik məlumatı</string>
     <string name="legal_written_offer">Yazılı təklif</string>
     <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Bu məlumata indi baxmaq üçün,
-başqa bağlantı qurulmuş cihazda %s ünvanına gedin."</string>
+digər bağlantılı cihazda %s ünvanına gedin."</string>
     <string name="loading">Bir saniyə…</string>
     <string name="mibi_license">Mi Kredit İstifadəçi Razılaşması</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -137,17 +137,17 @@ başqa bağlantı qurulmuş cihazda %s ünvanına gedin."</string>
     <string name="noon">Günorta</string>
     <string name="open_wifi_connect_and_use_data_summary">Mobil internet istifadə edilir. Wi-Fi-a keçmək üçün toxunun.</string>
     <string name="open_wifi_connect_summary">Detallara baxmaq üçün toxunun.</string>
-    <string name="open_wifi_connect_title">%1$s ilə bağlantı quruldu</string>
+    <string name="open_wifi_connect_title">%1$s ilə bağlantılıdır</string>
     <string name="permdesc_accessDrm">Tətbiqin DRM qorumalı məzmuna müraciət etməsinə icazə verin.</string>
     <string name="pm">GS</string>
     <string name="poco_launcher_privacy_policy">POCO Başladıcısı Gizlilik Siyasəti</string>
     <string name="poco_launcher_user_agreement">POCO Başladıcısı İstifadəçi Razılaşması</string>
     <string name="poco_privacy_policy">POCO Başladıcısı Gizlilik Siyasəti &amp; POCO Başladıcısı İstifadəçi Razılaşması</string>
     <string name="policy_name">Protokol: %s</string>
-    <string name="pre_installed_apps">Əvvəlcədən quraşdırılmış tətbiqlər</string>
+    <string name="pre_installed_apps">Ön-quraşdırılmış tətbiqlər</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_station_title">Xiaomi-də Gizlilik</string>
-    <string name="sar">RF Dalğaları Məruz Qalma Məlumatları</string>
+    <string name="sar">RF Ekspozisiya Məlumatı</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -214,7 +214,7 @@ başqa bağlantı qurulmuş cihazda %s ünvanına gedin."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

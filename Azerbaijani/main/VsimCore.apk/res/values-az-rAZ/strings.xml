@@ -20,7 +20,7 @@
     <string name="assist_center_title">Hazırda istifadə edilir</string>
     <string name="assist_center_traffic_title">Qalan</string>
     <string name="assist_key1_title">Bugün istifadə edildi</string>
-    <string name="assist_key2_title">Verilənlər planı</string>
+    <string name="assist_key2_title">İnternet planı</string>
     <string name="noti_key1_today_used">Bu gün: %1$s</string>
     <string name="noti_key2_remain">Qalan: %1$s</string>
     <string name="noti_key2_used">İstifadə edilən: %1$s</string>

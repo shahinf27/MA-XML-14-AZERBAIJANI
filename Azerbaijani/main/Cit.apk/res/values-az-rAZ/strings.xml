@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Evə naviqasiya et</string>
+    <string name="abc_action_bar_up_description">Yuxarı get</string>
+    <string name="abc_action_menu_overflow_description">Digər variantlar</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına baxın</string>
+    <string name="abc_activitychooserview_choose_application">Tətbiq seçin</string>
+    <string name="abc_capital_off">DEAKTİV</string>
+    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">silin</string>
+    <string name="abc_menu_enter_shortcut_label">daxil olun</string>
+    <string name="abc_menu_function_shortcut_label">Funksiya+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">kosmos</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Axtarış...</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtarış</string>
+    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Bununla paylaşın</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaşın</string>
+    <string name="abc_toolbar_collapse_description">Yığışdırın</string>
+    <string name="auto_frontflash_description">Bütün ön işıqlar yanır, keçmək üçün toxunun, əks halda uğursuz olmaq üçün toxunun</string>
+    <string name="auto_frontflash_title">Ön kamera fənər testi</string>
+    <string name="auto_rearflash_description">Bütün arxa kamera işıqları yanır, keçmək üçün toxunun, əks halda uğursuz olmaq üçün toxunun</string>
+    <string name="auto_rearflash_title">Arxa kamera fənər testi</string>
+    <string name="aux_mic_check_record_tip">Yazılır, lütfən cihazın altındakı AUX mikrofona nəsə deyin</string>
+    <string name="battery_third_connector">Batareya Konnektorunun Gərginliyi</string>
+    <string name="bottom_speaker_title">Aşağı dinamik testi</string>
+    <string name="cit_DP_check_summary">Type-C - DP kabeli test zamanı taxılmalıdır</string>
+    <string name="cit_DP_in_start_test">Lütfən testə başlamaq üçün Type-C - DP kabelini taxın</string>
+    <string name="cit_DP_plug_err">"Aşkarlama cihazı bağlantı dəyişikliyi 
+ Təməl düyün dəyərini oxuma uğursuz oldu 
+ Dəyər alınmadı"</string>
+    <string name="cit_DP_plug_fail">"Aşkarlama cihazı bağlantı dəyişikliyi 
+ Təməl düyün dəyərini oxuma uğursuz oldu 
+ Testi başlatmaq üçün type-C kabeli DP Kabelinə daxil edin"</string>
+    <string name="cit_DP_plug_out_fail">"Aşkarlama cihazı bağlantı dəyişikliyi 
+ Təməl düyün dəyərini oxuma uğursuz oldu 
+ Test uğursuz oldu
+"</string>
+    <string name="cit_DP_plug_pass">"Aşkarlama cihazı bağlantı dəyişikliyi 
+ Təməl düyün dəyərini oxuma uğurlu oldu 
+ Lütfən ekranın uğurlu olub-olmadığını müşahidə edin və müvafiq düyməyə basın"</string>
+    <string name="cit_USB3_2GEN1_check_summary">Test zamanı USB3.2 GEN1 dəstəkləyən cihazlar daxil edilməlidir</string>
+    <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
+    <string name="cit_USB3_2_check_summary">Test zamanı USB3.2 dəstəkləyən cihazlar daxil edilməlidir</string>
+    <string name="cit_USB3_2_check_title">USB3.2</string>
+    <string name="cit_USB3_in_start_test">%1$s fəal cihazları daxil edib testi başladın</string>
+    <string name="cit_USB3_plug_fail">Test cihazı %1$s dəstəkləmir və test uğursuz oldu</string>
+    <string name="cit_USB3_plug_out_test_fail">"Cihaz çıxarıldı, test uğursuz oldu
+Test avadanlığı %1$s dəstəkləməyə bilər, əvəzedici avadanlığın yenidən test edilməsi tövsiyə olunur"</string>
+    <string name="cit_USB3_plug_pass">%1$s keçdi, lütfən cihazları çıxarın</string>
+    <string name="cit_USB3_plug_re_plugin">"%1$s testi bitdi, lütfən testi təkrarlamayın"</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Cihazı sürətlə bir istiqamətdə hərəkət etdirin. X，Y，Z koordinant dəyərləri aşağıda görünür. (cihaz hərəkətdə ikən: X, sol/sağı, Y, ön/arxanı, Z isə yuxarı/aşağını təmsil edir).
+Kalibrləməzdən əvvəl onu düz bir səthə qoyun."</string>
+    <string name="cit_audio_hw_check_summary">Səs Avadanlıq Yoxlanış Testi</string>
+    <string name="cit_audio_hw_check_tips">Test edilir</string>
+    <string name="cit_audio_hw_check_title">Səs Avadanlıq Yoxlanış Testi</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Aux mikrofon dinamik əks-əlaqə testi</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Arxa mikrofon dinamik əks-əlaqə testi</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Aux mikrofondan qəbulediciyə əks-əlaqə testi.
+
+Cihazı zəng edirmiş kimi tutun, aux mikrofona danışın, qəbuledicidən səs eşitməlisiniz"</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Arxa mikrofondan qəbulediciyə əks-əlaqə testi.
+
+Cihazı zəng edirmiş kimi tutun, arxa mikrofona danışın, qəbuledicidən səs eşitməlisiniz"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Üst mikrofondan qəbulediciyə əks-əlaqə testi.
+
+Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən səs eşitməlisiniz"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Üst mikrofon dinamik əks-əlaqə testi</string>
+    <string name="cit_camera_check_summary">"Test təlimatları:
+
+1. Kamera önbaxış interfeysinə daxil olmaq üçün aşağıdakı Kamera düyməsinə toxunun.
+2. Çəkim düyməsinə toxunun.
+3. Sistem, çəkilişdən sonrakı fotonu avtomatik saxlayacaq.
+4. Çəkdiyiniz foto ekranda görüntülənməlidir, testi tamamlamaq üçün \"Pass\"a toxunun."</string>
+    <string name="cit_camera_hardware_check">Kameranın avandanlıqla əlaqəli funksiyanı aşkarlaması davam edir, lütfən gözləyin....</string>
+    <string name="cit_camera_rearsub">Alt kamera testi davam edir, lütfən gözləyin....</string>
+    <string name="cit_esim_check_summary">Aşağıda eSIM statusu göstərilir və eSIM statusunun düzgün göstərilməsi testdən keçdiyini bildirir</string>
+    <string name="cit_esim_check_title">eSIM kartı</string>
+    <string name="cit_esim_eid_error">eID uyğunsuzluğu</string>
+    <string name="cit_esim_eid_number">eID:</string>
+    <string name="cit_esim_mode_general_summary">eSIM/SIM2 keçidini dəstəkləyir</string>
+    <string name="cit_esim_mode_number">eSIM rejimi:</string>
+    <string name="cit_esim_mode_single_summary">eSIM/SIM2 keçidini dəstəkləmir</string>
+    <string name="cit_esim_serial_number">eSIM kartı :</string>
+    <string name="cit_esim_state_absent">eSIM aktivləşdirilməyib</string>
+    <string name="cit_esim_state_ready">eSIM fəaldır</string>
+    <string name="cit_front_sub_camera_check_title_fold">Alt ekran ön kamerası</string>
+    <string name="cit_horn_motor_test">Siqnal mühərrik testi</string>
+    <string name="cit_modem_hardware_title">Modem Avandanlıq Testi</string>
+    <string name="cit_pixeworks_chip_check_title">Pixeworks Iris 7 çip yoxlanışı</string>
+    <string name="cit_reverse_charge_check_summary">"Qarşı tərəfin cihazını doldurmaq üçün lütfən OTG tərsinə doldurma cihazınızı taxın"</string>
+    <string name="cit_soft_light_check_title">Yumşaq işıq</string>
+    <string name="cit_tool_current_size">Hazırkı ölçü</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">yerləşməni tələb et</string>
+    <string name="cit_tool_gps_path_loss_title">Gnss yol itkisi test aləti</string>
+    <string name="cit_tool_wlan_circular_capture">Dairəvi yaxalama</string>
+    <string name="cit_tool_wlan_clear">təmizlə</string>
+    <string name="cit_tool_wlan_export">Xaricə köçür</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: be</string>
+    <string name="cit_tool_wlan_sar_test_title">Wifi-SAR aləti</string>
+    <string name="cit_tool_wlan_tx_be">Tx: be</string>
+    <string name="cit_tool_wlan_tx_be_gI">Qoruma Aralığı:</string>
+    <string name="cit_tool_wlan_update_ap_list">AP siyahısını güncəllə</string>
+    <string name="cold_light_title">Soyuq işıq</string>
+    <string name="edittextdisplay">Sar alətinə xoş gəldiniz !!!</string>
+    <string name="edittextdisplayf">İcazələr məhdudlaşdırılıb !!!</string>
+    <string name="enrollment_error_tip">Barmaq izi giriş kartı kontrol strategiyası tətikləndi, lütfən barmaq izlərinin aydın və təmiz olduğuna əmin olun və ya hazırkı test elementindən çıxıb testi yenidən başladın.</string>
+    <string name="headset_plug_check_tip">İndi lenti oxudun, qulaqlığı dinləyin, lütfən testi bağlayarkən qulaqlığı çıxarın</string>
+    <string name="main_mic_check_record_tip">Yazılır, lütfən cihazın altındakı mikrofona nəsə deyin</string>
+    <string name="mtb_tool_modem_cdma_manager">CDMA Cap Meneceri</string>
+    <string name="password_enroll_error">Telefonunuzda parol var, barmaq izi məlumatları yazıla bilmir</string>
+    <string name="radio_info_data_connected">Bağlantılıdır</string>
+    <string name="radio_info_data_disconnected">Bağlantı kəsildi</string>
+    <string name="remove_finger">barmaq qaldırma testi</string>
+    <string name="sar_algo_data_check_description">Sar Algo məlumat yığma</string>
+    <string name="sar_mtk_test_title">Sar Mtk Kimlik doğrulama testi</string>
+    <string name="search_menu_title">Axtarış</string>
+    <string name="sidebottom_mic_check_record_tip">Səs yazılır, lütfən cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
+    <string name="sidetop_mic_check_record_tip">Səs yazılır, lütfən cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
+    <string name="soft_light_title">Yumşaq işıq</string>
+    <string name="test_aux_mic">AUX mikrofon</string>
+    <string name="test_horn_motor_summary">"İki təsadüfi rəqəm eşidəcəksiniz
+Lütfən eşitdiyiniz rəqəmə uyğun müvafiq düyməyə basın
+Fərqli titrəmə şərtlərinə uyğun olaraq düzgün düyməni seçin"</string>
+    <string name="test_sidebottom_mic">Yan alt mikrofon</string>
+    <string name="test_sidetop_mic">Yan üst mikrofon</string>
+    <string name="test_sub_front_camera">Alt ekran ön kamerası</string>
+    <string name="top_speaker_title">Üst dinamik testi</string>
+    <string name="warm_light_title">İsti işıq</string>
+    <string name="wifi_power_test_testing">Wifi Gücü test edilir...</string>
+</resources>

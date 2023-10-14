@@ -102,6 +102,14 @@
         <item>Vəhşi təbiətə</item>
         <item>Vəhşi və sərbəst</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>Görüşlərimiz</item>
         <item>Dostların şirkətində</item>
@@ -290,7 +298,7 @@
         <item>Aralıq mühasibatlıq titulu imtahanı</item>
         <item>Böyük mühasibatlıq titulu imtahanı</item>
         <item>Mühasibat ixtisası sertifikatı</item>
-        <item>Sertifikatlı hər kəsə açıq mühasibatlıq imtahanı</item>
+        <item>Sertifikatlı ictimai mühasibatlıq imtahanı</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
         <item>Amerika Birləşmiş Ştatları</item>
@@ -346,7 +354,7 @@
     <string-array name="monthly_foods_title">
         <item>Şəxsi menyum</item>
         <item>Dadlı xatirələr</item>
-        <item>İkinci kömək, zəhmət olmasa!</item>
+        <item>İkinci kömək, lütfən!</item>
     </string-array>
     <string-array name="mountain_title">
         <item>"Dünyanın ən yaxşı mənzərələri"</item>

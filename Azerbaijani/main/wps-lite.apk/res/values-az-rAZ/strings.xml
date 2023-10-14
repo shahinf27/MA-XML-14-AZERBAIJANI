@@ -82,7 +82,7 @@
     <string name="documentmanager_loginView_toastpassword">Parol daxil edin</string>
     <string name="documentmanager_noEmailApp">"Heç bir e-poçt tətbiqi tapıla bilmir, quraşdırdığınıza və hesaba daxil olduğunuza əmin olun."</string>
     <string name="documentmanager_nocall_app">"Heç bir nömrəyığan tətbiqi tapıla bilmir, indi quraşdırın."</string>
-    <string name="documentmanager_phone_setting">Tənzimləmələr</string>
+    <string name="documentmanager_phone_setting">Ayarlar</string>
     <string name="documentmanager_searchbof">Son nəticəyə çatın</string>
     <string name="documentmanager_searcheof">İlk nəticəyə çatın</string>
     <string name="documentmanager_send">Göndər</string>
@@ -94,7 +94,7 @@
     <string name="et_backboard_sum">Toplam</string>
     <string name="et_cannotedit">"Sənəd yüklənməyib və ya çox böyükdür və hazırda düzəliş etməyə icazə verilmir."</string>
     <string name="et_cardmode">Cib kartları</string>
-    <string name="et_cardmode_color_setting">Rəngi tənzimlə</string>
+    <string name="et_cardmode_color_setting">Rəngi ayarla</string>
     <string name="et_cardmode_hide_col">Sütunu gizlət</string>
     <string name="et_cardmode_location_cell">Xananı tap</string>
     <string name="et_cardmode_tips_content1">Cədvəl, filtr ehtiva edir</string>
@@ -125,8 +125,8 @@
     <string name="et_sort_ascend">Artan</string>
     <string name="et_sort_descend">Azalan</string>
     <string name="et_sort_empty">"Sıralanacaq məzmun tapıla bilmir, digər əraziləri seçin."</string>
-    <string name="et_sort_title_tips">"Verilənlərin başlıqları sıralanmalıdır."</string>
-    <string name="et_sorter_expand_selection">"Seçimin yanında verilənlərin olduğu aşkarlanıb. Hansı verilənləri sıralamaq istəyirsiniz?"</string>
+    <string name="et_sort_title_tips">"Dataların başlıqları sıralanmalıdır."</string>
+    <string name="et_sorter_expand_selection">"Seçimin yanında datanın olduğu aşkarlanıb. Hansı dataları sıralamaq istəyirsiniz?"</string>
     <string name="et_sorter_expand_selection_cancel">Hazırkı seçim</string>
     <string name="et_sorter_expand_selection_ok">Digər sahələrə genişləndirin</string>
     <string name="feedback_display_subject">Ekran xətası</string>
@@ -145,7 +145,7 @@
     <string name="help_send_editing_file">Tərtibatçının problemin yerini aşkarlamasına kömək etmək üçün %s göndər.</string>
     <string name="highlight">Vurğula</string>
     <string name="pdf_comment">Rəy</string>
-    <string name="pdf_decrypt_edit_tips">Müəllif, sənəd üçün düzəliş parolu tənzimləyib. Davam etmək üçün parolu daxil edin.</string>
+    <string name="pdf_decrypt_edit_tips">Müəllif, sənəd üçün düzəliş parolu ayarlamadı. Davam etmək üçün parolu daxil edin.</string>
     <string name="pdf_lack_content_tip">Sənəd, hazırda dəstəklənməyən və görüntüləməyə təsir edəcək aşağıdakı məzmunları ehtiva edir:</string>
     <string name="pdf_picture_format">Şəkil formatı</string>
     <string name="pdf_vertical_text">Vertikal mətn</string>
@@ -165,7 +165,7 @@
     <string name="ppt_sharedplay_miracast_device_list_title">Cihazlar</string>
     <string name="ppt_sharedplay_search_failed_toast">Görünən Miracast cihazları tapılmadı</string>
     <string name="ppt_sharedplay_wireless_display">\"Naqilsiz ekranı fəallaşdır\" seçimini işarələdikdən sonra Miracast cihazı ilə bağlantı qurula bilər</string>
-    <string name="ppt_show_note">Qeydləri göstər</string>
+    <string name="ppt_show_note">Notları göstər</string>
     <string name="ppt_turn_the_page_by_click">Səhifənin soluna və ya sağına toxunaraq səhifə dəyişdirə bilərsiniz</string>
     <string name="ppt_video_cannot_find_external_video">Video fayl yoxdur, faylların eyni qovluqda olub-olmadığını yoxlayın.</string>
     <string name="ppt_video_cannot_play_online_video">"Onlayn video dəstəklənmir"</string>
@@ -208,7 +208,7 @@
     <string name="public_hyperlink">Hiper keçid</string>
     <string name="public_hyperlink_linkto">Buraya keçid:</string>
     <string name="public_inputEditPasswdText">Dəyişdirmək üçün parolu daxil edin və ya yalnız oxunan rejimində açın.</string>
-    <string name="public_inputEditPasswdTextReadOnly">Müəllif, sənəd üçün dəyişdirmə parolu tənzimləyib. Davam etmək üçün parolu daxil edin.</string>
+    <string name="public_inputEditPasswdTextReadOnly">Müəllif, sənəd üçün dəyişdirmə parolu ayarladı. Davam etmək üçün parolu daxil edin.</string>
     <string name="public_inputPasswd">Faylı açmaq üçün parolu daxil edin</string>
     <string name="public_isSaveOrNot">"Sənəddə etdiyiniz dəyişiklikləri saxlanılsın?"</string>
     <string name="public_jump_to_tips">Bura toxunun və keçid üçün səhifə nömrəsini daxil edin</string>
@@ -254,15 +254,15 @@
     <string name="public_pdf_print_converting">Çapa hazırlanır…</string>
     <string name="public_pdf_print_fail">"Sənəd çap edilə bilmədi"</string>
     <string name="public_pdf_print_title">Çap et</string>
-    <string name="public_permission_request">Sənədlərlə işləmək üçün Tənzimləmələrdəki tələb olunan icazələri verin.</string>
+    <string name="public_permission_request">Sənədlərlə işləyə bilmək üçün Ayarlarda tələb olunan icazələri verin.</string>
     <string name="public_permission_storage_disallow_msg">"İcazəni ləğv etdikdən sonra sənədlərlə işləyə bilməyəcəksiniz."</string>
-    <string name="public_play">Oynat</string>
+    <string name="public_play">Oxut</string>
     <string name="public_ppt_label">Mi Təqdimat Göstərici</string>
-    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və verilənlərinizi necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
+    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
     <string name="public_readOnlyMode">Yalnız oxunan</string>
-    <string name="public_recory_edit_not_save_tips">Sizin üçün saxlanılmamış məzmun artıq bərpa edildi.</string>
-    <string name="public_recory_open_file_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və indi bərpa edildi.</string>
+    <string name="public_recory_edit_not_save_tips">Saxlanılmamış məzmun artıq sizin üçün geri qaytarıldı.</string>
+    <string name="public_recory_open_file_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və indi geri qaytarıldı.</string>
     <string name="public_refuse_give_permission">Səlahiyyəti ləğv et</string>
     <string name="public_refuse_jurisdiction">Tələb olunan icazələr</string>
     <string name="public_replace">Əvəz et</string>
@@ -284,7 +284,7 @@
     <string name="public_secre_dialog_content_2" formatted="false">&lt;Data&gt;Şəxsi məlumatlarınızı &lt;a href=\"%s\"&gt;İstifadəçi Razılaşması&lt;/a &gt; və &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizə&lt;/a &gt; uyğun olaraq qoruyacağıq.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Çıx</string>
     <string name="public_secre_dialog_positive">Razıyam</string>
-    <string name="public_secre_dialog_tips_agree">İstifadəçi Razılaşması və Gizlilik Siyasətimizin şərtlərini və qaydalarını qəbul edirsinizsə, xidmətlərimizi istifadə etməyə başlamaq üçün \"Razıyam\"a toxunun.</string>
+    <string name="public_secre_dialog_tips_agree">İstifadəçi Razılaşması və Gizlilik Siyasətimizin şərtləri və qaydaları ilə razılaşırsınızsa, xidmətlərimizi istifadə etməyə başlamaq üçün \"Razıyam\"a toxunun.</string>
     <string name="public_secre_dialog_tips_small">Mi Doc Viewer-ə xoş gəldiniz (WPS tərəfindən təmin edilir)! Bu tətbiqi cihazınızdakı sənədlərə baxmaq üçün istifadə edə bilərsiniz.</string>
     <string name="public_secre_dialog_title">Gizlilik bəyanatı</string>
     <string name="public_selectAll">Hamısını seç</string>
@@ -312,12 +312,12 @@
     <string name="public_undo">Geri al</string>
     <string name="public_unsave">Ləğv et</string>
     <string name="public_warnedit_dialog_title_text">Məsləhətlər</string>
-    <string name="public_wpscloud_recovery_edit_not_exist_tips">Sənəd digər tətbiqlər tərəfindən silindi və WPS Cloud Docs tərəfindən bərpa edildi.</string>
-    <string name="public_wpscloud_recovery_edit_not_save_tips">"Son düzəliş edilmiş məzmun saxlanılmadı və WPS Cloud Docs tərəfindən bərpa edildi."</string>
+    <string name="public_wpscloud_recovery_edit_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və WPS Cloud Docs tərəfindən geri qaytarıldı.</string>
+    <string name="public_wpscloud_recovery_edit_not_save_tips">"Son düzəliş edilmiş məzmun saxlanılmadı və WPS Cloud Docs tərəfindən geri qaytarıldı."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Sənədi güvənli şəkildə saxlayın</string>
     <string name="public_writer_label">Mi Text Viewer</string>
     <string name="public_writer_ui_delete">Sil</string>
-    <string name="reader_ppt_autoplay">avto-oynatma</string>
+    <string name="reader_ppt_autoplay">avto-oxutma</string>
     <string name="reader_ppt_play_exit">çıx</string>
     <string name="reader_ppt_play_options">Seçimlər</string>
     <string name="reader_ppt_slide_list_new">Daxil et</string>
@@ -341,7 +341,7 @@
     <string name="writer_characters">Simvollar (boşluqsuz)</string>
     <string name="writer_characters_with_spaces">Simvollar (boşluqla)</string>
     <string name="writer_comment_modify_username_tip">Adınızı daxil etdikdən sonra rəylərdə və təftişlərdə göstəriləcəkdir.</string>
-    <string name="writer_count_include_textboxes_footnotes_and_endnotes">Mətn qutuları, alt qeydlər və son qeydləri ehtiva edir</string>
+    <string name="writer_count_include_textboxes_footnotes_and_endnotes">Mətn qutuları, alt notlar və son notlar daxildir</string>
     <string name="writer_count_words">Söz sayı</string>
     <string name="writer_edit_mode">Düzəliş rejimi</string>
     <string name="writer_end_note">Son qeyd</string>

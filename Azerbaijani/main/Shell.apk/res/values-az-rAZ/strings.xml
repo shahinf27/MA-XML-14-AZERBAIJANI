@@ -22,6 +22,6 @@
     <string name="bugreport_unnamed">adsız</string>
     <string name="bugreport_unreadable_text">Xəta hesabatı faylı oxuna bilmədi</string>
     <string name="bugreport_updating_title">Xəta hesabatına detallar əlavə edilir</string>
-    <string name="bugreport_updating_wait">Zəhmət olmasa gözləyin…</string>
+    <string name="bugreport_updating_wait">Lütfən gözləyin…</string>
     <string name="save">Saxla</string>
 </resources>
