@@ -9,7 +9,3 @@
 Çin mobil şirkəti Xiaomi əsasında Xiaomi.eu cəmiyyəti tərəfindən yaradılmış Android əsaslı əməliyyat sistemi olan MIUI-nin AZƏRBAYCANCA tərcüməsinin repozitoriyasına xoş gəlmisiniz.
 
 Tərcümə statusu: ![az-AZ translation](https://img.shields.io/badge/az--AZ-100%25-blue?logo=crowdin)
-
-# Tərcümə üzrə əməkdaşlıq üçün: https://crowdin.com/project/miui-xiaomieu
-
-## Daha ətraflı məlumat üçün:  [@deivids84](https://github.com/deivids84) və ya [@shahinf27](https://github.com/shahinf27)
